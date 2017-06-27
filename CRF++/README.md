@@ -5,8 +5,8 @@ University of Trento - *Language Understanding Systems Course* - Pierfrancesco A
 
 ### Folders Description
 
-#### /data
- Into this folder I put all the train-sets that I've used during this project.  For more details take a look at the report.
+#### /results
+ Into this folder there are the result of the testing phase
 
 #### /evaluation
 

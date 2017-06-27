@@ -6,6 +6,27 @@ Based on the papers:
 
 [Grégoire Mesnil, Yann Dauphin, Kaisheng Yao, Yoshua Bengio, Li Deng, Dilek Hakkani-Tur, Xiaodong He, Larry Heck, Gokhan Tur, Dong Yu and Geoffrey Zweig - **Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding**](http://www.iro.umontreal.ca/~lisa/pointeurs/taslp_RNNSLU_final_doubleColumn.pdf)
 
+
+## File structure
+
+#### /data
+ Into this folder there are all the training sets, the testing sets, the validation sets and the lexicon  used during the training and the testing phase.
+
+In this folder there are the script used to generate all the file.
+
+generator_file.py generate the training set, validation set and the lexicons taking as input the number of sentences to be used into the validation set.
+
+
+generator_file_lp.py generate the training set, validation set, testing set and the lexicons concatenating the Lemma feature with the Pos feature.
+
+
+generator_file_wp.py generate the training set, validation set, testing set and the lexicons concatenating the Word feature with the Pos feature.
+
+generator_file_wpl.py generate the training set, validation set, testing set and the lexicons concatenating the Word feature with the Lemma and Pos features.
+
+
+generator_file_enhanced.py generate the training set, validation set, testing set and the lexicons changing the O concept with the word associated to it.
+
 ## Code
 
 This code allows to get state-of-the-art results and a significant improvement
