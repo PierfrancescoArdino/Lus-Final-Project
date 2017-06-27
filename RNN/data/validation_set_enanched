@@ -1,0 +1,2253 @@
+will	B-person.name
+ferrell	I-person.name
+tidbits	$-tidbits
+
+when	$-when
+is	$-is
+iron	B-movie.name
+man	I-movie.name
+3	I-movie.name
+coming	$-coming
+out	$-out
+
+find	$-find
+detective	B-movie.subject
+movies	$-movies
+rated	$-rated
+r	B-rating.name
+
+list	$-list
+movies	$-movies
+released	$-released
+in	$-in
+italy	B-movie.release_region
+in	$-in
+2012	B-movie.release_date
+
+movies	$-movies
+in	$-in
+french	B-movie.language
+
+give	$-give
+me	$-me
+the	$-the
+name	$-name
+of	$-of
+the	B-character.name
+mom	I-character.name
+on	$-on
+seinfeld	B-movie.name
+
+what	$-what
+movie	$-movie
+brad	B-actor.name
+pitt	I-actor.name
+in	$-in
+
+what	$-what
+are	$-are
+the	$-the
+ratings	$-ratings
+for	$-for
+movies	$-movies
+
+tell	$-tell
+me	$-me
+about	$-about
+the	$-the
+revenue	$-revenue
+generated	$-generated
+by	$-by
+the	$-the
+movie	$-movie
+avatar	B-movie.name
+
+when	$-when
+was	$-was
+paranorman	B-movie.name
+be	$-be
+released	$-released
+
+who	$-who
+produced	$-produced
+the	$-the
+theatrical	$-theatrical
+film	$-film
+the	B-movie.name
+devil	I-movie.name
+wears	I-movie.name
+prada	I-movie.name
+
+show	$-show
+nc	B-rating.name
+seventeen	B-rating.name
+movies	$-movies
+for	$-for
+twenty	B-movie.release_date
+eleven	I-movie.release_date
+
+i	$-i
+want	$-want
+to	$-to
+see	$-see
+infomation	$-infomation
+on	$-on
+the	$-the
+movie	$-movie
+dirty	B-movie.name
+dancing	I-movie.name
+
+find	$-find
+movies	$-movies
+rated	$-rated
+pg	B-rating.name
+
+movies	$-movies
+in	$-in
+dutch	B-movie.language
+
+movies	$-movies
+about	$-about
+nature	B-movie.subject
+
+movies	$-movies
+that	$-that
+have	$-have
+comedy	B-movie.genre
+
+how	$-how
+much	$-much
+did	$-did
+titanic	B-movie.name
+cost	$-cost
+to	$-to
+make	$-make
+
+movies	$-movies
+from	$-from
+the	B-country.name
+us	I-country.name
+
+find	$-find
+a	$-a
+movie	$-movie
+about	$-about
+apartheid	B-movie.subject
+
+show	$-show
+me	$-me
+movies	$-movies
+starring	$-starring
+denzel	B-actor.name
+washington	I-actor.name
+
+please	$-please
+show	$-show
+me	$-me
+information	$-information
+on	$-on
+will	B-person.name
+ferrell	I-person.name
+
+show	$-show
+me	$-me
+scifi	B-movie.genre
+fantasy	B-movie.genre
+movies	$-movies
+
+what	$-what
+are	$-are
+the	$-the
+films	$-films
+that	$-that
+warner	B-producer.name
+bros.	I-producer.name
+produced	$-produced
+
+about	$-about
+finding	B-movie.name
+nemo	I-movie.name
+
+show	$-show
+me	$-me
+movies	$-movies
+in	$-in
+swedish	B-movie.language
+
+find	$-find
+movies	$-movies
+directed	$-directed
+by	$-by
+steven	B-director.name
+spielberg	I-director.name
+
+give	$-give
+me	$-me
+a	$-a
+list	$-list
+of	$-of
+movies	$-movies
+that	$-that
+george	B-producer.name
+lucas	I-producer.name
+produced	$-produced
+
+open	$-open
+page	$-page
+for	$-for
+finding	B-movie.name
+nemo	I-movie.name
+
+is	$-is
+hotel	B-movie.name
+transylavania	I-movie.name
+good	$-good
+for	$-for
+adults	$-adults
+
+movies	$-movies
+from	$-from
+spain	B-country.name
+
+show	$-show
+me	$-me
+r	B-rating.name
+rated	$-rated
+movies	$-movies
+
+search	$-search
+for	$-for
+movies	$-movies
+starring	$-starring
+the	$-the
+singer	B-actor.type
+mario	B-actor.name
+
+who	$-who
+starred	$-starred
+in	$-in
+the	B-movie.name
+parent	I-movie.name
+trap	I-movie.name
+
+is	$-is
+finding	B-movie.name
+nemo	I-movie.name
+available	$-available
+on	$-on
+netflix	$-netflix
+
+how	$-how
+much	$-much
+did	$-did
+dark	B-movie.name
+night	I-movie.name
+make	$-make
+at	$-at
+the	$-the
+box	$-box
+office	$-office
+
+who	$-who
+were	$-were
+the	$-the
+cast	$-cast
+members	$-members
+in	$-in
+the	B-movie.name
+hobbist	I-movie.name
+
+give	$-give
+me	$-me
+a	$-a
+list	$-list
+of	$-of
+movies	$-movies
+that	$-that
+discuss	$-discuss
+healthy	B-movie.subject
+eating	I-movie.subject
+
+who	$-who
+produced	$-produced
+the	$-the
+motion	$-motion
+picture	$-picture
+the	B-movie.name
+devil	I-movie.name
+wears	I-movie.name
+prada	I-movie.name
+
+who	$-who
+produced	$-produced
+the	$-the
+movie	$-movie
+twilight	B-movie.name
+
+show	$-show
+me	$-me
+movies	$-movies
+produced	$-produced
+by	$-by
+stephen	B-producer.name
+spielberg	I-producer.name
+
+find	$-find
+me	$-me
+trailers	$-trailers
+for	$-for
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+show	$-show
+me	$-me
+english	B-movie.language
+movies	$-movies
+
+find	$-find
+movies	$-movies
+produced	$-produced
+by	$-by
+albert	B-producer.name
+ruddy	I-producer.name
+
+what	$-what
+was	$-was
+the	$-the
+budget	$-budget
+for	$-for
+jurassic	B-movie.name
+park	I-movie.name
+
+box	$-box
+office	$-office
+total	$-total
+terminator	B-movie.name
+2	I-movie.name
+
+show	$-show
+information	$-information
+in	$-in
+arabic	B-movie.language
+
+who	$-who
+directed	$-directed
+the	$-the
+movie	$-movie
+titanic	B-movie.name
+
+which	$-which
+movies	$-movies
+are	$-are
+rated	$-rated
+pg-13	B-rating.name
+
+please	$-please
+find	$-find
+the	$-the
+release	$-release
+date	$-date
+of	$-of
+heroine	B-movie.name
+
+list	$-list
+of	$-of
+all	$-all
+dutch	B-country.name
+movies	$-movies
+
+what	$-what
+s	$-s
+the	$-the
+language	$-language
+of	$-of
+moscow	B-movie.name
+does	I-movie.name
+not	I-movie.name
+believe	I-movie.name
+in	I-movie.name
+tears	I-movie.name
+
+who	$-who
+'s	$-'s
+the	$-the
+producer	$-producer
+
+is	$-is
+this	$-this
+movie	$-movie
+scary	B-movie.genre
+
+i	$-i
+want	$-want
+to	$-to
+know	$-know
+when	$-when
+24	B-movie.name
+will	$-will
+be	$-be
+released	$-released
+
+find	$-find
+the	$-the
+producer	$-producer
+of	$-of
+gone	B-movie.name
+with	I-movie.name
+the	I-movie.name
+wind	I-movie.name
+
+show	$-show
+me	$-me
+information	$-information
+on	$-on
+tom	B-person.name
+hanks	I-person.name
+
+house	$-house
+on	$-on
+mend	$-mend
+street	$-street
+
+how	$-how
+much	$-much
+did	$-did
+the	$-the
+studio	$-studio
+spend	$-spend
+to	$-to
+make	$-make
+avatar	B-movie.name
+
+who	$-who
+stars	$-stars
+on	$-on
+the	$-the
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+what	$-what
+is	$-is
+the	$-the
+worst	$-worst
+french	B-country.name
+film	$-film
+to	$-to
+date	$-date
+
+who	$-who
+directed	$-directed
+to	B-movie.name
+kill	I-movie.name
+a	I-movie.name
+mockingbird	I-movie.name
+
+what	$-what
+language	$-language
+is	$-is
+the	$-the
+movie	$-movie
+elling	B-movie.name
+in	$-in
+
+what	$-what
+movies	$-movies
+did	$-did
+michael	B-director.name
+bay	I-director.name
+direct	$-direct
+
+what	$-what
+genre	$-genre
+is	$-is
+looper	B-movie.name
+
+i	$-i
+would	$-would
+like	$-like
+to	$-to
+get	$-get
+names	$-names
+of	$-of
+some	$-some
+movies	$-movies
+with	$-with
+pg	B-rating.name
+thirteen	I-rating.name
+rating	$-rating
+
+where	$-where
+can	$-can
+i	$-i
+find	$-find
+a	$-a
+list	$-list
+of	$-of
+movies	$-movies
+released	$-released
+nine	B-movie.release_date
+fourteen	I-movie.release_date
+twenty	I-movie.release_date
+twelve	I-movie.release_date
+
+unique	$-unique
+cars	$-cars
+
+get	$-get
+me	$-me
+the	$-the
+name	$-name
+of	$-of
+the	$-the
+actor	$-actor
+what	$-what
+was	$-was
+the	B-character.name
+dad	I-character.name
+in	$-in
+to	B-movie.name
+kill	I-movie.name
+a	I-movie.name
+mockingbird	I-movie.name
+
+list	$-list
+movies	$-movies
+filmed	$-filmed
+on	$-on
+france	B-movie.subject
+
+italian	B-country.name
+movies	$-movies
+
+what	$-what
+does	$-does
+a	$-a
+movie	$-movie
+have	$-have
+if	$-if
+it	$-it
+is	$-is
+rated	$-rated
+r	B-rating.name
+
+can	$-can
+you	$-you
+please	$-please
+make	$-make
+a	$-a
+list	$-list
+of	$-of
+all	$-all
+movies	$-movies
+brad	B-director.name
+pitt	I-director.name
+directed	$-directed
+
+about	$-about
+movie	$-movie
+in	B-movie.name
+july	I-movie.name
+
+detail	$-detail
+finding	B-movie.name
+nemo	I-movie.name
+
+how	$-how
+much	$-much
+money	$-money
+was	$-was
+spent	$-spent
+on	$-on
+batman	B-movie.name
+
+who	$-who
+produced	$-produced
+spaceballs	B-movie.name
+
+movies	$-movies
+with	$-with
+sandra	B-actor.name
+bullock	I-actor.name
+
+i	$-i
+want	$-want
+to	$-to
+find	$-find
+movies	$-movies
+directed	$-directed
+by	$-by
+stephen	B-director.name
+speilberg	I-director.name
+
+what	$-what
+video	$-video
+clips	$-clips
+have	$-have
+will	B-actor.name
+ferrell	I-actor.name
+
+who	$-who
+was	$-was
+the	$-the
+sheriff	B-character.name
+that	I-character.name
+had	I-character.name
+to	I-character.name
+kill	I-character.name
+the	I-character.name
+bad	I-character.name
+guy	I-character.name
+in	$-in
+high	B-movie.name
+noon	I-movie.name
+
+what	$-what
+is	$-is
+the	$-the
+name	$-name
+of	$-of
+the	$-the
+actor	$-actor
+who	$-who
+was	$-was
+in	$-in
+the	B-movie.name
+parent	I-movie.name
+trap	I-movie.name
+
+search	$-search
+by	$-by
+box-office	$-box-office
+rating	$-rating
+
+lion	B-movie.name
+king	I-movie.name
+release	$-release
+yr	$-yr
+
+pretty	B-movie.name
+girl	I-movie.name
+movie	$-movie
+genre	$-genre
+
+give	$-give
+me	$-me
+some	$-some
+names	$-names
+of	$-of
+japanese	B-country.name
+movies	$-movies
+
+i	$-i
+need	$-need
+information	$-information
+about	$-about
+the	$-the
+cast	$-cast
+reviews	$-reviews
+story	$-story
+etc	$-etc
+in	$-in
+detail	$-detail
+about	$-about
+the	$-the
+movie	$-movie
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+search	$-search
+for	$-for
+steven	B-person.name
+spielberg	I-person.name
+
+find	$-find
+all	$-all
+new	$-new
+releases	$-releases
+that	$-that
+are	$-are
+rated	$-rated
+g	B-rating.name
+
+reviews	$-reviews
+for	$-for
+dirty	B-movie.name
+dancing	I-movie.name
+
+he	$-he
+gets	$-gets
+a	$-a
+job	$-job
+in	$-in
+a	$-a
+big	$-big
+city	$-city
+
+why	$-why
+is	$-is
+this	$-this
+movie	$-movie
+rated	$-rated
+r	B-rating.name
+
+who	$-who
+is	$-is
+the	$-the
+producer	$-producer
+of	$-of
+avatar	B-movie.name
+
+what	$-what
+are	$-are
+the	$-the
+top	$-top
+rated	$-rated
+movies	$-movies
+this	B-movie.release_date
+year	I-movie.release_date
+
+which	$-which
+movies	$-movies
+are	$-are
+family	B-rating.name
+friendly	I-rating.name
+
+cast	$-cast
+and	$-and
+crew	$-crew
+for	$-for
+apollo	B-movie.name
+thirteen	I-movie.name
+
+in	$-in
+the	$-the
+movie	$-movie
+ants	B-movie.name
+who	$-who
+is	$-is
+the	$-the
+producer	$-producer
+
+what	$-what
+awards	$-awards
+did	$-did
+this	$-this
+film	$-film
+receive	$-receive
+
+who	$-who
+produced	$-produced
+cars	B-movie.name
+
+what	$-what
+movies	$-movies
+have	$-have
+kristen	B-actor.name
+stewart	I-actor.name
+done	$-done
+
+who	$-who
+directed	$-directed
+the	B-movie.name
+sound	I-movie.name
+of	I-movie.name
+music	I-movie.name
+
+movies	$-movies
+from	$-from
+italy	B-country.name
+
+display	$-display
+all	$-all
+results	$-results
+for	$-for
+dirty	B-movie.name
+dancing	I-movie.name
+
+what	$-what
+type	$-type
+of	$-of
+movie	$-movie
+is	$-is
+gilda	B-movie.name
+
+how	$-how
+much	$-much
+was	$-was
+generated	$-generated
+from	$-from
+the	$-the
+movie	$-movie
+the	B-movie.name
+help	I-movie.name
+
+which	$-which
+movie	$-movie
+was	$-was
+produced	$-produced
+by	$-by
+albert	B-producer.name
+rudy	I-producer.name
+
+cast	$-cast
+of	$-of
+dirty	B-movie.name
+dancing	I-movie.name
+
+i	$-i
+want	$-want
+to	$-to
+look	$-look
+for	$-for
+the	$-the
+director	$-director
+of	$-of
+freedom	B-movie.name
+writers	I-movie.name
+
+can	$-can
+you	$-you
+give	$-give
+me	$-me
+names	$-names
+of	$-of
+some	$-some
+movies	$-movies
+having	$-having
+pg	B-rating.name
+thirteen	I-rating.name
+rating	$-rating
+
+need	$-need
+to	$-to
+provide	$-provide
+more	$-more
+info	$-info
+about	$-about
+the	$-the
+movie	$-movie
+content	$-content
+
+how	$-how
+much	$-much
+was	$-was
+it	$-it
+to	$-to
+make	$-make
+the	$-the
+film	$-film
+batman	B-movie.name
+begins	I-movie.name
+
+locate	$-locate
+all	$-all
+movies	$-movies
+produced	$-produced
+by	$-by
+george	B-producer.name
+lucas	I-producer.name
+
+i	$-i
+want	$-want
+to	$-to
+find	$-find
+more	$-more
+movies	$-movies
+like	$-like
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+when	$-when
+was	$-was
+avatar	B-movie.name
+released	$-released
+
+find	$-find
+cast	$-cast
+and	$-and
+crew	$-crew
+for	$-for
+dirty	B-movie.name
+dancing	I-movie.name
+
+how	$-how
+expensive	$-expensive
+was	$-was
+it	$-it
+to	$-to
+make	$-make
+looper	B-movie.name
+
+what	$-what
+does	$-does
+the	$-the
+flag	$-flag
+of	$-of
+japan	B-country.name
+look	$-look
+like	$-like
+
+what	$-what
+are	$-are
+the	$-the
+logos	$-logos
+for	$-for
+popular	$-popular
+production	$-production
+companies	$-companies
+
+show	$-show
+me	$-me
+high	$-high
+grossing	$-grossing
+movies	$-movies
+
+what	$-what
+audience	$-audience
+will	$-will
+watch	$-watch
+black	B-movie.name
+swan	I-movie.name
+
+who	$-who
+produced	$-produced
+avatar	B-movie.name
+
+show	$-show
+me	$-me
+the	$-the
+film	$-film
+rating	$-rating
+for	$-for
+avengers	I-movie.name
+
+when	$-when
+the	$-the
+movie	$-movie
+top	B-movie.name
+gun	I-movie.name
+was	$-was
+released	$-released
+
+what	$-what
+are	$-are
+the	$-the
+reviews	$-reviews
+for	$-for
+finding	B-movie.name
+nemo	I-movie.name
+
+can	$-can
+i	$-i
+have	$-have
+a	$-a
+list	$-list
+of	$-of
+producers	$-producers
+
+what	$-what
+movies	$-movies
+discuss	$-discuss
+time	B-movie.subject
+travel	I-movie.subject
+
+get	$-get
+list	$-list
+of	$-of
+zombie	B-movie.subject
+movies	$-movies
+
+kareena	B-actor.name
+'s	$-'s
+movies	$-movies
+
+who	$-who
+is	$-is
+will	B-person.name
+ferrell	I-person.name
+
+what	$-what
+films	$-films
+has	$-has
+robert	B-director.name
+redford	I-director.name
+directed	$-directed
+
+what	$-what
+was	$-was
+men	B-movie.name
+in	I-movie.name
+black	I-movie.name
+3	I-movie.name
+'s	$-'s
+revenue	$-revenue
+
+i	$-i
+'m	$-'m
+looking	$-looking
+for	$-for
+a	$-a
+map	$-map
+of	$-of
+britain	B-country.name
+
+search	$-search
+by	$-by
+producer	$-producer
+
+what	$-what
+is	$-is
+the	$-the
+plot	$-plot
+of	$-of
+vulgaria	B-movie.name
+
+who	$-who
+made	$-made
+et	B-movie.name
+
+how	$-how
+many	$-many
+movies	$-movies
+has	$-has
+woody	B-director.name
+allen	I-director.name
+directed	$-directed
+
+can	$-can
+you	$-you
+get	$-get
+me	$-me
+a	$-a
+pg	B-rating.name
+movie	$-movie
+list	$-list
+
+what	$-what
+new	$-new
+movies	$-movies
+does	$-does
+lionsgate	B-producer.name
+have	$-have
+out	$-out
+
+albery	$-albery
+death	$-death
+yr	$-yr
+
+movies	$-movies
+coming	$-coming
+to	$-to
+theatres	$-theatres
+soon	$-soon
+
+what	$-what
+'s	$-'s
+the	$-the
+synopsis	$-synopsis
+of	$-of
+life	B-movie.name
+is	I-movie.name
+beatiful	$-beatiful
+
+search	$-search
+for	$-for
+the	$-the
+name	$-name
+of	$-of
+the	$-the
+director	$-director
+of	$-of
+return	B-movie.name
+
+get	$-get
+me	$-me
+info	$-info
+on	$-on
+the	$-the
+budget	$-budget
+for	$-for
+avatar	B-movie.name
+
+show	$-show
+me	$-me
+some	$-some
+war	B-movie.subject
+themed	$-themed
+movies	$-movies
+
+show	$-show
+page	$-page
+for	$-for
+moview	$-moview
+
+who	$-who
+directed	$-directed
+star	B-movie.name
+wars	I-movie.name
+
+who	$-who
+filmed	$-filmed
+the	B-movie.name
+dark	I-movie.name
+knight	I-movie.name
+
+please	$-please
+show	$-show
+me	$-me
+who	$-who
+produces	$-produces
+madagascar	B-movie.name
+
+exhibit	$-exhibit
+all	$-all
+relevant	$-relevant
+information	$-information
+about	$-about
+the	$-the
+director	$-director
+steven	B-person.name
+spielberg	I-person.name
+
+who	$-who
+was	$-was
+the	$-the
+female	$-female
+lead	$-lead
+in	$-in
+resident	B-movie.name
+evil	I-movie.name
+
+find	$-find
+sandra	B-actor.name
+bullock	I-actor.name
+'s	$-'s
+latest	$-latest
+movie	$-movie
+
+brad	B-actor.name
+pitt	I-actor.name
+popular	$-popular
+movies	$-movies
+
+dark	B-movie.name
+knight	I-movie.name
+revenue	$-revenue
+
+get	$-get
+hungarian	B-country.name
+films	$-films
+
+movies	$-movies
+with	$-with
+pg	B-rating.name
+rating	$-rating
+
+show	$-show
+me	$-me
+the	$-the
+latest	$-latest
+movies	$-movies
+in	$-in
+malayalam	B-movie.language
+
+who	$-who
+starred	$-starred
+in	$-in
+three	B-movie.name
+'s	I-movie.name
+company	I-movie.name
+
+preview	$-preview
+paramount	B-producer.name
+pictures	I-producer.name
+clips	$-clips
+
+can	$-can
+you	$-you
+tell	$-tell
+me	$-me
+what	$-what
+genre	$-genre
+the	$-the
+movie	$-movie
+avatar	B-movie.name
+falls	$-falls
+in	$-in
+
+show	$-show
+me	$-me
+more	$-more
+details	$-details
+for	$-for
+the	$-the
+movie	$-movie
+dirty	B-movie.name
+dancing	I-movie.name
+
+what	$-what
+date	$-date
+does	$-does
+omg	B-movie.name
+oh	I-movie.name
+my	I-movie.name
+god	I-movie.name
+!	I-movie.name
+come	$-come
+out	$-out
+
+find	$-find
+release	$-release
+date	$-date
+for	$-for
+karate	B-movie.name
+kid	I-movie.name
+
+want	$-want
+page	$-page
+
+i	$-i
+would	$-would
+like	$-like
+a	$-a
+list	$-list
+of	$-of
+paramount	B-producer.name
+movies	$-movies
+
+where	$-where
+is	$-is
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+playing	$-playing
+
+i	$-i
+want	$-want
+to	$-to
+see	$-see
+more	$-more
+movies	$-movies
+with	$-with
+katie	B-actor.name
+holmes	I-actor.name
+
+what	$-what
+has	$-has
+will	B-actor.name
+ferrell	I-actor.name
+done	$-done
+
+show	$-show
+me	$-me
+movies	$-movies
+in	$-in
+english	B-movie.language
+
+director	$-director
+of	$-of
+the	$-the
+movie	$-movie
+hum	B-movie.name
+tum	I-movie.name
+
+when	$-when
+did	$-did
+harry	B-movie.name
+potter	I-movie.name
+come	$-come
+out	$-out
+
+list	$-list
+tom	B-actor.name
+hanks	I-actor.name
+movies	$-movies
+for	$-for
+me	$-me
+
+who	$-who
+is	$-is
+in	$-in
+the	$-the
+movie	$-movie
+two	B-movie.name
+can	I-movie.name
+play	I-movie.name
+that	I-movie.name
+game	I-movie.name
+
+what	$-what
+is	$-is
+the	$-the
+genre	$-genre
+for	$-for
+movie	$-movie
+
+who	$-who
+produced	$-produced
+the	$-the
+movie	$-movie
+
+show	$-show
+me	$-me
+who	$-who
+directed	$-directed
+cabin	B-movie.name
+in	I-movie.name
+the	I-movie.name
+woods	I-movie.name
+
+bald	$-bald
+male	$-male
+actors	$-actors
+
+find	$-find
+the	$-the
+director	$-director
+of	$-of
+step	B-movie.name
+up	I-movie.name
+
+who	$-who
+made	$-made
+the	$-the
+movie	$-movie
+field	B-movie.name
+of	I-movie.name
+dreams	I-movie.name
+possible	$-possible
+
+what	$-what
+upcoming	B-movie.release_date
+movies	$-movies
+are	$-are
+they	$-they
+producing	$-producing
+
+funny	$-funny
+scary	B-movie.genre
+movies	$-movies
+
+how	$-how
+can	$-can
+i	$-i
+view	$-view
+dirty	B-movie.name
+dancing	I-movie.name
+
+search	$-search
+movies	$-movies
+in	$-in
+which	$-which
+halle	B-actor.name
+berry	I-actor.name
+acted	$-acted
+
+show	$-show
+me	$-me
+movies	$-movies
+with	$-with
+a	$-a
+four	B-movie.star_rating
+star	$-star
+rating	$-rating
+
+show	$-show
+me	$-me
+hathaway	B-actor.name
+'s	$-'s
+recent	$-recent
+movies	$-movies
+
+i	$-i
+need	$-need
+to	$-to
+know	$-know
+where	$-where
+trainspotting	B-movie.name
+comes	$-comes
+from	$-from
+
+show	$-show
+brad	B-actor.name
+pitt	I-actor.name
+movies	$-movies
+with	$-with
+angelina	B-actor.name
+jolie	I-actor.name
+as	$-as
+actress	$-actress
+
+i	$-i
+'d	$-'d
+like	$-like
+to	$-to
+see	$-see
+the	$-the
+film	$-film
+that	$-that
+made	$-made
+over	B-movie.gross_revenue
+twenty	I-movie.gross_revenue
+million	I-movie.gross_revenue
+dollars	I-movie.gross_revenue
+
+movie	$-movie
+made	$-made
+
+how	$-how
+many	$-many
+movies	$-movies
+did	$-did
+scorsese	B-director.name
+direct	$-direct
+
+the	$-the
+movie	$-movie
+gilda	B-movie.name
+director	$-director
+
+list	$-list
+movie	$-movie
+ratings	$-ratings
+for	$-for
+us	B-country.name
+movie	$-movie
+looper	B-movie.name
+
+please	$-please
+tell	$-tell
+me	$-me
+about	$-about
+movies	$-movies
+from	$-from
+the	B-country.name
+usa	I-country.name
+
+what	$-what
+movies	$-movies
+are	$-are
+filmed	$-filmed
+about	$-about
+asia	B-movie.subject
+
+movies	$-movies
+from	$-from
+russia	B-country.name
+
+if	$-if
+you	$-you
+werent	$-werent
+the	$-the
+director	$-director
+
+i	$-i
+want	$-want
+to	$-to
+watch	$-watch
+movies	$-movies
+with	$-with
+brad	B-actor.name
+pitt	I-actor.name
+
+get	$-get
+me	$-me
+star	B-movie.name
+wars	I-movie.name
+director	$-director
+
+how	$-how
+much	$-much
+money	$-money
+did	$-did
+end	B-movie.name
+of	I-movie.name
+watch	I-movie.name
+make	$-make
+in	$-in
+theaters	$-theaters
+
+when	$-when
+was	$-was
+black	B-movie.name
+swan	I-movie.name
+in	$-in
+the	$-the
+theatre	$-theatre
+
+genre	$-genre
+for	$-for
+while	B-movie.name
+you	I-movie.name
+were	I-movie.name
+sleeping	I-movie.name
+
+what	$-what
+is	$-is
+the	$-the
+realase	$-realase
+date	$-date
+for	$-for
+harry	B-movie.name
+potter	I-movie.name
+
+what	$-what
+movies	$-movies
+were	$-were
+released	$-released
+on	$-on
+nine	B-movie.release_date
+twenty	I-movie.release_date
+one	I-movie.release_date
+twelve	I-movie.release_date
+
+can	$-can
+you	$-you
+locate	$-locate
+movies	$-movies
+produced	$-produced
+by	$-by
+clint	B-producer.name
+eastwood	I-producer.name
+
+i	$-i
+'m	$-'m
+looking	$-looking
+for	$-for
+the	$-the
+cost	$-cost
+of	$-of
+some	$-some
+movies	$-movies
+
+find	$-find
+me	$-me
+movies	$-movies
+by	$-by
+jj	B-director.name
+abrams	I-director.name
+
+can	$-can
+you	$-you
+find	$-find
+me	$-me
+only	$-only
+movies	$-movies
+that	$-that
+grossed	$-grossed
+three	B-movie.gross_revenue
+million	I-movie.gross_revenue
+or	I-movie.gross_revenue
+more	I-movie.gross_revenue
+
+are	$-are
+there	$-there
+any	$-any
+movies	$-movies
+in	$-in
+greek	B-movie.language
+
+zombies	$-zombies
+info	$-info
+
+what	$-what
+were	$-were
+the	$-the
+box	$-box
+office	$-office
+sales	$-sales
+for	$-for
+looper	B-movie.name
+
+i	$-i
+am	$-am
+looking	$-looking
+for	$-for
+movies	$-movies
+directed	$-directed
+by	$-by
+tom	B-director.name
+hanks	I-director.name
+
+list	$-list
+release	$-release
+dates	$-dates
+for	$-for
+all	$-all
+horror	B-movie.genre
+movies	$-movies
+between	B-movie.release_date
+1995	I-movie.release_date
+and	I-movie.release_date
+2000	I-movie.release_date
+
+what	$-what
+genre	$-genre
+is	$-is
+the	$-the
+movie	$-movie
+lawless	B-movie.name
+
+what	$-what
+movies	$-movies
+did	$-did
+disney	B-producer.name
+produce	$-produce
+in	$-in
+1998	B-movie.release_date
+
+tom	B-actor.name
+hanks	I-actor.name
+movies	$-movies
+
+synopsis	$-synopsis
+for	$-for
+in	B-movie.name
+july	I-movie.name
+
+look	$-look
+for	$-for
+movies	$-movies
+produced	$-produced
+by	$-by
+morgan	B-producer.name
+freeman	I-producer.name
+
+did	$-did
+alfred	B-director.name
+hitchcock	I-director.name
+direct	$-direct
+a	$-a
+comedy	B-movie.genre
+
+i	$-i
+want	$-want
+to	$-to
+know	$-know
+who	$-who
+was	$-was
+the	$-the
+director	$-director
+of	$-of
+the	$-the
+movie	$-movie
+star	B-movie.name
+wars	I-movie.name
+
+what	$-what
+is	$-is
+the	$-the
+origin	$-origin
+country	$-country
+of	$-of
+mirror	B-movie.name
+
+director	$-director
+of	$-of
+the	B-movie.name
+avengers	I-movie.name
+
+who	$-who
+directed	$-directed
+finding	B-movie.name
+nemo	I-movie.name
+
+what	$-what
+does	$-does
+a	$-a
+r	B-rating.name
+rating	$-rating
+mean	$-mean
+
+which	$-which
+movies	$-movies
+does	$-does
+gabrielle	B-actor.name
+union	I-actor.name
+come	$-come
+out	$-out
+in	$-in
+
+i	$-i
+'m	$-'m
+looking	$-looking
+for	$-for
+a	$-a
+jason	B-director.name
+cortlund	I-director.name
+movie	$-movie
+
+i	$-i
+want	$-want
+to	$-to
+see	$-see
+g-rated	$-g-rated
+films	$-films
+now	$-now
+
+find	$-find
+movies	$-movies
+from	$-from
+canada	B-country.name
+
+are	$-are
+there	$-there
+any	$-any
+french	B-country.name
+films	$-films
+showing	$-showing
+
+who	$-who
+directed	$-directed
+star	B-movie.name
+wars	I-movie.name
+
+i	$-i
+want	$-want
+to	$-to
+know	$-know
+the	$-the
+avatar	B-movie.name
+'s	$-'s
+budget	$-budget
+
+what	$-what
+age	$-age
+is	$-is
+marley	B-movie.name
+and	I-movie.name
+me	I-movie.name
+appropriate	$-appropriate
+
+director	$-director
+of	$-of
+twilight	B-movie.name
+
+who	$-who
+are	$-are
+these	$-these
+directors	$-directors
+
+can	$-can
+you	$-you
+find	$-find
+the	$-the
+movies	$-movies
+with	$-with
+korean	B-movie.language
+language	I-movie.language
+
+list	$-list
+of	$-of
+movies	$-movies
+directed	$-directed
+by	$-by
+john	B-director.name
+paul	I-director.name
+
+who	$-who
+made	$-made
+the	$-the
+movie	$-movie
+avatar	B-movie.name
+
+what	$-what
+country	$-country
+is	$-is
+godzilla	B-movie.name
+
+find	$-find
+some	$-some
+suspenseful	B-movie.genre
+movies	$-movies
+
+find	$-find
+war	B-movie.subject
+movies	$-movies
+rated	$-rated
+r	B-rating.name
+
+how	$-how
+can	$-can
+a	$-a
+movie	$-movie
+be	$-be
+nr	B-rating.name
+
+what	$-what
+are	$-are
+some	$-some
+films	$-films
+will	B-actor.name
+ferrell	I-actor.name
+starred	$-starred
+in	$-in
+
+movie	$-movie
+type	$-type
+
+i	$-i
+want	$-want
+to	$-to
+search	$-search
+for	$-for
+alfred	B-director.name
+hitchcock	I-director.name
+movies	$-movies
+
+show	$-show
+movies	$-movies
+directed	$-directed
+by	$-by
+greenberg	B-director.name
+
+when	$-when
+was	$-was
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+released	$-released
+
+movies	$-movies
+rated	$-rated
+pg	B-rating.name
+
+search	$-search
+for	$-for
+movies	$-movies
+about	$-about
+hair	B-movie.subject
+
+what	$-what
+does	$-does
+stephen	B-person.name
+spielberg	I-person.name
+look	$-look
+like	$-like
+
+finding	B-movie.name
+nemo	I-movie.name
+details	$-details
+please	$-please
+
+find	$-find
+movies	$-movies
+by	$-by
+producer	$-producer
+
+how	$-how
+many	$-many
+movies	$-movies
+were	$-were
+released	$-released
+on	$-on
+nine	B-movie.release_date
+twenty	I-movie.release_date
+eight	I-movie.release_date
+twelve	I-movie.release_date
+
+find	$-find
+pirates	B-movie.name
+of	I-movie.name
+the	I-movie.name
+caribean	I-movie.name
+in	$-in
+french	B-movie.language
+
+who	$-who
+is	$-is
+listed	$-listed
+as	$-as
+producer	$-producer
+of	$-of
+grease	B-movie.name
+
+movies	$-movies
+from	$-from
+the	B-country.name
+us	I-country.name
+
+I	$-I
+'d	$-'d
+like	$-like
+a	$-a
+list	$-list
+of	$-of
+spanish	B-movie.language
+movies	$-movies
+
+can	$-can
+you	$-you
+please	$-please
+list	$-list
+all	$-all
+movies	$-movies
+with	$-with
+brad	B-actor.name
+pitt	I-actor.name
+
+can	$-can
+you	$-you
+tell	$-tell
+me	$-me
+which	$-which
+country	$-country
+the	$-the
+movie	$-movie
+kati	B-movie.name
+patang	I-movie.name
+comes	$-comes
+from	$-from
+
+movies	$-movies
+of	$-of
+karan	B-director.name
+johar	I-director.name
+
+show	$-show
+me	$-me
+the	$-the
+rating	$-rating
+for	$-for
+the	$-the
+movie	$-movie
+the	B-movie.name
+lord	I-movie.name
+of	I-movie.name
+rings	I-movie.name
+
+what	$-what
+does	$-does
+nr	B-rating.name
+stand	$-stand
+for	$-for
+
+will	B-actor.name
+ferrell	I-actor.name
+been	$-been
+in	$-in
+
+who	$-who
+was	$-was
+the	$-the
+producer	$-producer
+for	$-for
+the	$-the
+movie	$-movie
+hitch	B-movie.name
+
+do	$-do
+you	$-you
+have	$-have
+anything	$-anything
+by	$-by
+george	B-director.name
+cukor	I-director.name
+
+who	$-who
+played	$-played
+the	B-character.name
+mother	I-character.name
+in	$-in
+steel	B-movie.name
+magnolias	I-movie.name
+
+find	$-find
+french	B-movie.language
+language	I-movie.language
+movies	$-movies
+
+i	$-i
+am	$-am
+interested	$-interested
+in	$-in
+finding	$-finding
+out	$-out
+the	$-the
+budget	$-budget
+for	$-for
+cabin	I-movie.name
+in	I-movie.name
+the	I-movie.name
+woods	I-movie.name
+
+find	$-find
+historical	B-movie.genre
+movies	$-movies
+
+healing	$-healing
+plants	$-plants
+
+who	$-who
+played	$-played
+guido	B-character.name
+in	$-in
+life	B-movie.name
+is	I-movie.name
+beautiful	I-movie.name
+
+how	$-how
+much	$-much
+did	$-did
+it	$-it
+cost	$-cost
+to	$-to
+make	$-make
+jurassic	B-movie.name
+park	I-movie.name
+
+rocky	B-movie.name
+2	$-2
+actor	$-actor
+
+show	$-show
+me	$-me
+flags	$-flags
+of	$-of
+the	$-the
+world	$-world
+
+what	$-what
+country	$-country
+produced	$-produced
+the	$-the
+movie	$-movie
+mirror	B-movie.name
+
+watch	$-watch
+tom	B-actor.name
+hanks	I-actor.name
+
+i	$-i
+am	$-am
+interested	$-interested
+in	$-in
+the	$-the
+genre	$-genre
+for	$-for
+1000	B-movie.name
+words	I-movie.name
+
+can	$-can
+you	$-you
+please	$-please
+search	$-search
+for	$-for
+movies	$-movies
+by	$-by
+steven	B-director.name
+spielberg	I-director.name
+
+who	$-who
+directed	$-directed
+soul	B-movie.name
+surfer	I-movie.name
+
+when	$-when
+will	$-will
+paranormal	B-movie.name
+activity	I-movie.name
+be	$-be
+released	$-released
+
+show	$-show
+all	$-all
+brad	B-actor.name
+pitt	I-actor.name
+movies	$-movies
+
+show	$-show
+me	$-me
+all	$-all
+movies	$-movies
+tom	B-actor.name
+cruise	I-actor.name
+has	$-has
+been	$-been
+in	$-in
+
+find	$-find
+dreamworks	B-producer.name
+movies	$-movies
+from	$-from
+twenty	B-movie.release_date
+ten	I-movie.release_date
+
+can	$-can
+you	$-you
+tell	$-tell
+me	$-me
+which	$-which
+country	$-country
+does	$-does
+thoda	B-movie.name
+pyaar	I-movie.name
+thoda	I-movie.name
+magic	I-movie.name
+belongs	$-belongs
+to	$-to
+
+lionsgate	B-producer.name
+films	$-films
+
+r	B-rating.name
+info	$-info
+
+find	$-find
+me	$-me
+tamil	B-movie.language
+movies	$-movies
+
+reviews	$-reviews
+of	$-of
+star	B-movie.name
+wars	I-movie.name
+four	I-movie.name
+
+get	$-get
+movie	$-movie
+information	$-information
+for	$-for
+lionsgate	B-producer.name
+
+show	$-show
+me	$-me
+the	$-the
+name	$-name
+of	$-of
+the	$-the
+producer	$-producer
+of	$-of
+the	$-the
+movie	$-movie
+avatar	B-movie.name
+
+search	$-search
+for	$-for
+the	$-the
+budget	$-budget
+of	$-of
+return	B-movie.name
+
+what	$-what
+movies	$-movies
+where	$-where
+released	$-released
+in	$-in
+aug	B-movie.release_date
+of	I-movie.release_date
+twenty	I-movie.release_date
+eleven	I-movie.release_date
+
+what	$-what
+character	$-character
+did	$-did
+tom	B-actor.name
+hanks	I-actor.name
+play	$-play
+in	$-in
+apollo	B-movie.name
+thirteen	I-movie.name
+
+see	$-see
+images	$-images
+of	$-of
+steven	B-person.name
+spielberg	I-person.name
+
+search	$-search
+for	$-for
+eighties	B-movie.release_date
+movies	$-movies
+
+what	$-what
+zombie	B-movie.subject
+movies	$-movies
+are	$-are
+scheduled	$-scheduled
+for	$-for
+release	$-release
+in	$-in
+twenty	B-movie.release_date
+thirteen	I-movie.release_date
+
+find	$-find
+ron	B-director.name
+howard	I-director.name
+new	$-new
+movie	$-movie
+
+cast	$-cast
+and	$-and
+crew	$-crew
+for	$-for
+house	B-movie.name
+at	I-movie.name
+the	I-movie.name
+end	I-movie.name
+of	I-movie.name
+the	I-movie.name
+street	I-movie.name
+
+what	$-what
+other	$-other
+movies	$-movies
+die	$-die
+charles	B-director.name
+vidor	I-director.name
+direct	$-direct
+
+search	$-search
+for	$-for
+the	$-the
+cast	$-cast
+and	$-and
+crew	$-crew
+for	$-for
+the	$-the
+movie	$-movie
+dirty	B-movie.name
+dancing	I-movie.name
+
+who	$-who
+directed	$-directed
+the	$-the
+movie	$-movie
+cabin	I-movie.name
+in	I-movie.name
+the	I-movie.name
+woods	I-movie.name
+
+rate	$-rate
+r	B-rating.name
+movies	$-movies
+for	B-rating.name
+adult	I-rating.name
+enterainment	I-rating.name
+
+is	$-is
+this	$-this
+a	$-a
+foreign	$-foreign
+film	$-film
+

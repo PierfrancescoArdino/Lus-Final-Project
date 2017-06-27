@@ -1,0 +1,4960 @@
+find$VV$find	O
+movies$NNS$movie	O
+by$IN$by	O
+release$NN$release	O
+date$NN$date	O
+
+time$NN$time	B-movie.subject
+travel$NN$travel	I-movie.subject
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+comedy$NN$comedy	B-movie.genre
+pitch$NN$pitch	B-movie.name
+perfect$JJ$perfect	I-movie.name
+
+who$WP$who	O
+are$VBP$be	O
+the$DT$the	O
+actors$NNS$actor	O
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+last$JJ$last	O
+film$NN$film	O
+robert$NP$Robert	B-producer.name
+redford$NP$Redford	I-producer.name
+produced$VVD$produce	O
+
+list$VV$list	O
+the$DT$the	O
+other$JJ$other	O
+films$NNS$film	O
+james$NNS$james	B-director.name
+lassiter$NN$lassiter	I-director.name
+has$VHZ$have	O
+worked$VVN$work	O
+on$RP$on	O
+
+look$VV$look	O
+for$IN$for	O
+the$DT$the	O
+actor$NN$actor	O
+that$WDT$that	O
+sings$VVZ$sing	O
+let$VV$let	O
+me$PP$me	O
+love$VV$love	O
+you$PP$you	O
+
+what$WP$what	O
+is$VBZ$be	O
+
+who$WP$who	O
+produced$VVD$produce	O
+cars$NNS$car	B-movie.name
+
+who$WP$who	O
+was$VBD$be	O
+the$DT$the	O
+antogonist$NN$antogonist	O
+in$IN$in	O
+apollo$NN$apollo	B-movie.name
+thirteen$CD$thirteen	I-movie.name
+
+jennifer$NN$jennifer	B-actor.name
+lawrence$NN$lawrence	I-actor.name
+new$JJ$new	B-movie.release_date
+movie$NN$movie	O
+
+movies$NNS$movie	O
+from$IN$from	O
+germany$NN$germany	B-country.name
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+mission$NN$mission	B-movie.name
+impossible$JJ$impossible	I-movie.name
+in$IN$in	O
+spanish$NN$Spanish	B-movie.language
+
+what$WP$what	O
+awards$NNS$award	O
+has$VHZ$have	O
+spielberg$RB$spielberg	B-person.name
+won$VVN$win	O
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+chinese$JJ$Chinese	B-country.name
+movies$NNS$movie	O
+
+when$WRB$when	O
+can$MD$can	O
+i$NNS$i	O
+see$VV$see	O
+top$JJ$top	B-movie.name
+gun$NN$gun	I-movie.name
+
+i$NP$i	O
+would$MD$would	O
+like$VV$like	O
+to$TO$to	O
+get$VV$get	O
+all$PDT$all	O
+the$DT$the	O
+information$NN$information	O
+about$IN$about	O
+the$DT$the	O
+movie$NN$movie	O
+dirty$JJ$dirty	B-movie.name
+dancing$NN$dancing	I-movie.name
+
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+
+martin$NN$martin	B-director.name
+lawrence$NN$lawrence	I-director.name
+directed$VVD$direct	O
+what$WP$what	O
+movie$NN$movie	O
+
+steven$JJ$steven	B-director.name
+spielberg$NN$spielberg	I-director.name
+movies$NNS$movie	O
+
+where$WRB$where	O
+is$VBZ$be	O
+hotel$NN$hotel	B-movie.name
+transylvania$NN$transylvania	I-movie.name
+shown$VVN$show	O
+
+who$WP$who	O
+was$VBD$be	O
+the$DT$the	O
+director$NN$director	O
+of$IN$of	O
+the$DT$the	O
+movie$NN$movie	O
+d-war$NN$d-war	B-movie.name
+
+list$VV$list	O
+all$DT$all	O
+movies$NNS$movie	O
+rated$VVN$rate	O
+pg$NN$pg	B-rating.name
+and$CC$and	B-movie.release_date
+pg-13$NN$pg-13	B-rating.name
+released$VVN$release	O
+in$IN$in	O
+2009$CD$@card@	B-movie.release_date
+
+how$WRB$how	O
+much$RB$much	O
+did$VVD$do	O
+the$DT$the	B-movie.name
+dark$JJ$dark	I-movie.name
+night$NN$night	I-movie.name
+cost$NN$cost	O
+to$TO$to	O
+produce$VV$produce	O
+
+please$UH$please	O
+find$VV$find	O
+what$WP$what	O
+language$NN$language	O
+the$DT$the	B-movie.name
+chaser$NN$chaser	I-movie.name
+is$VBZ$be	O
+in$IN$in	O
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+some$DT$some	O
+japanese$JJ$Japanese	B-country.name
+movies$NNS$movie	O
+
+list$NN$list	O
+cast$NN$cast	O
+in$IN$in	O
+that$WDT$that	B-movie.name
+'s$VBZ$be	I-movie.name
+70s$JJ$70s	I-movie.name
+show$NN$show	I-movie.name
+
+search$NN$search	O
+popularity$NN$popularity	O
+
+find$VV$find	O
+danish$JJ$Danish	B-movie.language
+movies$NNS$movie	O
+
+goodfellas$NNS$goodfellas	B-movie.name
+director$NN$director	O
+
+show$VV$show	O
+me$PP$me	O
+thrillers$NNS$thriller	B-movie.genre
+
+release$NN$release	O
+date$NN$date	O
+for$IN$for	O
+amazing$JJ$amazing	B-movie.name
+spiderman$NN$spiderman	I-movie.name
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+rating$NN$rating	O
+system$NN$system	O
+called$VVN$call	O
+for$IN$for	O
+movies$NNS$movie	O
+
+rating$NN$rating	O
+of$IN$of	O
+movie$NN$movie	O
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+robert$NN$robert	B-director.name
+wise$NN$wise	I-director.name
+
+what$WP$what	O
+genre$NN$genre	O
+is$VBZ$be	O
+step$VV$step	B-movie.name
+up$RP$up	I-movie.name
+in$IN$in	O
+
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+show$VV$show	O
+me$PP$me	O
+information$NN$information	O
+on$IN$on	O
+the$DT$the	O
+cast$NN$cast	O
+and$CC$and	O
+crew$NN$crew	O
+of$IN$of	O
+pitchperfect$NN$pitchperfect	B-movie.name
+
+i$NNS$i	O
+need$VVP$need	O
+to$TO$to	O
+get$VV$get	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+some$DT$some	O
+romantic$JJ$romantic	B-movie.genre
+indian$JJ$Indian	B-movie.language
+movies$NNS$movie	O
+
+search$NN$search	O
+nineteen$CD$nineteen	B-movie.release_date
+ninety$CD$ninety	I-movie.release_date
+'s$POS$'s	O
+movies$NNS$movie	O
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+look$VV$look	O
+up$RP$up	O
+spanish$JJ$Spanish	B-movie.language
+movies$NNS$movie	O
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+country$NN$country	O
+where$WRB$where	O
+nobody$NN$nobody	B-movie.name
+knows$VVZ$know	I-movie.name
+takes$VVZ$take	O
+place$NN$place	O
+
+i$NP$i	O
+need$NN$need	O
+movie$NN$movie	O
+information$NN$information	O
+for$IN$for	O
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+
+i$NP$i	O
+would$MD$would	O
+like$VV$like	O
+to$TO$to	O
+select$VV$select	O
+the$DT$the	O
+option$NN$option	O
+to$TO$to	O
+search$VV$search	O
+for$IN$for	O
+movies$NNS$movie	O
+produced$VVN$produce	O
+by$IN$by	O
+stephen$NN$stephen	B-producer.name
+spielberg$NN$spielberg	I-producer.name
+
+show$VV$show	O
+me$PP$me	O
+all$DT$all	O
+movies$NNS$movie	O
+from$IN$from	O
+2000$CD$@card@	B-movie.release_date
+about$IN$about	O
+dogs$NNS$dog	B-movie.subject
+
+movie$NN$movie	O
+made$VVD$make	O
+in$IN$in	O
+mandarin$NN$mandarin	B-movie.language
+
+please$UH$please	O
+find$VV$find	O
+the$DT$the	O
+movies$NNS$movie	O
+by$IN$by	O
+steven$JJ$steven	B-director.name
+spielberg$NN$spielberg	I-director.name
+
+how$WRB$how	O
+much$JJ$much	O
+revenue$NN$revenue	O
+did$VVD$do	O
+cabin$NN$cabin	B-movie.name
+in$IN$in	I-movie.name
+the$DT$the	I-movie.name
+woods$NNS$wood	I-movie.name
+bring$VVP$bring	O
+in$IN$in	O
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+buget$NN$buget	O
+of$IN$of	O
+movie$NN$movie	O
+heroine$NN$heroine	B-movie.name
+
+who$WP$who	O
+made$VVD$make	O
+godzilla$NN$godzilla	B-movie.name
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+all$DT$all	O
+movies$NNS$movie	O
+in$IN$in	O
+the$DT$the	B-movie.location
+usa$NN$usa	I-movie.location
+
+who$WP$who	O
+are$VBP$be	O
+the$DT$the	O
+most$RBS$most	O
+famous$JJ$famous	O
+producers$NNS$producer	O
+in$IN$in	O
+hollywood$NN$hollywood	O
+
+dirty$JJ$dirty	B-movie.name
+dancing$NN$dancing	I-movie.name
+movie$NN$movie	O
+short$JJ$short	O
+cuts$NNS$cut	O
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+revenue$NN$revenue	O
+for$IN$for	O
+pulp$NN$pulp	B-movie.name
+fiction$NN$fiction	I-movie.name
+
+looper$NN$looper	B-movie.name
+directors$NNS$director	O
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+about$IN$about	O
+time$NN$time	B-movie.subject
+travel$NN$travel	I-movie.subject
+
+japanese$JJ$Japanese	B-movie.language
+movie$NN$movie	O
+titles$NNS$title	O
+
+is$VBZ$be	O
+house$NN$house	B-movie.name
+at$IN$at	I-movie.name
+the$DT$the	I-movie.name
+end$NN$end	I-movie.name
+of$IN$of	I-movie.name
+the$DT$the	I-movie.name
+street$NN$street	I-movie.name
+'$''$'	O
+ok$VV$ok	O
+for$IN$for	O
+my$PP$$my	O
+six$CD$six	O
+year$NN$year	O
+old$JJ$old	O
+
+display$NN$display	O
+movies$NNS$movie	O
+made$VVN$make	O
+in$IN$in	O
+country$NN$country	O
+
+lion$NN$lion	B-movie.name
+king$NN$king	I-movie.name
+characters$NNS$character	O
+
+search$NN$search	O
+for$IN$for	O
+movies$NNS$movie	O
+with$IN$with	O
+a$DT$a	O
+pg$NN$pg	B-rating.name
+rating$NN$rating	O
+
+please$UH$please	O
+find$VV$find	O
+me$PP$me	O
+some$DT$some	O
+info$NN$info	O
+on$IN$on	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+who$WP$who	O
+is$VBZ$be	O
+andrew$JJ$andrew	B-person.name
+stanton$NN$stanton	I-person.name
+
+who$WP$who	O
+was$VBD$be	O
+in$IN$in	O
+hitch$NN$hitch	B-movie.name
+
+what$WP$what	O
+movies$NNS$movie	O
+has$VHZ$have	O
+steven$JJ$steven	B-director.name
+spielberg$NN$spielberg	I-director.name
+done$VVN$do	O
+
+can$MD$can	O
+you$PP$you	O
+give$VV$give	O
+me$PP$me	O
+the$DT$the	O
+revenue$NN$revenue	O
+of$IN$of	O
+the$DT$the	O
+movie$NN$movie	O
+titanic$JJ$titanic	B-movie.name
+
+i$NNS$i	O
+need$VVP$need	O
+movies$NNS$movie	O
+with$IN$with	O
+a$DT$a	O
+pg$NN$pg	B-rating.name
+rating$NN$rating	O
+
+who$WP$who	O
+produced$VVD$produce	O
+top$JJ$top	B-movie.name
+gun$NN$gun	I-movie.name
+
+when$WRB$when	O
+was$VBD$be	O
+hum$NN$hum	B-movie.name
+tum$NN$tum	I-movie.name
+relesed$VVD$relesed	O
+
+give$VV$give	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+some$DT$some	O
+movies$NNS$movie	O
+by$IN$by	O
+producer$NN$producer	O
+walt$NN$walt	B-producer.name
+disney$NN$disney	I-producer.name
+
+amazing$JJ$amazing	B-movie.name
+spiderman$NN$spiderman	I-movie.name
+revenue$NN$revenue	O
+
+korean$JJ$Korean	B-country.name
+movie$NN$movie	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+reviews$VVZ$review	O
+for$IN$for	O
+in$IN$in	B-movie.name
+july$NN$July	I-movie.name
+
+can$MD$can	O
+you$PP$you	O
+find$VV$find	O
+more$JJR$more	O
+information$NN$information	O
+on$IN$on	O
+albert$NN$albert	B-person.name
+ruddy$JJ$ruddy	I-person.name
+
+what$WP$what	O
+were$VBD$be	O
+et$NP$et	B-movie.name
+'s$POS$'s	O
+revenues$NNS$revenue	O
+
+who$WP$who	O
+is$VBZ$be	O
+steven$JJ$steven	B-person.name
+spielberg$NN$spielberg	I-person.name
+
+what$WP$what	O
+are$VBP$be	O
+all$RB$all	O
+of$IN$of	O
+the$DT$the	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+robert$NN$robert	B-director.name
+wise$NN$wise	I-director.name
+
+what$WP$what	O
+company$NN$company	O
+produced$VVD$produce	O
+days$NNS$day	B-movie.name
+of$IN$of	I-movie.name
+thunder$NN$thunder	I-movie.name
+
+what$WP$what	O
+are$VBP$be	O
+the$DT$the	O
+different$JJ$different	O
+languages$NNS$language	O
+this$DT$this	O
+movie$NN$movie	O
+come$VVN$come	O
+in$IN$in	O
+
+can$MD$can	O
+you$PP$you	O
+tell$VV$tell	O
+me$PP$me	O
+the$DT$the	O
+language$NN$language	O
+of$IN$of	O
+the$DT$the	O
+movie$NN$movie	O
+hero$NN$hero	B-movie.name
+
+give$VV$give	O
+me$PP$me	O
+the$DT$the	O
+name$NN$name	O
+of$IN$of	O
+the$DT$the	O
+tv$NN$tv	O
+actor$NN$actor	O
+who$WP$who	O
+played$VVD$play	O
+todd$NNS$todd	B-character.name
+on$IN$on	O
+one$CD$one	B-movie.name
+life$NN$life	I-movie.name
+to$TO$to	I-movie.name
+live$VV$live	I-movie.name
+
+search$NN$search	O
+selected$VVD$select	O
+info$NN$info	O
+
+revenue$NN$revenue	O
+for$IN$for	O
+titanic$JJ$titanic	B-movie.name
+
+which$WDT$which	O
+movies$NNS$movie	O
+has$VHZ$have	O
+angelina$NN$angelina	B-actor.name
+jolie$NN$jolie	I-actor.name
+been$VBN$be	O
+in$IN$in	O
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+a$DT$a	O
+list$NN$list	O
+about$IN$about	O
+zombie$NN$zombie	B-movie.subject
+horror$NN$horror	B-movie.genre
+films$NNS$film	O
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+movies$NNS$movie	O
+from$IN$from	O
+spain$NN$spain	B-country.name
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+a$DT$a	O
+polish$NN$polish	B-movie.language
+movie$NN$movie	O
+
+hitch$NN$hitch	B-movie.name
+list$NN$list	O
+producer$NN$producer	O
+
+when$WRB$when	O
+was$VBD$be	O
+in$IN$in	B-movie.name
+july$RB$july	I-movie.name
+released$VVN$release	O
+
+show$VV$show	O
+me$PP$me	O
+names$NNS$name	O
+of$IN$of	O
+some$DT$some	O
+movies$NNS$movie	O
+about$IN$about	O
+gardening$NN$gardening	B-movie.subject
+
+what$WP$what	O
+type$NN$type	O
+of$IN$of	O
+movie$NN$movie	O
+is$VBZ$be	O
+parenthood$NN$parenthood	B-movie.name
+
+who$WP$who	O
+directed$VVD$direct	O
+the$DT$the	B-movie.name
+perfect$JJ$perfect	I-movie.name
+storm$NN$storm	I-movie.name
+
+what$WP$what	O
+are$VBP$be	O
+the$DT$the	O
+top$JJ$top	O
+five$CD$five	O
+british$JJ$British	B-country.name
+dramas$NN$dramas	B-movie.genre
+
+what$WP$what	O
+year$NN$year	O
+was$VBD$be	O
+the$DT$the	B-movie.name
+campaign$NN$campaign	I-movie.name
+released$VVD$release	O
+
+reviews$NNS$review	O
+of$IN$of	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+four$CD$four	I-movie.name
+
+company$NN$company	O
+that$IN/that$that	O
+produced$VVN$produce	O
+twilight$NN$twilight	B-movie.name
+
+find$VV$find	O
+information$NN$information	O
+about$IN$about	O
+tom$NN$tom	B-person.name
+cruise$NN$cruise	I-person.name
+
+when$WRB$when	O
+was$VBD$be	O
+the$DT$the	O
+movie$NN$movie	O
+vulgaria$NN$vulgaria	B-movie.name
+released$VVD$release	O
+
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+movie$NN$movie	O
+page$NN$page	O
+
+what$WP$what	O
+are$VBP$be	O
+all$RB$all	O
+of$IN$of	O
+the$DT$the	O
+movies$NNS$movie	O
+made$VVN$make	O
+in$IN$in	O
+usa$NN$usa	B-country.name
+
+race$NN$race	B-movie.subject
+car$NN$car	I-movie.subject
+movies$NNS$movie	O
+
+release$NN$release	O
+twilight$NN$twilight	B-movie.name
+
+how$WRB$how	O
+many$JJ$many	O
+dollars$NNS$dollar	O
+did$VVD$do	O
+looper$NN$looper	B-movie.name
+gross$JJ$gross	O
+
+who$WP$who	O
+directed$VVD$direct	O
+the$DT$the	B-movie.name
+good$JJ$good	I-movie.name
+
+what$WP$what	O
+is$VBZ$be	O
+terry$NN$terry	B-person.name
+georges$NNS$georges	I-person.name
+background$NN$background	O
+
+pull$VV$pull	O
+up$RP$up	O
+spielberg$NN$spielberg	B-person.name
+
+what$WP$what	O
+was$VBD$be	O
+woody$JJ$woody	B-director.name
+allen$NN$allen	I-director.name
+'s$POS$'s	O
+last$JJ$last	O
+movie$NN$movie	O
+
+find$VV$find	O
+the$DT$the	O
+movie$NN$movie	O
+hum$NN$hum	B-movie.name
+tum$NN$tum	I-movie.name
+
+producer$NN$producer	O
+of$IN$of	O
+avatar$NN$avatar	B-movie.name
+
+search$NN$search	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+
+what$WP$what	O
+has$VHZ$have	O
+person$NN$person	O
+directed$VVD$direct	O
+
+what$WP$what	O
+are$VBP$be	O
+some$DT$some	O
+current$JJ$current	O
+movies$NNS$movie	O
+with$IN$with	O
+horses$NNS$horse	B-movie.subject
+as$IN$as	O
+the$DT$the	O
+main$JJ$main	O
+topic$NN$topic	O
+of$IN$of	O
+the$DT$the	O
+movie$NN$movie	O
+
+release$NN$release	O
+date$NN$date	O
+for$IN$for	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+what$WP$what	O
+movies$NNS$movie	O
+is$VBZ$be	O
+will$NN$will	B-actor.name
+ferrell$NN$ferrell	I-actor.name
+in$IN$in	O
+
+who$WP$who	O
+produced$VVD$produce	O
+avatar$NN$avatar	B-movie.name
+
+is$VBZ$be	O
+et$CC$et	B-movie.name
+in$IN$in	O
+french$NN$French	B-movie.language
+
+list$NN$list	O
+scifi$NN$scifi	B-movie.genre
+
+who$WP$who	O
+wrote$VVD$write	O
+this$DT$this	O
+movie$NN$movie	O
+
+when$WRB$when	O
+is$VBZ$be	O
+sinister$JJ$sinister	B-movie.name
+hitting$VVG$hit	O
+theaters$NNS$theater	O
+
+list$NN$list	O
+all$RB$all	O
+of$IN$of	O
+the$DT$the	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+james$NNS$james	B-director.name
+cameron$NN$cameron	I-director.name
+
+what$WP$what	O
+was$VBD$be	O
+robert$VVN$robert	B-director.name
+wise$JJ$wise	I-director.name
+favorite$JJ$favorite	O
+part$NN$part	O
+of$IN$of	O
+directing$VVG$direct	O
+the$DT$the	B-movie.name
+sound$NN$sound	I-movie.name
+of$IN$of	I-movie.name
+music$NN$music	I-movie.name
+
+funnie$NN$funnie	O
+
+who$WP$who	O
+directed$VVD$direct	O
+avatar$NN$avatar	B-movie.name
+
+how$WRB$how	O
+many$JJ$many	O
+movies$NNS$movie	O
+has$VHZ$have	O
+tom$NN$tom	B-actor.name
+cruise$NN$cruise	I-actor.name
+starred$VVN$star	O
+in$IN$in	O
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+mpaa$NN$mpaa	B-rating.name
+rating$NN$rating	O
+for$IN$for	O
+movie$NN$movie	O
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+all$DT$all	O
+movies$NNS$movie	O
+that$WDT$that	O
+were$VBD$be	O
+directed$VVN$direct	O
+by$IN$by	O
+tom$NN$tom	B-director.name
+hanks$NNS$hank	I-director.name
+
+what$WP$what	O
+was$VBD$be	O
+avatar$NN$avatar	B-movie.name
+'s$POS$'s	O
+budget$NN$budget	O
+
+company$NN$company	O
+that$IN/that$that	O
+produced$VVN$produce	O
+thor$NN$thor	B-movie.name
+
+find$VV$find	O
+out$IN$out	O
+the$DT$the	O
+genre$NN$genre	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+the$DT$the	B-movie.name
+businessman$NN$businessman	I-movie.name
+
+show$NN$show	O
+cast$VVD$cast	O
+list$NN$list	O
+for$IN$for	O
+the$DT$the	B-movie.name
+avergers$NNS$avergers	I-movie.name
+
+can$MD$can	O
+you$PP$you	O
+tell$VV$tell	O
+me$PP$me	O
+names$NNS$name	O
+of$IN$of	O
+some$DT$some	O
+movies$NNS$movie	O
+by$IN$by	O
+director$NN$director	O
+martin$NN$martin	B-director.name
+scorsese$NN$scorsese	I-director.name
+
+what$WP$what	O
+genre$NN$genre	O
+is$VBZ$be	O
+the$DT$the	B-movie.name
+hangover$NN$hangover	I-movie.name
+
+the$DT$the	B-movie.name
+godfather$NN$godfather	I-movie.name
+came$VVD$come	O
+out$RP$out	O
+when$WRB$when	O
+
+pg$NN$pg	B-rating.name
+movies$NNS$movie	O
+list$VV$list	O
+please$UH$please	O
+
+what$WP$what	O
+movies$NNS$movie	O
+has$VHZ$have	O
+christian$JJ$Christian	B-actor.name
+bale$NN$bale	I-actor.name
+appeared$VVD$appear	O
+in$IN$in	O
+
+list$VV$list	O
+all$DT$all	O
+movies$NNS$movie	O
+produced$VVN$produce	O
+by$IN$by	O
+alfred$NNS$alfred	B-producer.name
+ruddy$JJ$ruddy	I-producer.name
+
+look$NN$look	O
+for$IN$for	O
+movies$NNS$movie	O
+with$IN$with	O
+brad$NN$brad	B-actor.name
+pitt$NN$pitt	I-actor.name
+in$IN$in	O
+them$PP$them	O
+
+can$MD$can	O
+you$PP$you	O
+show$VV$show	O
+me$PP$me	O
+names$NNS$name	O
+of$IN$of	O
+some$DT$some	O
+movies$NNS$movie	O
+on$IN$on	O
+religious$JJ$religious	B-movie.subject
+issues$NNS$issue	I-movie.subject
+
+list$NN$list	O
+french$NN$French	B-country.name
+movies$NNS$movie	O
+
+reviews$NNS$review	O
+for$IN$for	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+iv$NN$iv	I-movie.name
+
+run$VV$run	O
+a$DT$a	O
+search$NN$search	O
+for$IN$for	O
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+
+display$NN$display	O
+information$NN$information	O
+for$IN$for	O
+film$NN$film	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+display$NN$display	O
+movies$NNS$movie	O
+in$IN$in	O
+german$NN$german	B-movie.language
+
+movies$NNS$movie	O
+from$IN$from	O
+spain$NN$spain	B-country.name
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+movies$NNS$movie	O
+produced$VVN$produce	O
+by$IN$by	O
+warner$NN$warner	B-producer.name
+bros$NNS$bros	I-producer.name
+
+how$WRB$how	O
+old$JJ$old	O
+do$VVP$do	O
+you$PP$you	O
+need$VVP$need	O
+to$TO$to	O
+be$VB$be	O
+to$TO$to	O
+watch$VV$watch	O
+r$NN$r	B-rating.name
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+what$WP$what	O
+company$NN$company	O
+produced$VVD$produce	O
+cabin$NN$cabin	B-movie.name
+in$IN$in	I-movie.name
+the$DT$the	I-movie.name
+woods$NNS$wood	I-movie.name
+
+show$NN$show	O
+movies$NNS$movie	O
+on$IN$on	O
+gardening$NN$gardening	B-movie.subject
+
+which$WDT$which	O
+are$VBP$be	O
+some$DT$some	O
+of$IN$of	O
+the$DT$the	O
+movies$NNS$movie	O
+that$WDT$that	O
+have$VHP$have	O
+george$NN$george	B-actor.name
+clooney$NN$clooney	I-actor.name
+in$IN$in	O
+them$PP$them	O
+
+lionsgate$NN$lionsgate	B-producer.name
+movies$NNS$movie	O
+
+how$WRB$how	O
+much$JJ$much	O
+money$NN$money	O
+did$VVD$do	O
+looper$NN$looper	B-movie.name
+make$VV$make	O
+
+find$VV$find	O
+who$WP$who	O
+guy$NN$guy	O
+who$WP$who	O
+was$VBD$be	O
+the$DT$the	O
+red$JJ$red	B-character.name
+ranger$NN$ranger	I-character.name
+in$IN$in	O
+power$NN$power	B-movie.name
+rangers$NNS$ranger	I-movie.name
+
+what$WP$what	O
+movies$NNS$movie	O
+has$VHZ$have	O
+angelina$NN$angelina	B-actor.name
+jolie$NN$jolie	I-actor.name
+been$VBN$be	O
+in$IN$in	O
+
+director$NN$director	O
+of$IN$of	O
+indiana$NN$indiana	B-movie.name
+jones$NNS$jones	I-movie.name
+movie$NN$movie	O
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+with$IN$with	O
+a$DT$a	O
+rating$NN$rating	O
+of$IN$of	O
+r$NN$r	B-rating.name
+
+find$NN$find	O
+movies$NNS$movie	O
+is$VBZ$be	O
+french$JJ$French	B-movie.language
+
+search$NN$search	O
+for$IN$for	O
+the$DT$the	O
+director$NN$director	O
+of$IN$of	O
+step$NN$step	B-movie.name
+up$RB$up	I-movie.name
+
+when$WRB$when	O
+was$VBD$be	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+released$VVN$release	O
+
+how$WRB$how	O
+many$JJ$many	O
+films$NNS$film	O
+has$VHZ$have	O
+ed$VVN$edited	B-actor.name
+harris$NNS$harris	I-actor.name
+starred$VVN$star	O
+in$IN$in	O
+
+when$WRB$when	O
+was$VBD$be	O
+avengers$NNS$avenger	B-movie.name
+released$VVN$release	O
+
+who$WP$who	O
+was$VBD$be	O
+the$DT$the	O
+director$NN$director	O
+of$IN$of	O
+the$DT$the	O
+movie$NN$movie	O
+the$DT$the	B-movie.name
+mechanic$NN$mechanic	I-movie.name
+
+has$VHZ$have	O
+spike$NN$spike	B-producer.name
+lee$NN$lee	I-producer.name
+produced$VVD$produce	O
+any$DT$any	O
+films$NNS$film	O
+
+rocky$JJ$rocky	B-movie.name
+director$NN$director	O
+
+show$VV$show	O
+me$PP$me	O
+info$NN$info	O
+on$IN$on	O
+the$DT$the	O
+movie$NN$movie	O
+dirty$JJ$dirty	B-movie.name
+dancing$NN$dancing	I-movie.name
+please$VV$please	O
+
+who$WP$who	O
+directed$VVD$direct	O
+hitch$NN$hitch	B-movie.name
+
+there$EX$there	O
+are$VBP$be	O
+several$JJ$several	O
+g$NN$g	B-rating.name
+movies$NNS$movie	O
+
+who$WP$who	O
+directed$VVD$direct	O
+the$DT$the	O
+movie$NN$movie	O
+called$VVD$call	O
+avatar$NN$avatar	B-movie.name
+
+search$NN$search	O
+for$IN$for	O
+information$NN$information	O
+about$IN$about	O
+american$JJ$American	B-country.name
+movies$NNS$movie	O
+
+cast$NN$cast	O
+and$CC$and	O
+crew$NN$crew	O
+of$IN$of	O
+movie$NN$movie	O
+the$DT$the	B-movie.name
+campaign$NN$campaign	I-movie.name
+
+list$NN$list	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+movie$NN$movie	O
+a$DT$a	I-movie.name
+new$JJ$new	I-movie.name
+hope$NN$hope	I-movie.name
+
+what$WP$what	O
+did$VVD$do	O
+the$DT$the	O
+movie$NN$movie	O
+avatar$NN$avatar	B-movie.name
+cost$NN$cost	O
+to$TO$to	O
+make$VV$make	O
+
+movies$NNS$movie	O
+by$IN$by	O
+steven$JJ$steven	B-director.name
+spielberg$NN$spielberg	I-director.name
+
+camping$NN$camping	B-movie.name
+
+type$NN$type	O
+of$IN$of	O
+movie$NN$movie	O
+
+movies$NNS$movie	O
+by$IN$by	O
+producer$NN$producer	O
+
+show$NN$show	O
+jason$NN$jason	B-actor.name
+statham$NN$statham	I-actor.name
+movies$NNS$movie	O
+
+zombie$NN$zombie	B-movie.subject
+movie$NN$movie	O
+favorites$NNS$favorite	O
+
+show$VV$show	O
+all$DT$all	O
+british$JJ$British	B-country.name
+movies$NNS$movie	O
+from$IN$from	O
+two$CD$two	B-movie.release_date
+thousand$CD$thousand	I-movie.release_date
+one$CD$one	I-movie.release_date
+
+rating$NN$rating	O
+for$IN$for	O
+transylvania$NN$transylvania	B-movie.name
+
+list$NN$list	O
+uk$NN$uk	B-country.name
+movies$NNS$movie	O
+
+search$NN$search	O
+for$IN$for	O
+the$DT$the	B-movie.name
+hunger$NN$hunger	I-movie.name
+games$NNS$game	I-movie.name
+in$IN$in	O
+korean$NN$Korean	B-movie.language
+
+what$WP$what	O
+films$NNS$film	O
+has$VHZ$have	O
+japan$NN$japan	B-country.name
+made$VVD$make	O
+this$DT$this	B-movie.release_date
+year$NN$year	I-movie.release_date
+
+genre$NN$genre	O
+for$IN$for	O
+downton$NN$downton	B-movie.name
+abbey$NN$abbey	I-movie.name
+
+which$WDT$which	O
+director$NN$director	O
+directed$VVD$direct	O
+avatar$NN$avatar	B-movie.name
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+budget$NN$budget	O
+for$IN$for	O
+the$DT$the	B-movie.name
+hobbit$NN$hobbit	I-movie.name
+
+will$MD$will	B-actor.name
+ferrell$NP$Ferrell	I-actor.name
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+information$NN$information	O
+about$IN$about	O
+movie$NN$movie	O
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+box$NN$box	O
+office$NN$office	O
+gross$JJ$gross	O
+in$IN$in	O
+hitch$NN$hitch	B-movie.name
+
+search$NN$search	O
+mgm$NN$mgm	B-producer.name
+studios$NNS$studio	I-producer.name
+
+what$WP$what	O
+are$VBP$be	O
+the$DT$the	O
+names$NNS$name	O
+of$IN$of	O
+movies$NNS$movie	O
+with$IN$with	O
+zombies$NNS$zombie	B-movie.subject
+in$IN$in	O
+them$PP$them	O
+
+what$WP$what	O
+movies$NNS$movie	O
+are$VBP$be	O
+rated$VVN$rate	O
+pg$NP$pg	B-rating.name
+thirteen$CD$thirteen	I-rating.name
+
+how$WRB$how	O
+many$JJ$many	O
+minutes$NNS$minute	O
+is$VBZ$be	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+origin$NN$origin	O
+of$IN$of	O
+gone$VVN$go	B-movie.name
+with$IN$with	I-movie.name
+the$DT$the	I-movie.name
+wind$NN$wind	I-movie.name
+
+all$DT$all	O
+videos$NNS$video	O
+of$IN$of	O
+will$NN$will	B-actor.name
+ferrell$NN$ferrell	I-actor.name
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+in$IN$in	O
+japanese$NN$Japanese	B-movie.language
+
+
+what$WP$what	O
+country$NN$country	O
+is$VBZ$be	O
+cell$NN$cell	B-movie.name
+21$CD$@card@	I-movie.name
+from$IN$from	O
+
+what$WP$what	O
+are$VBP$be	O
+the$DT$the	O
+titles$NNS$title	O
+of$IN$of	O
+all$PDT$all	O
+the$DT$the	O
+movies$NNS$movie	O
+that$IN/that$that	O
+george$NN$george	B-producer.name
+lucas$NNS$lucas	I-producer.name
+produced$VVD$produce	O
+
+please$UH$please	O
+run$VV$run	O
+a$DT$a	O
+search$NN$search	O
+on$IN$on	O
+will$NN$will	B-person.name
+ferrell$NN$ferrell	I-person.name
+and$CC$and	O
+display$VV$display	O
+all$DT$all	O
+info$NN$info	O
+returned$VVD$return	O
+
+show$VV$show	O
+all$DT$all	O
+details$NNS$detail	O
+about$IN$about	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+-$:$-	I-movie.name
+a$DT$a	I-movie.name
+new$JJ$new	I-movie.name
+hope$NN$hope	I-movie.name
+movie$NN$movie	O
+
+who$WP$who	O
+plays$VVZ$play	O
+in$IN$in	O
+the$DT$the	O
+movie$NN$movie	O
+the$DT$the	B-movie.name
+campaign$NN$campaign	I-movie.name
+
+movies$NNS$movie	O
+with$IN$with	O
+tom$NN$tom	B-actor.name
+hanks$NNS$hank	I-actor.name
+
+movies$NNS$movie	O
+in$IN$in	O
+september$NN$September	B-movie.release_date
+twenty$CD$twenty	I-movie.release_date
+twelve$NN$twelve	I-movie.release_date
+
+pg$NN$pg	B-rating.name
+thirteen$CD$thirteen	I-rating.name
+information$NN$information	O
+
+list$NN$list	O
+only$JJ$only	O
+jason$NN$jason	B-actor.name
+statham$NN$statham	I-actor.name
+movies$NNS$movie	O
+
+show$NN$show	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+oliver$JJR$olive	B-director.name
+stone$NN$stone	I-director.name
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+any$DT$any	O
+movies$NNS$movie	O
+made$VVN$make	O
+in$IN$in	O
+canada$NN$canada	B-country.name
+
+show$NN$show	O
+movies$NNS$movie	O
+with$IN$with	O
+brad$NN$brad	B-actor.name
+pitt$NN$pitt	I-actor.name
+
+get$VV$get	O
+finding$VVG$find	B-movie.name
+nemo$NP$Nemo	I-movie.name
+twenty$CD$twenty	B-movie.release_date
+oh$UH$oh	I-movie.release_date
+three$CD$three	I-movie.release_date
+
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+find$VV$find	O
+me$PP$me	O
+20$CD$@card@	B-producer.name
+th$NN$th	I-producer.name
+century$NN$century	I-producer.name
+fox$NN$fox	I-producer.name
+films$NNS$film	O
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+best$JJS$good	O
+french$NN$French	B-country.name
+movie$NN$movie	O
+of$IN$of	O
+all$DT$all	O
+time$NN$time	O
+
+find$VV$find	O
+movies$NNS$movie	O
+by$IN$by	O
+mosfilm$NN$mosfilm	B-producer.name
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+musicals$NNS$musical	B-movie.genre
+
+find$VV$find	O
+the$DT$the	O
+male$JJ$male	O
+actor$NN$actor	O
+from$IN$from	O
+dirty$JJ$dirty	B-movie.name
+harry$VVP$harry	I-movie.name
+
+show$VV$show	O
+me$PP$me	O
+tom$NN$tom	B-actor.name
+hanks$NNS$hank	I-actor.name
+movies$NNS$movie	O
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+movies$NNS$movie	O
+starring$VVG$star	O
+denzel$NN$denzel	B-actor.name
+washington$NN$washington	I-actor.name
+
+look$VV$look	O
+up$RP$up	O
+movie$NN$movie	O
+the$DT$the	B-movie.name
+campaign$NN$campaign	I-movie.name
+
+display$NN$display	O
+movies$NNS$movie	O
+made$VVN$make	O
+by$IN$by	O
+production$NN$production	O
+lionsgate$NNS$lionsgate	B-producer.name
+
+give$VV$give	O
+me$PP$me	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+tyler$NN$tyler	B-director.name
+perry$NN$perry	I-director.name
+
+how$WRB$how	O
+much$RB$much	O
+was$VBD$be	O
+the$DT$the	O
+budget$NN$budget	O
+for$IN$for	O
+e.t.$NP$e.t.	B-movie.name
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	B-movie.name
+possession$NN$possession	I-movie.name
+'s$POS$'s	O
+budget$NN$budget	O
+
+list$VV$list	O
+all$DT$all	O
+brad$NN$brad	B-actor.name
+pitt$NN$pitt	I-actor.name
+movies$NNS$movie	O
+
+is$VBZ$be	O
+wb$NN$wb	B-producer.name
+owned$VVN$own	O
+by$IN$by	O
+another$DT$another	O
+company$NN$company	O
+as$IN$as	O
+of$IN$of	O
+right$NN$right	O
+now$RB$now	O
+and$CC$and	O
+they$PP$they	O
+just$RB$just	O
+keep$VV$keep	O
+their$PP$$their	O
+tag$NN$tag	O
+name$NN$name	O
+
+name$VV$name	O
+the$DT$the	O
+director$NN$director	O
+of$IN$of	O
+sleepless$JJ$sleepless	B-movie.name
+in$IN$in	I-movie.name
+seattle$NN$Seattle	I-movie.name
+
+look$VV$look	O
+for$IN$for	O
+french$NN$French	B-country.name
+movies$NNS$movie	O
+
+search$VV$search	O
+the$DT$the	O
+movie$NN$movie	O
+in$IN$in	B-movie.name
+july$RB$july	I-movie.name
+
+watch$NN$watch	O
+finding$NN$finding	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+budget$NN$budget	O
+for$IN$for	O
+titanic$JJ$titanic	B-movie.name
+
+look$VV$look	O
+for$IN$for	O
+will$NN$will	B-person.name
+ferrell$NN$ferrell	I-person.name
+
+what$WP$what	O
+movies$NNS$movie	O
+did$VVD$do	O
+matt$JJ$matt	B-actor.name
+damon$NN$damon	I-actor.name
+appear$VVP$appear	O
+in$IN$in	O
+
+get$VV$get	O
+movies$NNS$movie	O
+from$IN$from	O
+canada$NN$canada	B-country.name
+
+england$NN$england	B-country.name
+will$MD$will	O
+you$PP$you	O
+make$VV$make	O
+movie$NN$movie	O
+about$IN$about	O
+the$DT$the	O
+life$NN$life	O
+of$IN$of	O
+prince$NN$prince	B-person.name
+william$NNS$william	I-person.name
+and$CC$and	O
+harry$VVP$harry	B-person.name
+'s$POS$'s	O
+life$NN$life	O
+
+when$WRB$when	O
+was$VBD$be	O
+the$DT$the	O
+movie$NN$movie	O
+heroine$NN$heroine	B-movie.name
+released$VVD$release	O
+
+what$WP$what	O
+is$VBZ$be	O
+grease$NN$grease	B-movie.name
+rated$VVN$rate	O
+
+search$NN$search	O
+movies$NNS$movie	O
+acted$VVN$act	O
+in$IN$in	O
+spain$NN$spain	B-movie.location
+
+who$WP$who	O
+produced$VVD$produce	O
+the$DT$the	O
+movie$NN$movie	O
+cars$NNS$car	B-movie.name
+
+how$WRB$how	O
+much$JJ$much	O
+revenue$NN$revenue	O
+did$VVD$do	O
+the$DT$the	B-movie.name
+amazing$JJ$amazing	I-movie.name
+spiderman$NN$spiderman	I-movie.name
+make$VV$make	O
+
+when$WRB$when	O
+did$VVD$do	O
+resident$JJ$resident	B-movie.name
+evil$NN$evil	I-movie.name
+come$VVN$come	O
+out$RP$out	O
+
+search$NN$search	O
+for$IN$for	O
+movies$NNS$movie	O
+in$IN$in	O
+spanish$NN$Spanish	B-movie.language
+
+how$WRB$how	O
+many$JJ$many	O
+people$NNS$people	O
+live$VVP$live	O
+in$IN$in	O
+japan$NN$japan	B-country.name
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+film$NN$film	O
+rating$NN$rating	O
+
+where$WRB$where	O
+did$VVD$do	O
+they$PP$they	O
+do$VVP$do	O
+les$FW$les	B-movie.name
+mes$FW$mes	I-movie.name
+
+how$WRB$how	O
+old$JJ$old	O
+do$VVP$do	O
+you$PP$you	O
+have$VHP$have	O
+to$TO$to	O
+be$VB$be	O
+to$TO$to	O
+see$VV$see	O
+an$DT$an	O
+r$NN$r	B-rating.name
+rated$VVN$rate	O
+movie$NN$movie	O
+
+who$WP$who	O
+directed$VVD$direct	O
+jurassic$JJ$Jurassic	B-movie.name
+park$NN$park	I-movie.name
+
+show$VV$show	O
+all$DT$all	O
+danish$JJ$Danish	B-country.name
+movies$NNS$movie	O
+in$IN$in	O
+this$DT$this	B-movie.release_date
+decade$NN$decade	I-movie.release_date
+
+what$WP$what	O
+is$VBZ$be	O
+movie$NN$movie	O
+about$RB$about	O
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+in$IN$in	O
+greek$NN$Greek	B-movie.language
+
+i$NNS$i	O
+want$VVP$want	O
+more$JJR$more	O
+information$NN$information	O
+on$IN$on	O
+richard$NN$richard	B-person.name
+lester$NN$lester	I-person.name
+
+list$VV$list	O
+all$PDT$all	O
+the$DT$the	O
+movies$NNS$movie	O
+john$NN$john	B-actor.name
+travolta$NN$travolta	I-actor.name
+has$VHZ$have	O
+done$VVN$do	O
+
+tell$VV$tell	O
+me$PP$me	O
+the$DT$the	O
+budget$NN$budget	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+batman$NN$batman	B-movie.name
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+director$NN$director	O
+of$IN$of	O
+the$DT$the	O
+film$NN$film	O
+the$DT$the	B-movie.name
+dark$JJ$dark	I-movie.name
+knight$NN$knight	I-movie.name
+
+who$WP$who	O
+was$VBD$be	O
+the$DT$the	B-character.name
+tin$NN$tin	I-character.name
+man$NN$man	I-character.name
+in$IN$in	O
+wizard$NN$wizard	B-movie.name
+of$IN$of	I-movie.name
+oz$NP$Oz	I-movie.name
+
+list$VV$list	O
+the$DT$the	O
+budget$NN$budget	O
+for$IN$for	O
+avatar$NN$avatar	B-movie.name
+
+can$MD$can	O
+you$PP$you	O
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+all$PDT$all	O
+the$DT$the	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+james$NNS$james	B-director.name
+cameron$NN$cameron	I-director.name
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+movies$NNS$movie	O
+that$IN/that$that	O
+christian$JJ$Christian	B-actor.name
+bale$NN$bale	I-actor.name
+has$VHZ$have	O
+starred$VVN$star	O
+in$IN$in	O
+during$IN$during	O
+his$PP$$his	O
+career$NN$career	O
+
+movies$NNS$movie	O
+with$IN$with	O
+meg$NN$meg	B-actor.name
+ryan$NN$ryan	I-actor.name
+
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+director$NN$director	O
+please$VVP$please	O
+
+list$NN$list	O
+steven$NN$steven	B-producer.name
+spielberg$NN$spielberg	I-producer.name
+produced$VVD$produce	O
+movies$NNS$movie	O
+
+did$VVD$do	O
+the$DT$the	O
+dad$NN$dad	B-character.name
+in$IN$in	O
+daddy$NN$daddy	B-movie.name
+daycare$NN$daycare	I-movie.name
+also$RB$also	O
+play$VV$play	O
+in$IN$in	O
+dr$NN$Dr	B-movie.name
+doolittle$NN$doolittle	I-movie.name
+
+countries$NNS$country	O
+flags$NNS$flag	O
+
+list$VV$list	O
+some$DT$some	O
+of$IN$of	O
+the$DT$the	O
+best$JJS$good	O
+world$NN$world	B-movie.subject
+war$NN$war	I-movie.subject
+2$CD$2	I-movie.subject
+films$NNS$film	O
+
+find$VV$find	O
+movies$NNS$movie	O
+about$IN$about	O
+gardening$NN$gardening	B-movie.subject
+and$CC$and	I-movie.subject
+lawn$NN$lawn	I-movie.subject
+care$NN$care	I-movie.subject
+
+tell$VV$tell	O
+me$PP$me	O
+the$DT$the	O
+director$NN$director	O
+of$IN$of	O
+the$DT$the	O
+film$NN$film	O
+the$DT$the	B-movie.name
+dark$JJ$dark	I-movie.name
+knight$NN$knight	I-movie.name
+
+find$VV$find	O
+spike$VV$spike	B-director.name
+lee$JJ$lee	I-director.name
+directed$JJ$directed	O
+movies$NNS$movie	O
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+budget$NN$budget	O
+of$IN$of	O
+the$DT$the	O
+movie$NN$movie	O
+avatar$NN$avatar	B-movie.name
+
+list$NN$list	O
+lionsgate$NN$lionsgate	B-producer.name
+movies$NNS$movie	O
+
+what$WP$what	O
+are$VBP$be	O
+all$RB$all	O
+of$IN$of	O
+the$DT$the	O
+movies$NNS$movie	O
+acted$VVD$act	O
+in$IN$in	O
+by$IN$by	O
+the$DT$the	O
+actor$NN$actor	O
+christian$NN$Christian	B-actor.name
+bale$NN$bale	I-actor.name
+
+look$VV$look	O
+for$IN$for	O
+revenue$NN$revenue	O
+from$IN$from	O
+step$NN$step	B-movie.name
+up$RB$up	I-movie.name
+
+search$NN$search	O
+for$IN$for	O
+movies$NNS$movie	O
+about$IN$about	O
+ice$NN$ice	B-movie.subject
+skating$NN$skating	I-movie.subject
+
+show$VV$show	O
+recent$JJ$recent	O
+movies$NNS$movie	O
+rated$VVN$rate	O
+pg$NN$pg	B-rating.name
+
+list$NN$list	O
+movie$NN$movie	O
+evil$NN$evil	B-movie.name
+goes$VVZ$go	I-movie.name
+global$JJ$global	I-movie.name
+on$IN$on	O
+oh$UH$oh	B-movie.release_date
+nine$CD$nine	I-movie.release_date
+fourteen$NN$fourteen	I-movie.release_date
+twenty$CD$twenty	I-movie.release_date
+twelve$NN$twelve	I-movie.release_date
+
+when$WRB$when	O
+did$VVD$do	O
+dirty$JJ$dirty	B-movie.name
+dancing$NN$dancing	I-movie.name
+come$VVN$come	O
+out$RP$out	O
+
+look$VV$look	O
+up$RP$up	O
+information$NN$information	O
+about$IN$about	O
+tom$NN$tom	B-person.name
+cruise$NN$cruise	I-person.name
+
+i$NNS$i	O
+want$VVP$want	O
+only$RB$only	O
+spanish$JJ$Spanish	B-movie.language
+movies$NNS$movie	O
+
+how$WRB$how	O
+many$JJ$many	O
+movies$NNS$movie	O
+did$VVD$do	O
+hitchcock$NN$hitchcock	B-director.name
+direct$JJ$direct	O
+
+who$WP$who	O
+directed$VVD$direct	O
+hard$JJ$hard	B-movie.name
+days$NNS$day	I-movie.name
+night$NN$night	I-movie.name
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+latest$JJS$late	O
+movies$NNS$movie	O
+in$IN$in	O
+kannada$NP$kannada	B-movie.language
+
+who$WP$who	O
+directed$VVD$direct	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+four$CD$four	I-movie.name
+
+find$VV$find	O
+synopsis$NN$synopsis	O
+for$IN$for	O
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+know$VV$know	O
+about$IN$about	O
+spielberg$NP$Spielberg	B-person.name
+
+what$WP$what	O
+movie$NN$movie	O
+has$VHZ$have	O
+albert$NN$albert	B-actor.name
+brooks$NNS$brook	I-actor.name
+done$VVN$do	O
+lately$RB$lately	O
+
+what$WP$what	O
+movies$NNS$movie	O
+have$VHP$have	O
+classic$JJ$classic	B-movie.subject
+cars$NNS$car	I-movie.subject
+in$IN$in	O
+them$PP$them	O
+
+who$WP$who	O
+is$VBZ$be	O
+the$DT$the	O
+producer$NN$producer	O
+of$IN$of	O
+the$DT$the	B-movie.name
+terminator$NN$terminator	I-movie.name
+
+how$WRB$how	O
+many$JJ$many	O
+of$IN$of	O
+the$DT$the	O
+star$JJ$star	B-movie.name
+wars$NNS$war	I-movie.name
+movies$NNS$movie	O
+won$VVD$win	O
+awards$NNS$award	O
+
+search$NN$search	O
+directors$NNS$director	O
+
+when$WRB$when	O
+did$VVD$do	O
+vulgaria$NNS$vulgaria	B-movie.name
+come$VV$come	O
+out$RP$out	O
+
+when$WRB$when	O
+does$VVZ$do	O
+top$JJ$top	B-movie.name
+gun$NN$gun	I-movie.name
+come$VVN$come	O
+out$RP$out	O
+
+what$WP$what	O
+country$NN$country	O
+does$VVZ$do	O
+the$DT$the	O
+movie$NN$movie	O
+kati$NN$kati	B-movie.name
+patang$NN$patang	I-movie.name
+comes$VVZ$come	O
+from$IN$from	O
+
+name$NN$name	O
+of$IN$of	O
+producer$NN$producer	O
+for$IN$for	O
+ghost$NN$ghost	B-movie.name
+busters$NNS$buster	I-movie.name
+
+what$WP$what	O
+are$VBP$be	O
+some$DT$some	O
+good$JJ$good	O
+american$NN$American	B-country.name
+movies$NNS$movie	O
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+budget$NN$budget	O
+for$IN$for	O
+facing$VVG$face	B-movie.name
+the$DT$the	I-movie.name
+giants$NNS$giant	I-movie.name
+
+what$WP$what	O
+movies$NNS$movie	O
+came$VVD$come	O
+out$RP$out	O
+of$IN$of	O
+russia$NN$russia	B-country.name
+last$JJ$last	B-movie.release_date
+year$NN$year	I-movie.release_date
+
+show$VV$show	O
+me$PP$me	O
+cher$NN$cher	B-actor.name
+movies$NNS$movie	O
+
+how$WRB$how	O
+much$RB$much	O
+did$VVD$do	O
+et$CC$et	B-movie.name
+gross$JJ$gross	O
+worldwide$RB$worldwide	O
+
+are$VBP$be	O
+these$DT$these	O
+directors$NNS$director	O
+still$RB$still	O
+alive$JJ$alive	O
+
+find$VV$find	O
+movies$NNS$movie	O
+about$IN$about	O
+vietnam$NP$Vietnam	B-movie.subject
+
+revenue$NN$revenue	O
+for$IN$for	O
+the$DT$the	B-movie.name
+way$NN$way	I-movie.name
+we$PP$we	I-movie.name
+were$VBD$be	I-movie.name
+
+what$WP$what	O
+ages$VVZ$age	O
+is$VBZ$be	O
+wall-e$RB$wall-e	B-movie.name
+good$JJ$good	O
+for$IN$for	O
+
+i$NNS$i	O
+am$VBP$be	O
+interested$JJ$interested	O
+in$IN$in	O
+who$WP$who	O
+directed$VVD$direct	O
+cabin$NN$cabin	B-movie.name
+in$IN$in	I-movie.name
+the$DT$the	I-movie.name
+woods$NNS$wood	I-movie.name
+
+find$VV$find	O
+out$IN$out	O
+the$DT$the	O
+genre$NN$genre	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+rebel$NN$rebel	B-movie.name
+
+show$VV$show	O
+german$JJ$german	B-country.name
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+movie$NN$movie	O
+that$WDT$that	O
+starred$VVD$star	O
+patrick$NN$patrick	B-actor.name
+swayze$NNS$swayze	I-actor.name
+
+show$NN$show	O
+biography$NN$biography	O
+for$IN$for	O
+director$NN$director	O
+steven$JJ$steven	B-person.name
+spielberg$NN$spielberg	I-person.name
+
+how$WRB$how	O
+can$MD$can	O
+i$NNS$i	O
+get$VV$get	O
+more$JJR$more	O
+information$NN$information	O
+on$IN$on	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+which$WDT$which	O
+movies$NNS$movie	O
+are$VBP$be	O
+based$VVN$base	O
+on$IN$on	O
+zombies$NNS$zombie	B-movie.subject
+
+what$WP$what	O
+movies$NNS$movie	O
+are$VBP$be	O
+made$VVN$make	O
+by$IN$by	O
+dreamworks$NNS$dreamworks	B-producer.name
+
+movie$NN$movie	O
+ratings$NNS$rating	O
+
+can$MD$can	O
+you$PP$you	O
+tell$VV$tell	O
+me$PP$me	O
+the$DT$the	O
+amount$NN$amount	O
+of$IN$of	O
+money$NN$money	O
+this$DT$this	O
+movie$NN$movie	O
+made$VVD$make	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+movie$NN$movie	O
+rating$NN$rating	O
+for$IN$for	O
+resident$JJ$resident	B-movie.name
+evil$NN$evil	I-movie.name
+:$:$:	I-movie.name
+retribution$NN$retribution	I-movie.name
+
+i$NNS$i	O
+am$VBP$be	O
+interested$JJ$interested	O
+in$IN$in	O
+what$WP$what	O
+cabin$NN$cabin	B-movie.name
+in$IN$in	I-movie.name
+the$DT$the	I-movie.name
+woods$NNS$wood	I-movie.name
+made$VVN$make	O
+in$IN$in	O
+revenue$NN$revenue	O
+
+show$VV$show	O
+steven$JJ$steven	B-director.name
+spielberg$NN$spielberg	I-director.name
+movies$NNS$movie	O
+
+when$WRB$when	O
+was$VBD$be	O
+resident$JJ$resident	B-movie.name
+evil$RB$evil	I-movie.name
+first$JJ$first	O
+in$IN$in	O
+theatres$NNS$theatre	O
+
+reviews$NNS$review	O
+for$IN$for	O
+in$IN$in	B-movie.name
+july$NN$July	I-movie.name
+
+total$JJ$total	O
+titanic$JJ$titanic	B-movie.name
+revenues$NNS$revenue	O
+
+find$VV$find	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+directors$NNS$director	O
+and$CC$and	O
+their$PP$$their	O
+movies$NNS$movie	O
+
+what$WP$what	O
+character$NN$character	O
+did$VVD$do	O
+will$NN$will	B-actor.name
+smith$NN$smith	I-actor.name
+play$NN$play	O
+in$IN$in	O
+hitch$NN$hitch	B-movie.name
+
+info$NN$info	O
+german$NN$german	B-country.name
+movie$NN$movie	O
+
+please$UH$please	O
+show$VV$show	O
+me$PP$me	O
+all$RB$all	O
+of$IN$of	O
+the$DT$the	O
+films$NNS$film	O
+that$WDT$that	O
+involve$VVP$involve	O
+kevin$NN$kevin	B-actor.name
+bacon$NN$bacon	I-actor.name
+
+look$NN$look	O
+for$IN$for	O
+spanish$JJ$Spanish	B-movie.language
+movies$NNS$movie	O
+
+how$WRB$how	O
+much$RB$much	O
+was$VBD$be	O
+the$DT$the	O
+budget$NN$budget	O
+for$IN$for	O
+the$DT$the	B-movie.name
+hunger$NN$hunger	I-movie.name
+games$NNS$game	I-movie.name
+
+parental$JJ$parental	O
+guidance$NN$guidance	O
+scale$NN$scale	O
+
+what$WP$what	O
+country$NN$country	O
+did$VVD$do	O
+the$DT$the	O
+nine$CD$nine	B-movie.release_date
+fourteen$NN$fourteen	I-movie.release_date
+twenty$CD$twenty	I-movie.release_date
+twelve$NN$twelve	I-movie.release_date
+release$NN$release	O
+of$IN$of	O
+barfi$NNS$barfi	B-movie.name
+come$VVN$come	O
+from$IN$from	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+movies$NNS$movie	O
+released$VVN$release	O
+in$IN$in	O
+srilanka$NN$srilanka	B-movie.release_region
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+movies$NNS$movie	O
+that$WDT$that	O
+are$VBP$be	O
+new$JJ$new	O
+and$CC$and	O
+rated$VVN$rate	O
+pg-13$NN$pg-13	B-rating.name
+
+looking$VVG$look	O
+for$IN$for	O
+an$DT$an	O
+action$NN$action	B-movie.genre
+movie$NN$movie	O
+
+what$WP$what	O
+is$VBZ$be	O
+ray$NN$ray	B-director.name
+stark$RB$stark	I-director.name
+'s$POS$'s	O
+current$JJ$current	O
+movie$NN$movie	O
+he$PP$he	O
+directed$VVD$direct	O
+
+movies$NNS$movie	O
+by$IN$by	O
+alfred$NN$alfred	B-director.name
+hitchcock$NN$hitchcock	I-director.name
+
+show$NN$show	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+ron$JJ$ron	B-director.name
+howard$NN$howard	I-director.name
+
+who$WP$who	O
+directed$VVD$direct	O
+avatar$NN$avatar	B-movie.name
+
+i$NNS$i	O
+need$VVP$need	O
+to$TO$to	O
+know$VV$know	O
+the$DT$the	O
+name$NN$name	O
+of$IN$of	O
+the$DT$the	B-character.name
+mom$NN$mom	I-character.name
+on$IN$on	O
+seinfeld$NP$seinfeld	B-movie.name
+
+gross$JJ$gross	O
+earnings$NNS$earning	O
+for$IN$for	O
+avengers$NNS$avenger	B-movie.name
+movie$NN$movie	O
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+spielberg$NP$Spielberg	B-person.name
+'s$POS$'s	O
+page$NN$page	O
+
+search$NN$search	O
+for$IN$for	O
+movies$NNS$movie	O
+that$WDT$that	O
+were$VBD$be	O
+produced$VVN$produce	O
+by$IN$by	O
+mosfilm$NN$mosfilm	B-producer.name
+
+find$VV$find	O
+russian$JJ$Russian	B-movie.language
+movies$NNS$movie	O
+
+was$VBD$be	O
+this$DT$this	O
+movie$NN$movie	O
+filmed$VVN$film	O
+in$IN$in	O
+china$NN$china	B-movie.location
+
+when$WRB$when	O
+was$VBD$be	O
+black$JJ$black	B-movie.name
+beauty$NN$beauty	I-movie.name
+released$VVN$release	O
+
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+
+list$NN$list	O
+movies$NNS$movie	O
+in$IN$in	O
+french$NNS$French	B-movie.language
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+difference$NN$difference	O
+between$IN$between	O
+an$DT$an	O
+r$NN$r	B-rating.name
+rating$NN$rating	O
+and$CC$and	O
+pg$NN$pg	B-rating.name
+thirteen$CD$thirteen	I-rating.name
+
+who$WP$who	O
+directed$VVD$direct	O
+roger$NN$roger	B-movie.name
+rabbit$NN$rabbit	I-movie.name
+
+never$RB$never	O
+would$MD$would	O
+watch$VV$watch	O
+this$DT$this	O
+movie$NN$movie	O
+with$IN$with	O
+a$DT$a	O
+rating$NN$rating	O
+of$IN$of	O
+dredd$JJ$dredd	B-movie.name
+change$NN$change	O
+rating$NN$rating	O
+
+find$VV$find	O
+movies$NNS$movie	O
+that$WDT$that	O
+are$VBP$be	O
+pg$JJ$pg	B-rating.name
+
+sb$NN$sb	O
+directort$NN$directort	O
+cuts$NNS$cut	O
+
+give$VV$give	O
+me$PP$me	O
+some$DT$some	O
+good$JJ$good	O
+pg$NN$pg	B-rating.name
+moives$NNS$moives	O
+
+who$WP$who	O
+directed$VVD$direct	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+know$VV$know	O
+about$IN$about	O
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+
+search$NN$search	O
+for$IN$for	O
+movies$NNS$movie	O
+produced$VVN$produce	O
+by$IN$by	O
+albert$NN$albert	B-producer.name
+ruddy$JJ$ruddy	I-producer.name
+
+search$NN$search	O
+for$IN$for	O
+movies$NNS$movie	O
+in$IN$in	O
+canada$NN$canada	B-movie.location
+with$IN$with	O
+james$NNS$james	B-actor.name
+brown$JJ$brown	I-actor.name
+
+run$VV$run	O
+a$DT$a	O
+search$NN$search	O
+for$IN$for	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+for$IN$for	O
+me$PP$me	O
+please$VVP$please	O
+
+how$WRB$how	O
+much$RB$much	O
+did$VVD$do	O
+hotel$NN$hotel	B-movie.name
+transylvania$NNS$transylvania	I-movie.name
+gross$JJ$gross	O
+
+show$VV$show	O
+all$DT$all	O
+r$NN$r	B-rating.name
+movies$NNS$movie	O
+for$IN$for	O
+twenty$CD$twenty	B-movie.release_date
+eleven$NN$eleven	I-movie.release_date
+
+do$VV$do	O
+you$PP$you	O
+have$VHP$have	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+japanese$JJ$Japanese	B-country.name
+movies$NNS$movie	O
+
+movies$NNS$movie	O
+tom$NN$tom	B-producer.name
+cruise$NN$cruise	I-producer.name
+produced$VVD$produce	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+films$NNS$film	O
+from$IN$from	O
+paramount$NN$paramount	B-producer.name
+that$WDT$that	O
+won$VVD$win	O
+oscars$NNS$oscar	B-award.ceremony
+
+current$JJ$current	O
+movie$NN$movie	O
+options$NNS$option	O
+for$IN$for	O
+today$NN$today	O
+with$IN$with	O
+patrick$NN$patrick	B-actor.name
+swayze$NNS$swayze	I-actor.name
+
+show$VV$show	O
+me$PP$me	O
+information$NN$information	O
+about$IN$about	O
+movies$NNS$movie	O
+from$IN$from	O
+liongate$NNS$liongate	B-producer.name
+
+i$NP$i	O
+would$MD$would	O
+like$VV$like	O
+to$TO$to	O
+know$VV$know	O
+about$IN$about	O
+some$DT$some	O
+famous$JJ$famous	O
+movies$NNS$movie	O
+by$IN$by	O
+director$NN$director	O
+martin$NN$martin	B-director.name
+scorsese$NN$scorsese	I-director.name
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+budget$NN$budget	O
+for$IN$for	O
+black$JJ$black	B-movie.name
+swan$NN$swan	I-movie.name
+
+budget$NN$budget	O
+for$IN$for	O
+titanic$JJ$titanic	B-movie.name
+movie$NN$movie	O
+
+mister$NN$mister	B-person.name
+lester$NN$lester	I-person.name
+did$VVD$do	O
+you$PP$you	O
+get$VVP$get	O
+to$TO$to	O
+meet$VV$meet	O
+the$DT$the	O
+beatles$NNS$beatles	O
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+revenue$NN$revenue	O
+for$IN$for	O
+fast$JJ$fast	B-movie.name
+and$CC$and	I-movie.name
+the$DT$the	I-movie.name
+furious$JJ$furious	I-movie.name
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+country$NN$country	O
+in$IN$in	O
+which$WDT$which	O
+les$FW$les	B-movie.name
+miserable$JJ$miserable	I-movie.name
+was$VBD$be	O
+made$VVN$make	O
+
+the$DT$the	O
+budget$NN$budget	O
+of$IN$of	O
+the$DT$the	O
+russian$JJ$Russian	B-country.name
+movie$NN$movie	O
+return$NN$return	B-movie.name
+
+find$VV$find	O
+movies$NNS$movie	O
+with$IN$with	O
+a$DT$a	O
+nc$NN$nc	B-rating.name
+17$CD$@card@	I-rating.name
+only$RB$only	O
+
+what$WP$what	O
+actors$NNS$actor	O
+played$VVN$play	O
+in$IN$in	O
+the$DT$the	O
+movies$NNS$movie	O
+hitch$NN$hitch	B-movie.name
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+highest-grossing$JJ$highest-grossing	O
+woody$JJ$woody	B-director.name
+allen$NN$allen	I-director.name
+movie$NN$movie	O
+ever$RB$ever	O
+
+show$VV$show	O
+me$PP$me	O
+films$NNS$film	O
+that$WDT$that	O
+came$VVD$come	O
+out$RP$out	O
+in$IN$in	O
+september$NN$September	B-movie.release_date
+of$IN$of	I-movie.release_date
+this$DT$this	I-movie.release_date
+year$NN$year	I-movie.release_date
+
+how$WRB$how	O
+many$JJ$many	O
+movies$NNS$movie	O
+has$VHZ$have	O
+darla$NN$darla	B-producer.name
+anderson$NN$anderson	I-producer.name
+produced$VVD$produce	O
+
+show$VV$show	O
+me$PP$me	O
+hitchcock$NN$hitchcock	B-director.name
+movies$NNS$movie	O
+
+language$NN$language	O
+of$IN$of	O
+my$PP$$my	B-movie.name
+annette$NN$annette	I-movie.name
+
+i$NNS$i	O
+am$VBP$be	O
+looking$VVG$look	O
+for$IN$for	O
+movies$NNS$movie	O
+in$IN$in	O
+spanish$NN$Spanish	B-movie.language
+
+producer$NN$producer	O
+for$IN$for	O
+gone$VVN$go	B-movie.name
+with$IN$with	I-movie.name
+the$DT$the	I-movie.name
+wind$NN$wind	I-movie.name
+
+how$WRB$how	O
+is$VBZ$be	O
+a$DT$a	B-movie.name
+good$JJ$good	I-movie.name
+man$NN$man	I-movie.name
+in$IN$in	I-movie.name
+africa$NP$Africa	I-movie.name
+'s$POS$'s	O
+rating$NN$rating	O
+
+watch$NN$watch	O
+pg$NN$pg	B-rating.name
+and$CC$and	O
+g$NN$g	B-rating.name
+movies$NNS$movie	O
+
+display$VV$display	O
+the$DT$the	O
+films$NNS$film	O
+by$IN$by	O
+7$CD$7	O
+arts$NNS$art	I-producer.name
+
+will$MD$will	B-actor.name
+ferrell$NP$Ferrell	I-actor.name
+films$NNS$film	O
+
+who$WP$who	O
+is$VBZ$be	O
+the$DT$the	O
+person$NN$person	O
+that$WDT$that	O
+directed$VVD$direct	O
+the$DT$the	O
+film$NN$film	O
+the$DT$the	B-movie.name
+dark$JJ$dark	I-movie.name
+knight$NN$knight	I-movie.name
+
+where$WRB$where	O
+was$VBD$be	O
+movie$NN$movie	O
+made$VVN$make	O
+
+movies$NNS$movie	O
+by$IN$by	O
+mel$NN$mel	B-director.name
+gibson$NN$gibson	I-director.name
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+from$IN$from	O
+paris$NNS$paris	B-movie.location
+
+bring$VV$bring	O
+up$RP$up	O
+all$DT$all	O
+director$NN$director	O
+movies$NNS$movie	O
+
+find$VV$find	O
+me$PP$me	O
+info$NN$info	O
+on$IN$on	O
+emma$NN$emma	B-person.name
+watson$NN$watson	I-person.name
+
+show$VV$show	O
+me$PP$me	O
+italian$JJ$Italian	B-country.name
+movies$NNS$movie	O
+
+display$VV$display	O
+the$DT$the	O
+video$NN$video	O
+of$IN$of	O
+finding$VVG$find	B-movie.name
+nemo$NP$Nemo	I-movie.name
+twenty$CD$twenty	B-movie.release_date
+oh$UH$oh	I-movie.release_date
+three$CD$three	I-movie.release_date
+
+list$VV$list	O
+the$DT$the	O
+movies$NNS$movie	O
+anna$NN$anna	B-actor.name
+paquin$NN$paquin	I-actor.name
+has$VHZ$have	O
+starred$VVN$star	O
+in$RP$in	O
+
+can$MD$can	O
+you$PP$you	O
+please$VV$please	O
+tell$VV$tell	O
+me$PP$me	O
+when$WRB$when	O
+was$VBD$be	O
+karate$NN$karate	B-movie.name
+kid$NN$kid	I-movie.name
+released$VVD$release	O
+
+watch$NN$watch	O
+darla$NN$darla	B-director.name
+anderson$NN$anderson	I-director.name
+new$JJ$new	O
+movie$NN$movie	O
+
+find$VV$find	O
+me$PP$me	O
+movies$NNS$movie	O
+made$VVN$make	O
+by$IN$by	O
+alfred$NN$alfred	B-director.name
+hitchcock$NN$hitchcock	I-director.name
+
+would$MD$would	O
+you$PP$you	O
+make$VV$make	O
+a$DT$a	O
+sequel$NN$sequel	O
+
+display$NN$display	O
+actors$NNS$actor	O
+in$IN$in	O
+movies$NNS$movie	O
+
+show$VV$show	O
+only$RB$only	O
+horror$NN$horror	B-movie.genre
+movies$NNS$movie	O
+
+show$NN$show	O
+tom$NN$tom	B-person.name
+hanks$NNS$hank	I-person.name
+
+actors$NNS$actor	O
+for$IN$for	O
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+
+give$VV$give	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+directors$NNS$director	O
+
+bring$VV$bring	O
+up$RP$up	O
+black$JJ$black	B-movie.name
+swan$NN$swan	I-movie.name
+production$NN$production	O
+
+in$IN$in	O
+which$WDT$which	O
+movies$NNS$movie	O
+has$VHZ$have	O
+angelina$NN$angelina	B-actor.name
+jolie$NN$jolie	I-actor.name
+starred$VVD$star	O
+
+house$NN$house	B-movie.name
+at$IN$at	I-movie.name
+the$DT$the	I-movie.name
+end$NN$end	I-movie.name
+of$IN$of	I-movie.name
+the$DT$the	I-movie.name
+street$NN$street	I-movie.name
+movie$NN$movie	O
+info$NN$info	O
+
+are$VBP$be	O
+there$RB$there	O
+any$DT$any	O
+movies$NNS$movie	O
+that$WDT$that	O
+have$VHP$have	O
+tips$NNS$tip	B-movie.subject
+about$IN$about	I-movie.subject
+gardening$VVG$garden	I-movie.subject
+in$IN$in	O
+them$PP$them	O
+
+find$VV$find	O
+french$NN$French	B-country.name
+movies$NNS$movie	O
+
+list$NN$list	O
+movies$NNS$movie	O
+about$IN$about	O
+libraries$NNS$library	B-movie.subject
+
+where$WRB$where	O
+did$VVD$do	O
+la$DT$la	B-movie.name
+moustache$NN$moustache	I-movie.name
+take$VV$take	O
+place$NN$place	O
+
+can$MD$can	O
+you$PP$you	O
+tell$VV$tell	O
+me$PP$me	O
+whats$VVZ$whats	O
+the$DT$the	O
+rating$NN$rating	O
+of$IN$of	O
+movie$NN$movie	O
+avatar$NN$avatar	B-movie.name
+
+classic$JJ$classic	B-movie.subject
+car$NN$car	I-movie.subject
+movies$NNS$movie	O
+
+i$NP$i	O
+would$MD$would	O
+like$VV$like	O
+to$TO$to	O
+know$VV$know	O
+who$WP$who	O
+the$DT$the	O
+director$NN$director	O
+of$IN$of	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+was$VBD$be	O
+
+find$VV$find	O
+some$DT$some	O
+historical$JJ$historical	B-movie.genre
+romance$NN$romance	I-movie.genre
+movies$NNS$movie	O
+
+give$VV$give	O
+me$PP$me	O
+information$NN$information	O
+about$IN$about	O
+elizabeth$NN$elizabeth	B-person.name
+mcgovern$NN$mcgovern	I-person.name
+
+send$VV$send	O
+me$PP$me	O
+movies$NNS$movie	O
+that$WDT$that	O
+are$VBP$be	O
+in$IN$in	O
+chinese$NN$Chinese	B-movie.language
+
+who$WP$who	O
+was$VBD$be	O
+the$DT$the	O
+lead$JJ$lead	O
+actress$NN$actress	O
+in$IN$in	O
+the$DT$the	B-movie.name
+hunger$NN$hunger	I-movie.name
+games$NNS$game	I-movie.name
+
+can$MD$can	O
+you$PP$you	O
+show$VV$show	O
+me$PP$me	O
+names$NNS$name	O
+of$IN$of	O
+some$DT$some	O
+indian$JJ$Indian	B-movie.language
+romantic$JJ$romantic	B-movie.genre
+movies$NNS$movie	O
+
+what$WP$what	O
+does$VVZ$do	O
+rated$VVN$rate	O
+r$NN$r	B-rating.name
+mean$NN$mean	O
+
+please$UH$please	O
+look$VV$look	O
+up$RP$up	O
+revenue$NN$revenue	O
+from$IN$from	O
+step$NN$step	B-movie.name
+up$RB$up	I-movie.name
+
+search$NN$search	O
+for$IN$for	O
+actors$NNS$actor	O
+
+the$DT$the	O
+movie$NN$movie	O
+mr$NN$Mr	B-movie.name
+and$CC$and	I-movie.name
+mrs$NN$Mrs	I-movie.name
+smith$NN$smith	I-movie.name
+reported$VVD$report	O
+making$VVG$make	O
+how$WRB$how	O
+much$JJ$much	O
+money$NN$money	O
+
+please$UH$please	O
+provide$VV$provide	O
+the$DT$the	O
+name$NN$name	O
+of$IN$of	O
+the$DT$the	O
+company$NN$company	O
+that$WDT$that	O
+produced$VVD$produce	O
+sparkle$NN$sparkle	B-movie.name
+
+who$WP$who	O
+is$VBZ$be	O
+the$DT$the	O
+actress$NN$actress	O
+who$WP$who	O
+played$VVD$play	O
+lucy$NN$lucy	I-character.name
+'s$POS$'s	I-character.name
+best$JJS$good	I-character.name
+friend$NN$friend	I-character.name
+on$IN$on	O
+i$NP$i	B-movie.name
+love$NN$love	I-movie.name
+lucy$NN$lucy	I-movie.name
+
+find$VV$find	O
+movies$NNS$movie	O
+with$IN$with	O
+g$NN$g	B-rating.name
+rating$NN$rating	O
+
+find$VV$find	O
+the$DT$the	O
+director$NN$director	O
+for$IN$for	O
+pretty$JJ$pretty	B-movie.name
+woman$NN$woman	I-movie.name
+
+jenn$NP$Jenn	B-person.name
+ann$NP$Ann	I-person.name
+house$NN$house	O
+
+list$VV$list	O
+all$DT$all	O
+steven$JJ$steven	B-director.name
+spielberg$NN$spielberg	I-director.name
+movies$NNS$movie	O
+
+display$NN$display	O
+images$NNS$image	O
+of$IN$of	O
+actor$NN$actor	O
+will$MD$will	B-person.name
+ferrell$VV$ferrell	I-person.name
+in$IN$in	O
+the$DT$the	O
+news$NN$news	O
+
+who$WP$who	O
+plays$VVZ$play	O
+nemo$NN$nemo	B-character.name
+in$IN$in	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+i$NP$i	O
+wonder$NN$wonder	O
+if$IN$if	O
+time$NN$time	O
+travel$NN$travel	O
+is$VBZ$be	O
+possible$JJ$possible	O
+
+show$VV$show	O
+me$PP$me	O
+all$DT$all	O
+r-rated$JJ$R-rated	B-rating.name
+movies$NNS$movie	O
+
+please$UH$please	O
+select$VV$select	O
+the$DT$the	O
+option$NN$option	O
+to$TO$to	O
+search$VV$search	O
+for$IN$for	O
+g$NN$g	B-rating.name
+rated$VVN$rate	O
+movies$NNS$movie	O
+
+i$NNS$i	O
+need$VVP$need	O
+to$TO$to	O
+know$VV$know	O
+the$DT$the	O
+name$NN$name	O
+of$IN$of	O
+the$DT$the	O
+tv$NN$tv	O
+actor$NN$actor	O
+who$WP$who	O
+played$VVD$play	O
+todd$NNS$todd	B-character.name
+on$IN$on	O
+show$NN$show	O
+one$CD$one	B-movie.name
+life$NN$life	I-movie.name
+to$TO$to	I-movie.name
+live$VV$live	I-movie.name
+
+where$WRB$where	O
+is$VBZ$be	O
+the$DT$the	O
+movie$NN$movie	O
+in$IN$in	B-movie.name
+july$RB$july	I-movie.name
+playing$VVG$play	O
+
+what$WP$what	O
+was$VBD$be	O
+revenue$NN$revenue	O
+made$VVN$make	O
+from$IN$from	O
+the$DT$the	O
+movie$NN$movie	O
+great$JJ$great	B-movie.name
+debaters$NNS$debater	I-movie.name
+
+get$VV$get	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+movies$NNS$movie	O
+with$IN$with	O
+kristen$NN$kristen	B-actor.name
+stewart$NN$stewart	I-actor.name
+
+kindly$RB$kindly	O
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+rating$NN$rating	O
+for$IN$for	O
+cabin$NN$cabin	I-movie.name
+in$IN$in	I-movie.name
+the$DT$the	I-movie.name
+woods$NNS$wood	I-movie.name
+
+show$VV$show	O
+me$PP$me	O
+hungarian$JJ$Hungarian	B-country.name
+comedies$NNS$comedy	B-movie.genre
+
+name$VV$name	O
+all$DT$all	O
+movies$NNS$movie	O
+made$VVN$make	O
+in$IN$in	O
+america$NN$america	B-country.name
+
+reviews$NNS$review	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+the$DT$the	B-movie.name
+campaign$NN$campaign	I-movie.name
+
+appropriate$JJ$appropriate	B-rating.name
+for$IN$for	I-rating.name
+kids$NNS$kid	I-rating.name
+
+about$RB$about	O
+in$IN$in	B-movie.name
+july$RB$july	I-movie.name
+
+how$WRB$how	O
+much$JJ$much	O
+money$NN$money	O
+did$VVD$do	O
+hitch$NN$hitch	B-movie.name
+make$VV$make	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+bio$NN$bio	O
+for$IN$for	O
+the$DT$the	O
+director$NN$director	O
+steven$JJ$steven	B-person.name
+spielberg$NN$spielberg	I-person.name
+
+what$WP$what	O
+is$VBZ$be	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+about$RB$about	O
+
+show$VV$show	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+recent$JJ$recent	O
+releases$NNS$release	O
+that$WDT$that	O
+are$VBP$be	O
+rated$VVN$rate	O
+pg$NN$pg	B-rating.name
+
+who$WP$who	O
+made$VVD$make	O
+steel$NN$steel	B-movie.name
+magnolias$NNS$magnolia	I-movie.name
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	B-movie.name
+campaign$NN$campaign	I-movie.name
+about$RB$about	O
+
+find$VV$find	O
+cast$NN$cast	O
+and$CC$and	O
+crew$NN$crew	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+what$WP$what	O
+are$VBP$be	O
+some$DT$some	O
+japanese$JJ$Japanese	B-movie.language
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+rating$NN$rating	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+romeo$NN$romeo	B-movie.name
+must$MD$must	I-movie.name
+die$VV$die	I-movie.name
+
+was$VBD$be	O
+twenty$CD$twenty	B-movie.gross_revenue
+one$CD$one	I-movie.gross_revenue
+point$NN$point	I-movie.gross_revenue
+two$CD$two	I-movie.gross_revenue
+million$CD$million	I-movie.gross_revenue
+grossed$VVN$gross	O
+in$IN$in	O
+the$DT$the	O
+first$JJ$first	O
+day$NN$day	O
+or$CC$or	O
+week$NN$week	O
+
+list$NN$list	O
+spielberg$NN$spielberg	B-director.name
+movies$NNS$movie	O
+
+who$WP$who	O
+played$VVD$play	O
+esme$NN$esme	B-character.name
+in$IN$in	O
+twilight$NN$twilight	B-movie.name
+
+show$NN$show	O
+ray$NN$ray	B-director.name
+stark$JJ$stark	I-director.name
+movies$NNS$movie	O
+
+do$VV$do	O
+you$PP$you	O
+have$VHP$have	O
+any$DT$any	O
+pg$NN$pg	B-rating.name
+thirteen$CD$thirteen	I-rating.name
+rated$VVN$rate	O
+movies$NNS$movie	O
+
+what$WP$what	O
+movies$NNS$movie	O
+are$VBP$be	O
+safe$JJ$safe	B-rating.name
+for$IN$for	I-rating.name
+a$DT$a	I-rating.name
+young$JJ$young	I-rating.name
+child$NN$child	I-rating.name
+to$TO$to	I-rating.name
+watch$VV$watch	I-rating.name
+
+what$WP$what	O
+are$VBP$be	O
+all$RB$all	O
+of$IN$of	O
+the$DT$the	O
+movies$NNS$movie	O
+that$IN/that$that	O
+john$NN$john	B-director.name
+singleton$NN$singleton	I-director.name
+has$VHZ$have	O
+directed$VVN$direct	O
+
+find$VV$find	O
+a$DT$a	O
+pg$NN$pg	B-rating.name
+rated$VVN$rate	O
+movie$NN$movie	O
+
+take$VV$take	O
+me$PP$me	O
+to$TO$to	O
+freebase$VV$freebase	O
+to$TO$to	O
+find$VV$find	O
+out$RP$out	O
+more$JJR$more	O
+about$IN$about	O
+this$DT$this	O
+movie$NN$movie	O
+
+movies$NNS$movie	O
+from$IN$from	O
+paris$NNS$paris	B-movie.location
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+all$PDT$all	O
+the$DT$the	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+james$NNS$james	B-director.name
+cameron$NN$cameron	I-director.name
+
+find$VV$find	O
+a$DT$a	O
+movie$NN$movie	O
+
+how$WRB$how	O
+much$JJ$much	O
+money$NN$money	O
+did$VVD$do	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+earn$VVP$earn	O
+at$IN$at	O
+the$DT$the	O
+box$NN$box	O
+office$NN$office	O
+
+name$VV$name	O
+the$DT$the	O
+actor$NN$actor	O
+who$WP$who	O
+played$VVD$play	O
+opposite$JJ$opposite	B-character.name
+sidney$NN$sidney	I-character.name
+pointier$NN$pointier	I-character.name
+in$IN$in	O
+shoot$NN$shoot	B-movie.name
+to$TO$to	I-movie.name
+kill$VV$kill	I-movie.name
+
+the$DT$the	B-movie.name
+campaign$NN$campaign	I-movie.name
+
+budget$NN$budget	O
+for$IN$for	O
+the$DT$the	O
+hulk$NN$hulk	B-movie.name
+
+what$WP$what	O
+language$NN$language	O
+is$VBZ$be	O
+spoken$VVN$speak	O
+in$IN$in	O
+indochine$NN$indochine	B-movie.name
+
+what$WP$what	O
+does$VVZ$do	O
+pg$JJ$pg	B-rating.name
+thirteen$CD$thirteen	I-rating.name
+stand$VVP$stand	O
+for$IN$for	O
+
+i$NP$i	O
+only$RB$only	O
+want$VVP$want	O
+movies$NNS$movie	O
+by$IN$by	O
+sidney$NN$sidney	B-director.name
+lumit$NN$lumit	I-director.name
+
+who$WP$who	O
+are$VBP$be	O
+the$DT$the	O
+directors$NNS$director	O
+of$IN$of	O
+gone$VVN$go	B-movie.name
+with$IN$with	I-movie.name
+the$DT$the	I-movie.name
+wind$NN$wind	I-movie.name
+
+great$JJ$great	O
+
+name$NN$name	O
+of$IN$of	O
+company$NN$company	O
+produced$VVD$produce	O
+forrest$NN$forrest	B-movie.name
+gump$NN$gump	I-movie.name
+
+love$NN$love	O
+
+show$VV$show	O
+all$DT$all	O
+comedies$NNS$comedy	B-movie.genre
+that$WDT$that	O
+came$VVD$come	O
+out$RP$out	O
+nine$CD$nine	B-movie.release_date
+twenty$CD$twenty	I-movie.release_date
+eight$NN$eight	I-movie.release_date
+twenty$CD$twenty	I-movie.release_date
+twelve$NN$twelve	I-movie.release_date
+
+what$WP$what	O
+was$VBD$be	O
+top$JJ$top	B-movie.name
+gun$NN$gun	I-movie.name
+'s$POS$'s	O
+budget$NN$budget	O
+
+director$NN$director	O
+
+search$NN$search	O
+by$IN$by	O
+actor$NN$actor	O
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+find$VV$find	O
+romantic$JJ$romantic	B-movie.genre
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+with$IN$with	O
+alan$JJ$alan	B-actor.name
+rickman$NN$rickman	I-actor.name
+
+who$WP$who	O
+is$VBZ$be	O
+the$DT$the	O
+gym$NN$gym	B-character.name
+teacher$NN$teacher	I-character.name
+in$IN$in	O
+glee$NN$glee	B-movie.name
+
+show$VV$show	O
+my$PP$$my	O
+spielberg$NN$spielberg	B-person.name
+info$NN$info	O
+
+show$NN$show	O
+movies$NNS$movie	O
+concerning$VVG$concern	O
+war$NN$war	B-movie.subject
+
+search$NN$search	O
+gilda$NN$gilda	B-movie.name
+director$NN$director	O
+
+language$NN$language	O
+of$IN$of	O
+godzilla$NN$godzilla	B-movie.name
+movie$NN$movie	O
+
+what$WP$what	O
+are$VBP$be	O
+the$DT$the	O
+names$NNS$name	O
+of$IN$of	O
+female$JJ$female	O
+actors$NNS$actor	O
+who$WP$who	O
+played$VVD$play	O
+in$IN$in	O
+lost$VVN$lose	B-movie.name
+
+please$UH$please	O
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+starring$VVG$star	O
+denzel$NN$denzel	B-actor.name
+washington$NN$washington	I-actor.name
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+made$VVN$make	O
+in$IN$in	O
+england$NN$england	B-country.name
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+with$IN$with	O
+pg$NN$pg	B-rating.name
+rating$NN$rating	O
+
+what$WP$what	O
+are$VBP$be	O
+the$DT$the	O
+recommended$JJ$recommended	O
+ages$NNS$age	O
+for$IN$for	O
+a$DT$a	O
+pg$NN$pg	B-rating.name
+thirteen$CD$thirteen	I-rating.name
+movie$NN$movie	O
+
+list$NN$list	O
+all$RB$all	O
+of$IN$of	O
+the$DT$the	O
+movies$NNS$movie	O
+that$WDT$that	O
+have$VHP$have	O
+been$VBN$be	O
+directed$VVN$direct	O
+by$IN$by	O
+robert$NN$robert	B-director.name
+wise$NN$wise	I-director.name
+
+find$VV$find	O
+movies$NNS$movie	O
+produced$VVN$produce	O
+by$IN$by	O
+castle$NN$castle	B-producer.name
+rock$NN$rock	I-producer.name
+entertainment$NN$entertainment	I-producer.name
+
+who$WP$who	O
+acts$VVZ$act	O
+in$IN$in	O
+forager$NN$forager	B-movie.name
+
+ed$VVN$edited	B-actor.name
+harris$NN$harris	I-actor.name
+films$NNS$film	O
+
+show$VV$show	O
+me$PP$me	O
+martin$NN$martin	B-director.name
+scorcese$NN$scorcese	I-director.name
+'s$POS$'s	O
+best$JJS$good	O
+movies$NNS$movie	O
+
+search$NN$search	O
+for$IN$for	O
+the$DT$the	O
+producer$NN$producer	O
+of$IN$of	O
+step$NN$step	B-movie.name
+up$RB$up	I-movie.name
+
+production$NN$production	O
+company$NN$company	O
+for$IN$for	O
+amityville$NN$amityville	B-movie.name
+horror$NN$horror	I-movie.name
+
+jenn$NP$Jenn	B-person.name
+ann$NP$Ann	I-person.name
+news$NN$news	O
+feed$VVD$fee	O
+twenty$CD$twenty	O
+ten$CD$ten	O
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+release$NN$release	O
+date$NN$date	O
+of$IN$of	O
+heroine$NN$heroine	B-movie.name
+
+what$WP$what	O
+language$NN$language	O
+is$VBZ$be	O
+ju$NN$ju	B-movie.name
+on$IN$on	I-movie.name
+on$IN$on	O
+
+get$VV$get	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+animated$JJ$animated	B-movie.genre
+films$NNS$film	O
+
+what$WP$what	O
+movies$NNS$movie	O
+has$VHZ$have	O
+albert$NN$albert	B-producer.name
+ruddy$JJ$ruddy	I-producer.name
+produced$VVD$produce	O
+
+locate$VV$locate	O
+romantic$JJ$romantic	B-movie.genre
+movies$NNS$movie	O
+for$IN$for	O
+me$PP$me	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	B-movie.name
+lion$NN$lion	I-movie.name
+king$NN$king	I-movie.name
+'s$POS$'s	O
+budget$NN$budget	O
+
+who$WP$who	O
+starred$VVD$star	O
+in$IN$in	O
+taxi$NN$taxi	B-movie.name
+
+show$VV$show	O
+me$PP$me	O
+pictures$NNS$picture	O
+of$IN$of	O
+movie$NN$movie	O
+producers$NNS$producer	O
+
+warner$NN$warner	B-person.name
+brothers$NNS$brother	O
+bio$NN$bio	O
+
+can$MD$can	O
+you$PP$you	O
+tell$VV$tell	O
+me$PP$me	O
+the$DT$the	O
+language$NN$language	O
+of$IN$of	O
+the$DT$the	O
+movie$NN$movie	O
+aankhen$NN$aankhen	B-movie.name
+
+what$WP$what	O
+genre$NN$genre	O
+is$VBZ$be	O
+the$DT$the	O
+movie$NN$movie	O
+pretty$JJ$pretty	B-movie.name
+girl$NN$girl	I-movie.name
+
+current$JJ$current	O
+movie$NN$movie	O
+suggestions$NNS$suggestion	O
+
+reviews$NNS$review	O
+for$IN$for	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+four$CD$four	I-movie.name
+
+show$VVP$show	O
+me$PP$me	O
+all$PDT$all	O
+the$DT$the	O
+movies$NNS$movie	O
+made$VVN$make	O
+by$IN$by	O
+universal$JJ$universal	B-producer.name
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+name$NN$name	O
+of$IN$of	O
+the$DT$the	O
+company$NN$company	O
+that$WDT$that	O
+produced$VVD$produce	O
+the$DT$the	O
+movie$NN$movie	O
+ants$NNS$ant	B-movie.name
+
+show$VV$show	O
+me$PP$me	O
+brad$NN$brad	B-actor.name
+pitt$NN$pitt	I-actor.name
+movies$NNS$movie	O
+
+end$NN$end	B-movie.name
+of$IN$of	I-movie.name
+watch$NN$watch	I-movie.name
+gross$JJ$gross	O
+
+what$WP$what	O
+language$NN$language	O
+is$VBZ$be	O
+the$DT$the	B-movie.name
+professional$JJ$professional	I-movie.name
+in$IN$in	O
+
+rating$NN$rating	O
+for$IN$for	O
+resident$JJ$resident	B-movie.name
+evil$NN$evil	I-movie.name
+
+see$VV$see	O
+comedy$NN$comedy	B-movie.genre
+
+i$NP$i	O
+would$MD$would	O
+like$VV$like	O
+to$TO$to	O
+watch$VV$watch	O
+movies$NNS$movie	O
+that$WDT$that	O
+are$VBP$be	O
+spoken$VVN$speak	O
+in$IN$in	O
+spanish$NN$Spanish	B-movie.language
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	B-movie.name
+lion$NN$lion	I-movie.name
+king$NN$king	I-movie.name
+'s$POS$'s	O
+revenue$NN$revenue	O
+
+what$WP$what	O
+type$NN$type	O
+of$IN$of	O
+film$NN$film	O
+is$VBZ$be	O
+raiders$NNS$raider	B-movie.name
+of$IN$of	I-movie.name
+the$DT$the	I-movie.name
+lost$VVN$lose	I-movie.name
+art$NN$art	I-movie.name
+
+titanic$JJ$titanic	B-movie.name
+release$NN$release	O
+date$NN$date	O
+
+twenty$CD$twenty	B-movie.release_date
+twelve$NN$twelve	I-movie.release_date
+twentieth$JJ$twentieth	B-producer.name
+century$NN$century	I-producer.name
+fox$NN$fox	I-producer.name
+movies$NNS$movie	O
+
+find$VV$find	O
+information$NN$information	O
+about$IN$about	O
+robert$NN$robert	B-person.name
+wise$NN$wise	I-person.name
+
+movies$NNS$movie	O
+from$IN$from	O
+the$DT$the	B-country.name
+uk$NN$uk	I-country.name
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+find$VV$find	O
+pg-13$JJ$pg-13	B-rating.name
+rated$VVN$rate	O
+movies$NNS$movie	O
+
+avatar$NN$avatar	B-movie.name
+was$VBD$be	O
+directed$VVN$direct	O
+by$IN$by	O
+whom$WP$whom	O
+
+how$WRB$how	O
+many$JJ$many	O
+films$NNS$film	O
+directed$VVN$direct	O
+by$IN$by	O
+barbra$NN$barbra	B-director.name
+streisand$NN$streisand	I-director.name
+have$VHP$have	O
+been$VBN$be	O
+shot$VVN$shoot	O
+in$IN$in	O
+the$DT$the	O
+czech$NN$Czech	B-movie.location
+republic$NN$republic	I-movie.location
+
+when$WRB$when	O
+was$VBD$be	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+released$VVN$release	O
+
+show$VV$show	O
+me$PP$me	O
+magazine$NN$magazine	O
+reviews$NNS$review	O
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+movies$NNS$movie	O
+produced$VVN$produce	O
+by$IN$by	O
+mgm$NN$mgm	B-producer.name
+
+what$WP$what	O
+catergory$NN$catergory	O
+is$VBZ$be	O
+ted$VV$ted	B-movie.name
+in$IN$in	O
+
+who$WP$who	O
+stars$VVZ$star	O
+in$IN$in	O
+in$IN$in	B-movie.name
+july$NN$July	I-movie.name
+
+what$WP$what	O
+movies$NNS$movie	O
+are$VBP$be	O
+their$PP$$their	O
+in$RB$in	O
+portuguese$JJ$Portuguese	B-movie.language
+
+what$WP$what	O
+movies$NNS$movie	O
+are$VBP$be	O
+related$VVN$relate	O
+to$TO$to	O
+dirty$JJ$dirty	B-movie.name
+dancing$NN$dancing	I-movie.name
+
+in$IN$in	O
+what$WP$what	O
+country$NN$country	O
+was$VBD$be	O
+the$DT$the	O
+movie$NN$movie	O
+mirror$NN$mirror	B-movie.name
+produced$VVD$produce	O
+
+do$VV$do	O
+you$PP$you	O
+know$VV$know	O
+when$WRB$when	O
+this$DT$this	O
+movie$NN$movie	O
+is$VBZ$be	O
+available$JJ$available	O
+
+show$VV$show	O
+me$PP$me	O
+viewer$NN$viewer	O
+ratings$NNS$rating	O
+in$IN$in	B-movie.name
+orange$NN$orange	I-movie.name
+
+what$WP$what	O
+was$VBD$be	O
+kevin$NN$kevin	B-actor.name
+james$NNS$james	I-actor.name
+role$NN$role	O
+in$IN$in	O
+hitch$NN$hitch	B-movie.name
+
+find$VV$find	O
+all$DT$all	O
+films$NNS$film	O
+showing$VVG$show	O
+in$IN$in	O
+french$NN$French	B-movie.language
+
+show$VV$show	O
+me$PP$me	O
+thrillers$NNS$thriller	B-movie.genre
+
+what$WP$what	O
+country$NN$country	O
+does$VVZ$do	O
+mirror$NN$mirror	B-movie.name
+come$VVN$come	O
+from$IN$from	O
+
+i$NNS$i	O
+want$VVP$want	O
+japanese$JJ$Japanese	B-country.name
+movies$NNS$movie	O
+
+are$VBP$be	O
+there$RB$there	O
+any$DT$any	O
+g$NN$g	B-rating.name
+movies$NNS$movie	O
+out$RB$out	O
+there$RB$there	O
+right$RB$right	O
+now$RB$now	O
+
+on$IN$on	B-movie.name
+july$RB$july	I-movie.name
+
+search$NN$search	O
+by$IN$by	O
+actor$NN$actor	O
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+about$IN$about	O
+gardening$NN$gardening	B-movie.subject
+
+what$WP$what	O
+types$NNS$type	O
+of$IN$of	O
+movies$NNS$movie	O
+does$VVZ$do	O
+lionsgate$RB$lionsgate	B-producer.name
+produce$VV$produce	O
+
+what$WP$what	O
+actors$NNS$actor	O
+appeared$VVD$appear	O
+in$IN$in	O
+the$DT$the	O
+movie$NN$movie	O
+hitch$NN$hitch	B-movie.name
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+movie$NN$movie	O
+with$IN$with	O
+patrick$NN$patrick	B-actor.name
+swayze$NNS$swayze	I-actor.name
+and$CC$and	O
+jennifer$NN$jennifer	B-actor.name
+grey$NN$grey	I-actor.name
+
+movies$NNS$movie	O
+gross$JJ$gross	O
+revenue$NN$revenue	O
+of$IN$of	O
+seven$CD$seven	B-movie.gross_revenue
+point$NN$point	I-movie.gross_revenue
+two$CD$two	I-movie.gross_revenue
+million$CD$million	I-movie.gross_revenue
+dollars$NNS$dollar	I-movie.gross_revenue
+
+i$NNS$i	O
+am$VBP$be	O
+trying$VVG$try	O
+to$TO$to	O
+discover$VV$discover	O
+how$WRB$how	O
+much$JJ$much	O
+budget$NN$budget	O
+costs$NNS$cost	O
+were$VBD$be	O
+for$IN$for	O
+cabin$NN$cabin	B-movie.name
+in$IN$in	I-movie.name
+the$DT$the	I-movie.name
+woods$NNS$wood	I-movie.name
+
+search$NN$search	O
+for$IN$for	O
+movies$NNS$movie	O
+produced$VVN$produce	O
+by$IN$by	O
+spike$NN$spike	B-producer.name
+lee$NN$lee	I-producer.name
+
+list$VV$list	O
+some$DT$some	O
+sci$NN$sci	B-movie.genre
+fi$NN$fi	I-movie.genre
+movies$NNS$movie	O
+
+get$VV$get	O
+me$PP$me	O
+the$DT$the	O
+name$NN$name	O
+of$IN$of	O
+who$WP$who	O
+directed$VVD$direct	O
+the$DT$the	B-movie.name
+master$NN$master	I-movie.name
+
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+movies$NNS$movie	O
+with$IN$with	O
+r$NN$r	B-rating.name
+rating$NN$rating	O
+
+how$WRB$how	O
+much$RB$much	O
+did$VVD$do	O
+house$NN$house	B-movie.name
+at$IN$at	I-movie.name
+the$DT$the	I-movie.name
+end$NN$end	I-movie.name
+of$IN$of	I-movie.name
+the$DT$the	I-movie.name
+street$NN$street	I-movie.name
+make$VV$make	O
+
+when$WRB$when	O
+did$VVD$do	O
+richard$JJ$richard	B-director.name
+lester$NN$lester	I-director.name
+start$NN$start	O
+directing$NN$directing	O
+
+search$NN$search	O
+for$IN$for	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+tyler$NN$tyler	B-director.name
+perry$NN$perry	I-director.name
+
+can$MD$can	O
+you$PP$you	O
+show$VV$show	O
+me$PP$me	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+scary$JJ$scary	B-movie.genre
+movies$NNS$movie	O
+
+who$WP$who	O
+was$VBD$be	O
+your$PP$$your	O
+favorite$JJ$favorite	O
+set$NN$set	O
+member$NN$member	O
+
+tell$VV$tell	O
+me$PP$me	O
+where$WRB$where	O
+is$VBZ$be	O
+trainspotting$VVG$trainspotting	B-movie.name
+from$IN$from	O
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+in$IN$in	O
+chinese$NN$Chinese	B-movie.language
+
+was$VBD$be	O
+the$DT$the	O
+poularity$NN$poularity	B-movie.name
+good$JJ$good	O
+or$CC$or	O
+bad$JJ$bad	O
+
+netflix$NN$netflix	O
+
+what$WP$what	O
+types$NNS$type	O
+of$IN$of	O
+movies$NNS$movie	O
+are$VBP$be	O
+there$RB$there	O
+
+search$NN$search	O
+twentieth$JJ$twentieth	B-producer.name
+century$NN$century	I-producer.name
+fox$NN$fox	I-producer.name
+
+find$VV$find	O
+time$NN$time	B-movie.subject
+travel$NN$travel	I-movie.subject
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+little$JJ$little	B-character.name
+girl$NN$girl	I-character.name
+from$IN$from	O
+full$JJ$full	B-movie.name
+house$NN$house	I-movie.name
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+movie$NN$movie	O
+vulgaria$NN$vulgaria	B-movie.name
+
+will$NN$will	B-actor.name
+'s$VBZ$be	O
+in$IN$in	O
+the$DT$the	B-movie.name
+hitch$NN$hitch	I-movie.name
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+michael$NP$Michael	B-director.name
+bay$NN$bay	I-director.name
+
+show$VV$show	O
+me$PP$me	O
+some$DT$some	O
+films$NNS$film	O
+produced$VVN$produce	O
+by$IN$by	O
+jon$NN$jon	B-producer.name
+landau$NN$landau	I-producer.name
+
+list$NN$list	O
+french$NN$French	B-movie.language
+language$NN$language	I-movie.language
+comedy$NN$comedy	B-movie.genre
+films$NNS$film	O
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+will$NN$will	B-person.name
+ferrell$NN$ferrell	I-person.name
+details$NNS$detail	O
+
+display$VV$display	O
+all$DT$all	O
+information$NN$information	O
+on$IN$on	O
+will$NN$will	B-person.name
+ferrell$NN$ferrell	I-person.name
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+total$JJ$total	O
+cost$NN$cost	O
+of$IN$of	O
+production$NN$production	O
+for$IN$for	O
+looper$NN$looper	B-movie.name
+
+select$JJ$select	O
+shown$VVN$show	O
+information$NN$information	O
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+name$NN$name	O
+of$IN$of	O
+the$DT$the	O
+company$NN$company	O
+that$WDT$that	O
+produced$VVD$produce	O
+the$DT$the	O
+movie$NN$movie	O
+inception$NN$inception	B-movie.name
+
+please$UH$please	O
+make$VV$make	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+movies$NNS$movie	O
+that$WDT$that	O
+have$VHP$have	O
+been$VBN$be	O
+made$VVN$make	O
+in$IN$in	O
+spanish$NN$Spanish	B-movie.language
+
+karate$NN$karate	B-movie.name
+kid$NN$kid	I-movie.name
+release$NN$release	O
+date$NN$date	O
+
+who$WP$who	O
+produced$VVD$produce	O
+avatar$NN$avatar	B-movie.name
+
+show$VV$show	O
+me$PP$me	O
+this$DT$this	B-movie.release_date
+years$NNS$year	O
+top$NN$top	O
+rated$VVN$rate	O
+italian$JJ$Italian	B-country.name
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+movies$NNS$movie	O
+released$VVN$release	O
+in$IN$in	O
+september$NN$September	B-movie.release_date
+
+find$VV$find	O
+movies$NNS$movie	O
+produced$VVN$produce	O
+in$IN$in	O
+russia$NN$russia	B-country.name
+
+list$NN$list	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+clint$NN$clint	B-director.name
+eastwood$NN$eastwood	I-director.name
+
+middle$JJ$middle	O
+aged$VVN$age	O
+white$JJ$white	O
+actors$NNS$actor	O
+
+find$VV$find	O
+ms.$JJ$ms.	B-movie.name
+congeniality$NN$congeniality	I-movie.name
+
+cast$NN$cast	O
+and$CC$and	O
+crew$NN$crew	O
+for$IN$for	O
+hitch$NN$hitch	B-movie.name
+
+please$UH$please	O
+look$VV$look	O
+up$RP$up	O
+movies$NNS$movie	O
+produced$VVN$produce	O
+by$IN$by	O
+albert$NN$albert	B-producer.name
+ruddy$JJ$ruddy	I-producer.name
+
+can$MD$can	O
+you$PP$you	O
+show$VV$show	O
+me$PP$me	O
+information$NN$information	O
+on$RB$on	O
+will$MD$will	B-person.name
+ferrell$RB$ferrell	I-person.name
+please$VV$please	O
+
+will$MD$will	O
+you$PP$you	O
+show$VV$show	O
+the$DT$the	O
+cost$NN$cost	O
+to$TO$to	O
+produce$VV$produce	O
+the$DT$the	B-movie.name
+deer$NN$deer	I-movie.name
+hunter$NN$hunter	I-movie.name
+
+how$WRB$how	O
+much$JJ$much	O
+money$NN$money	O
+did$VVD$do	O
+pretty$RB$pretty	B-movie.name
+woman$NN$woman	I-movie.name
+take$VV$take	O
+in$IN$in	O
+
+who$WP$who	O
+was$VBD$be	O
+the$DT$the	O
+lead$NN$lead	O
+in$IN$in	O
+black$JJ$black	B-movie.name
+swan$NN$swan	I-movie.name
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+know$VV$know	O
+more$JJR$more	O
+about$IN$about	O
+the$DT$the	O
+movie$NN$movie	O
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+
+watch$NN$watch	O
+ron$NN$ron	B-director.name
+howard$NN$howard	I-director.name
+'s$POS$'s	O
+latest$JJS$late	O
+movie$NN$movie	O
+
+see$VV$see	O
+lionsgate$NN$lionsgate	B-producer.name
+info$NN$info	O
+
+show$VV$show	O
+me$PP$me	O
+spielberg$NP$Spielberg	B-person.name
+'s$POS$'s	O
+main$JJ$main	O
+page$NN$page	O
+
+clint$JJ$clint	B-actor.name
+eastwood$NN$eastwood	I-actor.name
+movies$NNS$movie	O
+
+did$VVD$do	O
+you$PP$you	O
+help$VV$help	O
+with$IN$with	O
+anything$NN$anything	O
+other$JJ$other	O
+than$IN$than	O
+the$DT$the	O
+script$NN$script	O
+
+show$NN$show	O
+director$NN$director	O
+clint$NN$clint	B-director.name
+eastwood$NN$eastwood	I-director.name
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+trivikram$NN$trivikram	B-director.name
+
+should$MD$should	O
+i$NNS$i	O
+let$VV$let	O
+my$PP$$my	O
+kid$NN$kid	O
+see$VV$see	O
+a$DT$a	O
+pg$NN$pg	B-rating.name
+thirteen$CD$thirteen	I-rating.name
+movie$NN$movie	O
+alone$RB$alone	O
+
+what$WP$what	O
+actress$NN$actress	O
+starred$VVN$star	O
+in$IN$in	O
+i$NP$i	B-movie.name
+love$NN$love	I-movie.name
+lucy$NN$lucy	I-movie.name
+as$IN$as	O
+ethel$NN$ethel	B-character.name
+
+goto$NN$goto	O
+lionsgate$NNS$lionsgate	B-producer.name
+
+list$VV$list	O
+me$PP$me	O
+the$DT$the	O
+actors$NNS$actor	O
+for$IN$for	O
+top$JJ$top	B-movie.name
+gun$NN$gun	I-movie.name
+
+search$NN$search	O
+for$IN$for	O
+the$DT$the	O
+rating$NN$rating	O
+of$IN$of	O
+the$DT$the	O
+movie$NN$movie	O
+dredd$NN$dredd	B-movie.name
+
+show$VV$show	O
+me$PP$me	O
+pictures$NNS$picture	O
+of$IN$of	O
+beautiful$JJ$beautiful	O
+people$NNS$people	O
+
+how$WRB$how	O
+much$JJ$much	O
+revenue$NN$revenue	O
+did$VVD$do	O
+bananas$NNS$banana	B-movie.name
+make$VV$make	O
+
+which$WDT$which	O
+country$NN$country	O
+is$VBZ$be	O
+this$DT$this	O
+movie$NN$movie	O
+from$IN$from	O
+
+lionsgate$NN$lionsgate	B-producer.name
+movies$NNS$movie	O
+for$IN$for	O
+twenty$CD$twenty	B-movie.release_date
+thirteen$CD$thirteen	I-movie.release_date
+
+search$NN$search	O
+for$IN$for	O
+dirty$JJ$dirty	B-movie.name
+dancing$NN$dancing	I-movie.name
+
+mandarin$NN$mandarin	B-movie.language
+movie$NN$movie	O
+please$RB$please	O
+
+are$VBP$be	O
+the$DT$the	O
+animated$JJ$animated	O
+charactors$NNS$charactors	O
+protrayed$VVN$protrayed	O
+as$IN$as	O
+small$JJ$small	O
+or$CC$or	O
+human$JJ$human	O
+size$NN$size	O
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+rating$NN$rating	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+the$DT$the	B-movie.name
+expendables$NNS$expendable	I-movie.name
+2$CD$2	I-movie.name
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+movies$NNS$movie	O
+released$VVN$release	O
+in$IN$in	O
+america$NN$america	B-movie.release_region
+
+how$WRB$how	O
+much$JJ$much	O
+revenue$NN$revenue	O
+did$VVD$do	O
+the$DT$the	B-movie.name
+avengers$NNS$avenger	I-movie.name
+take$VVP$take	O
+it$PP$it	O
+
+when$WRB$when	O
+was$VBD$be	O
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+released$VVD$release	O
+
+find$VV$find	O
+films$NNS$film	O
+
+i$NNS$i	O
+need$VVP$need	O
+to$TO$to	O
+know$VV$know	O
+the$DT$the	O
+name$NN$name	O
+of$IN$of	O
+the$DT$the	O
+country$NN$country	O
+to$TO$to	O
+which$WDT$which	O
+the$DT$the	O
+movie$NN$movie	O
+kati$NN$kati	B-movie.name
+patang$NN$patang	I-movie.name
+belongs$VVZ$belong	O
+to$TO$to	O
+
+what$WP$what	O
+year$NN$year	O
+did$VVD$do	O
+spielberg$RB$spielberg	B-director.name
+start$VV$start	O
+directing$VVG$direct	O
+movies$NNS$movie	O
+
+find$VV$find	O
+movies$NNS$movie	O
+directed$VVN$direct	O
+by$IN$by	O
+chris$NN$chris	B-director.name
+columbus$NN$Columbus	I-director.name
+
+what$WP$what	O
+are$VBP$be	O
+all$DT$all	O
+movies$NNS$movie	O
+made$VVN$make	O
+in$IN$in	O
+america$NN$america	B-country.name
+
+how$WRB$how	O
+would$MD$would	O
+you$PP$you	O
+describe$VV$describe	O
+the$DT$the	O
+movie$NN$movie	O
+
+release$NN$release	O
+date$NN$date	O
+for$IN$for	O
+the$DT$the	B-movie.name
+hunger$NN$hunger	I-movie.name
+games$NNS$game	I-movie.name
+
+look$VV$look	O
+for$IN$for	O
+revenue$NN$revenue	O
+from$IN$from	O
+freedom$NN$freedom	B-movie.name
+writers$NNS$writer	I-movie.name
+
+how$WRB$how	O
+many$JJ$many	O
+minutes$NNS$minute	O
+is$VBZ$be	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+four$CD$four	I-movie.name
+
+i$NNS$i	O
+want$VVP$want	O
+a$DT$a	O
+list$NN$list	O
+of$IN$of	O
+pg$NN$pg	B-rating.name
+rated$VVN$rate	O
+movies$NNS$movie	O
+
+show$VV$show	O
+me$PP$me	O
+pictures$NNS$picture	O
+of$IN$of	O
+famous$JJ$famous	O
+blondes$NNS$blonde	O
+
+movie$NN$movie	O
+rating$NN$rating	O
+
+language$NN$language	O
+
+what$WP$what	O
+films$VVZ$film	O
+deal$NN$deal	O
+with$IN$with	O
+immigrants$NNS$immigrant	B-movie.subject
+in$IN$in	I-movie.subject
+america$NN$america	I-movie.subject
+
+list$NN$list	O
+ice$NN$ice	B-movie.subject
+skating$NN$skating	I-movie.subject
+movies$NNS$movie	O
+please$VVP$please	O
+
+show$NN$show	O
+movies$NNS$movie	O
+with$IN$with	O
+angelina$NN$angelina	B-actor.name
+jolie$NN$jolie	I-actor.name
+
+where$WRB$where	O
+can$MD$can	O
+i$NNS$i	O
+watch$VV$watch	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+four$CD$four	I-movie.name
+
+search$NN$search	O
+for$IN$for	O
+movies$NNS$movie	O
+about$IN$about	O
+preschool$JJ$preschool	B-movie.subject
+boys$NNS$boy	I-movie.subject
+
+what$WP$what	O
+is$VBZ$be	O
+the$DT$the	O
+name$NN$name	O
+of$IN$of	O
+the$DT$the	O
+red$JJ$red	B-character.name
+ranger$NN$ranger	I-character.name
+guy$NN$guy	I-character.name
+in$IN$in	O
+power$NN$power	B-movie.name
+rangers$NNS$ranger	I-movie.name
+
+show$VV$show	O
+me$PP$me	O
+the$DT$the	O
+movies$NNS$movie	O
+that$IN/that$that	O
+james$NNS$james	B-producer.name
+cameron$NN$cameron	I-producer.name
+has$VHZ$have	O
+produced$VVN$produce	O
+
+who$WP$who	O
+directed$VVD$direct	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+list$VV$list	O
+all$DT$all	O
+rated$VVN$rate	O
+r$NN$r	B-rating.name
+movies$NNS$movie	O
+
+can$MD$can	O
+you$PP$you	O
+tell$VV$tell	O
+me$PP$me	O
+when$WRB$when	O
+24$CD$@card@	B-movie.name
+will$MD$will	O
+be$VB$be	O
+released$VVN$release	O
+
+r$SYM$r	B-rating.name
+rating$NN$rating	O
+means$VVZ$mean	O
+sex$NN$sex	O
+or$CC$or	O
+nudity$NN$nudity	O
+
+will$MD$will	B-actor.name
+ferell$NP$Ferell	I-actor.name
+videos$NNS$video	O
+
+who$WP$who	O
+starred$VVD$star	O
+in$IN$in	O
+captain$NN$captain	B-movie.name
+america$NN$america	I-movie.name
+
+find$VV$find	O
+classic$JJ$classic	B-movie.subject
+car$NN$car	I-movie.subject
+documentaries$NNS$documentary	B-movie.genre
+
+find$VV$find	O
+rating$NN$rating	O
+information$NN$information	O
+about$IN$about	O
+the$DT$the	O
+movie$NN$movie	O
+dredd$NN$dredd	B-movie.name
+
+which$WDT$which	O
+movies$NNS$movie	O
+are$VBP$be	O
+originally$RB$originally	O
+in$IN$in	O
+a$DT$a	B-movie.language
+foreign$JJ$foreign	I-movie.language
+language$NN$language	I-movie.language
+
+is$VBZ$be	O
+tom$NN$tom	B-person.name
+cruise$NN$cruise	I-person.name
+married$VVN$marry	O
+
+brad$NN$brad	B-actor.name
+pitt$NN$pitt	I-actor.name
+movie$NN$movie	O
+now$RB$now	O
+
+find$VV$find	O
+movies$NNS$movie	O
+from$IN$from	O
+india$NN$india	B-country.name
+
+movies$NNS$movie	O
+alfred$NN$alfred	B-director.name
+hitchcock$NN$hitchcock	I-director.name
+
+show$NN$show	O
+star$NN$star	B-movie.name
+wars$NNS$war	I-movie.name
+movie$NN$movie	O
+
+where$WRB$where	O
+can$MD$can	O
+i$NNS$i	O
+find$VV$find	O
+the$DT$the	O
+movie$NN$movie	O
+amelie$NN$amelie	B-movie.name
+in$IN$in	O
+french$NNS$French	B-movie.language
+
+display$NN$display	O
+information$NN$information	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+life$NN$life	B-movie.name
+is$VBZ$be	I-movie.name
+beautiful$JJ$beautiful	I-movie.name
+
+when$WRB$when	O
+is$VBZ$be	O
+i$NP$i	B-movie.name
+am$VBP$be	I-movie.name
+legend$NN$legend	I-movie.name
+2$CD$2	I-movie.name
+going$VVG$go	O
+to$TO$to	O
+be$VB$be	O
+released$VVN$release	O
+
+what$WP$what	O
+genre$NN$genre	O
+is$VBZ$be	O
+pretty$RB$pretty	B-movie.name
+girl$NN$girl	I-movie.name
+
+show$NN$show	O
+brad$NN$brad	B-actor.name
+pitt$NN$pitt	I-actor.name
+movies$NNS$movie	O
+
+about$IN$about	O
+house$NN$house	B-movie.name
+at$IN$at	I-movie.name
+the$DT$the	I-movie.name
+end$NN$end	I-movie.name
+of$IN$of	I-movie.name
+the$DT$the	I-movie.name
+street$NN$street	I-movie.name
+
+display$NN$display	O
+french$NN$French	B-movie.subject
+culture$NN$culture	I-movie.subject
+films$NNS$film	O
+
+i$NNS$i	O
+want$VVP$want	O
+to$TO$to	O
+see$VV$see	O
+a$DT$a	O
+comedy$NN$comedy	B-movie.genre
+in$IN$in	O
+spanish$NN$Spanish	B-movie.language
+
+watch$VV$watch	O
+the$DT$the	O
+last$JJ$last	O
+james$NNS$james	B-director.name
+cameron$NN$cameron	I-director.name
+movie$NN$movie	O
+
+i$NP$i	O
+would$MD$would	O
+like$VV$like	O
+to$TO$to	O
+watch$VV$watch	O
+an$DT$an	O
+alfred$NP$Alfred	B-director.name
+hitchcock$NN$hitchcock	I-director.name
+movie$NN$movie	O
+
+what$WP$what	O
+did$VVD$do	O
+tom$NN$tom	B-producer.name
+hanks$NNS$hank	I-producer.name
+produces$VVZ$produce	O
+
+look$VV$look	O
+up$RP$up	O
+movies$NNS$movie	O
+with$IN$with	O
+a$DT$a	O
+g$NN$g	B-rating.name
+rating$NN$rating	O
+
+only$JJ$only	O
+mel$NN$mel	B-actor.name
+gibson$NN$gibson	I-actor.name
+movies$NNS$movie	O
+
+i$NNS$i	O
+need$VVP$need	O
+to$TO$to	O
+get$VV$get	O
+every$DT$every	O
+possible$JJ$possible	O
+information$NN$information	O
+related$VVN$relate	O
+with$IN$with	O
+the$DT$the	O
+movie$NN$movie	O
+dirty$JJ$dirty	B-movie.name
+dancing$NN$dancing	I-movie.name
+
+show$VV$show	O
+me$PP$me	O
+mystery$NN$mystery	B-movie.genre
+movies$NNS$movie	O
+
+pg$NN$pg	B-rating.name
+movies$NNS$movie	O
+
+synopsis$NN$synopsis	O
+for$IN$for	O
+finding$VVG$find	B-movie.name
+nemo$NN$nemo	I-movie.name
+
+i$NNS$i	O
+want$VVP$want	O
+info$NN$info	O
+on$IN$on	O
+how$WRB$how	O
+produced$VVN$produce	O
+hitch$NN$hitch	B-movie.name
+
+what$WP$what	O
+ron$VVZ$ron	B-director.name
+howard$JJ$howard	I-director.name
+movies$NNS$movie	O
+are$VBP$be	O
+rated$VVN$rate	O
+pg-13$NN$pg-13	B-rating.name
+
+can$MD$can	O
+you$PP$you	O
+please$VV$please	O
+show$VV$show	O
+me$PP$me	O
+info$NN$info	O
+on$IN$on	O
+the$DT$the	O
+movie$NN$movie	O
+dirty$JJ$dirty	B-movie.name
+dancing$NN$dancing	I-movie.name
+
+when$WRB$when	O
+was$VBD$be	O
+herione$RB$herione	B-movie.name
+released$VVN$release	O
+
+what$WP$what	O
+was$VBD$be	O
+the$DT$the	O
+total$JJ$total	O
+gross$NN$gross	O
+for$IN$for	O
+the$DT$the	O
+movie$NN$movie	O
+bananas$NNS$banana	B-movie.name
+

@@ -1,0 +1,2853 @@
+BOS O O
+will$MD B-person.name B-person.name
+Ferrell$NP I-person.name I-person.name
+tidbit$NNS O O
+EOS O O
+
+BOS O O
+when$WRB O O
+be$VBZ O O
+iron$NN B-movie.name B-movie.name
+man$NN I-movie.name I-movie.name
+3$CD I-movie.name I-movie.name
+come$VVG O O
+out$RP O I-movie.name
+EOS O O
+
+BOS O O
+find$VV O O
+detective$NN B-movie.subject B-movie.genre
+movie$NNS O O
+rate$VVN O O
+r$NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+list$NN O O
+movie$NNS O O
+release$VVN O O
+in$IN O O
+italy$RB B-movie.release_region B-country.name
+in$IN O O
+@card@$CD B-movie.release_date B-movie.release_date
+EOS O O
+
+BOS O O
+movie$NNS O O
+in$IN O O
+French$NNS B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+give$VV O O
+me$PP O O
+the$DT O O
+name$NN O O
+of$IN O O
+the$DT B-character.name B-character.name
+mom$NN I-character.name I-character.name
+on$IN O O
+seinfeld$NP B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+movie$NN O O
+brad$NN B-actor.name B-actor.name
+pitt$NN I-actor.name I-actor.name
+in$IN O O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBP O O
+the$DT O O
+rating$NNS O O
+for$IN O O
+movie$NNS O O
+EOS O O
+
+BOS O O
+tell$VV O O
+me$PP O O
+about$IN O O
+the$DT O O
+revenue$NN O O
+generate$VVN O O
+by$IN O O
+the$DT O O
+movie$NN O O
+avatar$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+when$WRB O O
+be$VBD O O
+paranorman$NP B-movie.name B-movie.name
+be$VB O O
+release$VVN O O
+EOS O O
+
+BOS O O
+who$WP O O
+produce$VVD O O
+the$DT O O
+theatrical$JJ O O
+film$NN O O
+the$DT B-movie.name B-movie.name
+devil$NN I-movie.name I-movie.name
+wear$VVZ I-movie.name I-movie.name
+prada$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show$NN O O
+nc$NN B-rating.name B-rating.name
+seventeen$CD B-rating.name I-rating.name
+movie$NNS O O
+for$IN O O
+twenty$CD B-movie.release_date B-movie.release_date
+eleven$NN I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+see$VV O O
+infomation$NN O O
+on$IN O O
+the$DT O O
+movie$NN O O
+dirty$JJ B-movie.name B-movie.name
+dancing$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find$VV O O
+movie$NNS O O
+rate$VVN O O
+pg$NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+movie$NNS O O
+in$IN O O
+dutch$NN B-movie.language B-country.name
+EOS O O
+
+BOS O O
+movie$NNS O O
+about$IN O O
+nature$NN B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+movie$NNS O O
+that$WDT O O
+have$VHP O O
+comedy$NN B-movie.genre B-movie.genre
+EOS O O
+
+BOS O O
+how$WRB O O
+much$RB O O
+do$VVD O O
+titanic$JJ B-movie.name B-movie.name
+cost$NN O O
+to$TO O O
+make$VV O O
+EOS O O
+
+BOS O O
+movie$NNS O O
+from$IN O O
+the$DT B-country.name B-country.name
+us$PP I-country.name I-country.name
+EOS O O
+
+BOS O O
+find$VV O O
+a$DT O O
+movie$NN O O
+about$IN O O
+apartheid$NN B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+movie$NNS O O
+star$VVG O O
+denzel$NN B-actor.name B-actor.name
+washington$NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+please$UH O O
+show$VV O O
+me$PP O O
+information$NN O O
+on$IN O O
+will$NN B-person.name B-person.name
+ferrell$NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+scifi$NN B-movie.genre B-movie.genre
+fantasy$NN B-movie.genre I-movie.genre
+movie$NNS O O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBP O O
+the$DT O O
+film$NNS O O
+that$IN/that O O
+warner$NN B-producer.name B-producer.name
+bros.$NN I-producer.name I-producer.name
+produce$VVD O O
+EOS O O
+
+BOS O O
+about$IN O O
+find$VVG B-movie.name B-movie.name
+nemo$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+movie$NNS O O
+in$IN O O
+Swedish$NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+find$VV O O
+movie$NNS O O
+direct$VVN O O
+by$IN O O
+steven$JJ B-director.name B-director.name
+spielberg$NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+give$VV O O
+me$PP O O
+a$DT O O
+list$NN O O
+of$IN O O
+movie$NNS O O
+that$IN/that O O
+george$NN B-producer.name B-producer.name
+lucas$NNS I-producer.name I-producer.name
+produce$VVD O O
+EOS O O
+
+BOS O O
+open$JJ O O
+page$NN O O
+for$IN O O
+find$VVG B-movie.name B-movie.name
+nemo$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+be$VBZ O O
+hotel$NN B-movie.name B-movie.name
+transylavania$NN I-movie.name I-movie.name
+good$JJ O O
+for$IN O O
+adult$NNS O O
+EOS O O
+
+BOS O O
+movie$NNS O O
+from$IN O O
+spain$NN B-country.name B-country.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+r$NN B-rating.name B-rating.name
+rate$VVN O O
+movie$NNS O O
+EOS O O
+
+BOS O O
+search$NN O O
+for$IN O O
+movie$NNS O O
+star$VVG O O
+the$DT O O
+singer$NN B-actor.type B-actor.type
+mario$NN B-actor.name B-actor.name
+EOS O O
+
+BOS O O
+who$WP O O
+star$VVD O O
+in$IN O O
+the$DT B-movie.name B-movie.name
+parent$NN I-movie.name I-movie.name
+trap$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+be$VBZ O O
+find$VVG B-movie.name B-movie.name
+nemo$NN I-movie.name I-movie.name
+available$JJ O O
+on$IN O O
+netflix$NN O O
+EOS O O
+
+BOS O O
+how$WRB O O
+much$RB O O
+do$VVD O O
+dark$JJ B-movie.name B-movie.name
+night$NN I-movie.name I-movie.name
+make$VV O O
+at$IN O O
+the$DT O O
+box$NN O O
+office$NN O O
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBD O O
+the$DT O O
+cast$NN O O
+member$NNS O O
+in$IN O O
+the$DT B-movie.name B-movie.name
+hobbist$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+give$VV O O
+me$PP O O
+a$DT O O
+list$NN O O
+of$IN O O
+movie$NNS O O
+that$WDT O O
+discuss$VVP O O
+healthy$JJ B-movie.subject B-movie.subject
+eating$NN I-movie.subject I-movie.subject
+EOS O O
+
+BOS O O
+who$WP O O
+produce$VVD O O
+the$DT O O
+motion$NN O O
+picture$NN O O
+the$DT B-movie.name B-movie.name
+devil$NN I-movie.name I-movie.name
+wear$VVZ I-movie.name I-movie.name
+prada$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+produce$VVD O O
+the$DT O O
+movie$NN O O
+twilight$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+movie$NNS O O
+produce$VVN O O
+by$IN O O
+stephen$NN B-producer.name B-producer.name
+spielberg$NN I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+find$VV O O
+me$PP O O
+trailer$NNS O O
+for$IN O O
+house$NN B-movie.name B-movie.name
+at$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+end$NN I-movie.name I-movie.name
+of$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+street$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+English$JJ B-movie.language B-movie.language
+movie$NNS O O
+EOS O O
+
+BOS O O
+find$VV O O
+movie$NNS O O
+produce$VVN O O
+by$IN O O
+albert$NN B-producer.name B-producer.name
+ruddy$JJ I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBD O O
+the$DT O O
+budget$NN O O
+for$IN O O
+Jurassic$JJ B-movie.name B-movie.name
+park$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+box$NN O O
+office$NN O O
+total$JJ O B-movie.name
+terminator$NN B-movie.name B-movie.name
+2$CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show$NN O O
+information$NN O O
+in$IN O O
+Arabic$JJ B-movie.language B-country.name
+EOS O O
+
+BOS O O
+who$WP O O
+direct$VVD O O
+the$DT O O
+movie$NN O O
+titanic$JJ B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+which$WDT O O
+movie$NNS O O
+be$VBP O O
+rate$VVN O O
+pg-13$NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+please$UH O O
+find$VV O O
+the$DT O O
+release$NN O O
+date$NN O O
+of$IN O O
+heroine$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+list$NN O O
+of$IN O O
+all$DT O O
+dutch$NN B-country.name B-country.name
+movie$NNS O O
+EOS O O
+
+BOS O O
+what$WP O O
+s$VVZ O O
+the$DT O O
+language$NN O O
+of$IN O O
+moscow$NN B-movie.name O
+do$VVZ I-movie.name O
+not$RB I-movie.name O
+believe$VV I-movie.name O
+in$IN I-movie.name O
+tear$NNS I-movie.name O
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBZ O O
+the$DT O O
+producer$NN O O
+EOS O O
+
+BOS O O
+be$VBZ O O
+this$DT O O
+movie$NN O O
+scary$JJ B-movie.genre O
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+know$VV O O
+when$WRB O O
+@card@$CD B-movie.name B-movie.name
+will$MD O O
+be$VB O O
+release$VVN O O
+EOS O O
+
+BOS O O
+find$VV O O
+the$DT O O
+producer$NN O O
+of$IN O O
+go$VVN B-movie.name B-movie.name
+with$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+wind$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+information$NN O O
+on$IN O O
+tom$NN B-person.name B-person.name
+hank$NNS I-person.name I-person.name
+EOS O O
+
+BOS O O
+house$NN O O
+on$IN O O
+mend$NN O O
+street$NN O O
+EOS O O
+
+BOS O O
+how$WRB O O
+much$RB O O
+do$VVD O O
+the$DT O O
+studio$NN O O
+spend$VVP O O
+to$TO O O
+make$VV O O
+avatar$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+star$VVZ O O
+on$IN O O
+the$DT O O
+house$NN B-movie.name B-movie.name
+at$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+end$NN I-movie.name I-movie.name
+of$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+street$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBZ O O
+the$DT O O
+bad$JJS O O
+French$NN B-country.name B-country.name
+film$NN O O
+to$TO O O
+date$NN O O
+EOS O O
+
+BOS O O
+who$WP O O
+direct$VVD O O
+to$TO B-movie.name O
+kill$VV I-movie.name O
+a$DT I-movie.name I-movie.name
+mockingbird$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+language$NN O O
+be$VBZ O O
+the$DT O O
+movie$NN O O
+elling$VVG B-movie.name O
+in$IN O O
+EOS O O
+
+BOS O O
+what$WP O O
+movie$NNS O O
+do$VVD O O
+michael$JJ B-director.name B-director.name
+bay$NN I-director.name I-director.name
+direct$JJ O O
+EOS O O
+
+BOS O O
+what$WP O O
+genre$NN O O
+be$VBZ O O
+looper$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+i$NP O O
+would$MD O O
+like$VV O O
+to$TO O O
+get$VV O O
+name$NNS O O
+of$IN O O
+some$DT O O
+movie$NNS O O
+with$IN O O
+pg$NN B-rating.name B-rating.name
+thirteen$CD I-rating.name I-rating.name
+rating$NN O O
+EOS O O
+
+BOS O O
+where$WRB O O
+can$MD O O
+i$NNS O O
+find$VV O O
+a$DT O O
+list$NN O O
+of$IN O O
+movie$NNS O O
+release$VVD O O
+nine$CD B-movie.release_date B-movie.release_date
+fourteen$NN I-movie.release_date I-movie.release_date
+twenty$CD I-movie.release_date I-movie.release_date
+twelve$NN I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+unique$JJ O O
+car$NNS O B-movie.name
+EOS O O
+
+BOS O O
+get$VV O O
+me$PP O O
+the$DT O O
+name$NN O O
+of$IN O O
+the$DT O O
+actor$NN O O
+what$WP O O
+be$VBD O O
+the$DT B-character.name B-character.name
+dad$NN I-character.name I-character.name
+in$IN O O
+to$TO B-movie.name B-movie.name
+kill$VV I-movie.name I-movie.name
+a$DT I-movie.name I-movie.name
+mockingbird$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+list$NN O O
+movie$NNS O O
+film$VVN O O
+on$IN O O
+france$NN B-movie.subject B-country.name
+EOS O O
+
+BOS O O
+Italian$JJ B-country.name B-country.name
+movie$NNS O O
+EOS O O
+
+BOS O O
+what$WP O O
+do$VVZ O O
+a$DT O O
+movie$NN O O
+have$VHP O O
+if$IN O O
+it$PP O O
+be$VBZ O O
+rate$VVN O O
+r$NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+please$VV O O
+make$VV O O
+a$DT O O
+list$NN O O
+of$IN O O
+all$DT O O
+movie$NNS O O
+brad$NN B-director.name B-actor.name
+pitt$NN I-director.name I-director.name
+direct$VVD O O
+EOS O O
+
+BOS O O
+about$IN O O
+movie$NN O O
+in$IN B-movie.name B-movie.name
+july$RB I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+detail$NN O O
+finding$NN B-movie.name B-movie.name
+nemo$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how$WRB O O
+much$JJ O O
+money$NN O O
+be$VBD O O
+spend$VVN O O
+on$IN O O
+batman$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+produce$VVD O O
+Spaceball$NNS B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+movie$NNS O O
+with$IN O O
+sandra$NN B-actor.name B-actor.name
+bullock$NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+find$VV O O
+movie$NNS O O
+direct$VVN O O
+by$IN O O
+stephen$NN B-director.name B-director.name
+speilberg$NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+what$WP O O
+video$NN O O
+clip$NNS O O
+have$VHP O O
+will$NN B-actor.name B-actor.name
+ferrell$NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBD O O
+the$DT O O
+sheriff$NN B-character.name O
+that$WDT I-character.name O
+have$VHD I-character.name O
+to$TO I-character.name O
+kill$VV I-character.name O
+the$DT I-character.name B-movie.name
+bad$JJ I-character.name I-movie.name
+guy$NN I-character.name I-movie.name
+in$IN O O
+high$JJ B-movie.name O
+noon$NN I-movie.name O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBZ O O
+the$DT O O
+name$NN O O
+of$IN O O
+the$DT O O
+actor$NN O O
+who$WP O O
+be$VBD O O
+in$IN O O
+the$DT B-movie.name B-movie.name
+parent$NN I-movie.name I-movie.name
+trap$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search$NN O O
+by$IN O O
+box-office$NN O O
+rating$NN O O
+EOS O O
+
+BOS O O
+lion$NN B-movie.name B-movie.name
+king$NN I-movie.name I-movie.name
+release$NN O O
+Yr$NN O O
+EOS O O
+
+BOS O O
+pretty$JJ B-movie.name B-movie.name
+girl$NN I-movie.name I-movie.name
+movie$NN O O
+genre$NN O O
+EOS O O
+
+BOS O O
+give$VV O O
+me$PP O O
+some$DT O O
+name$NNS O O
+of$IN O O
+Japanese$JJ B-country.name B-country.name
+movie$NNS O O
+EOS O O
+
+BOS O O
+i$NP O O
+need$NN O O
+information$NN O O
+about$IN O O
+the$DT O O
+cast$NN O O
+review$VVZ O O
+story$NN O I-movie.name
+etc$NN O O
+in$IN O O
+detail$NN O O
+about$IN O O
+the$DT O O
+movie$NN O O
+house$NN B-movie.name B-movie.name
+at$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+end$NN I-movie.name I-movie.name
+of$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+street$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search$NN O O
+for$IN O O
+steven$JJ B-person.name B-person.name
+spielberg$NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+find$VV O O
+all$DT O O
+new$JJ O O
+release$NNS O O
+that$WDT O O
+be$VBP O O
+rate$VVN O O
+g$NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+review$NNS O O
+for$IN O O
+dirty$JJ B-movie.name B-movie.name
+dancing$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+he$PP O O
+get$VVZ O O
+a$DT O O
+job$NN O O
+in$IN O O
+a$DT O O
+big$JJ O B-movie.name
+city$NN O I-movie.name
+EOS O O
+
+BOS O O
+why$WRB O O
+be$VBZ O O
+this$DT O O
+movie$NN O O
+rate$VVN O O
+r$NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBZ O O
+the$DT O O
+producer$NN O O
+of$IN O O
+avatar$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBP O O
+the$DT O O
+top$JJ O O
+rate$VVN O O
+movie$NNS O O
+this$DT B-movie.release_date O
+year$NN I-movie.release_date O
+EOS O O
+
+BOS O O
+which$WDT O O
+movie$NNS O O
+be$VBP O O
+family$NN B-rating.name O
+friendly$JJ I-rating.name O
+EOS O O
+
+BOS O O
+cast$NN O O
+and$CC O O
+crew$NN O O
+for$IN O O
+apollo$NN B-movie.name B-movie.name
+thirteen$CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+in$IN O O
+the$DT O O
+movie$NN O O
+ant$NNS B-movie.name B-movie.name
+who$WP O O
+be$VBZ O O
+the$DT O O
+producer$NN O O
+EOS O O
+
+BOS O O
+what$WP O O
+award$NNS O O
+do$VVD O O
+this$DT O O
+film$NN O O
+receive$VV O O
+EOS O O
+
+BOS O O
+who$WP O O
+produce$VVD O O
+car$NNS B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+movie$NNS O O
+have$VHP O O
+kristen$NN B-actor.name B-actor.name
+stewart$NN I-actor.name I-actor.name
+do$VVN O O
+EOS O O
+
+BOS O O
+who$WP O O
+direct$VVD O O
+the$DT B-movie.name B-movie.name
+sound$NN I-movie.name I-movie.name
+of$IN I-movie.name I-movie.name
+music$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+movie$NNS O O
+from$IN O O
+italy$RB B-country.name B-country.name
+EOS O O
+
+BOS O O
+display$VV O O
+all$DT O O
+result$NNS O O
+for$IN O O
+dirty$JJ B-movie.name B-movie.name
+dancing$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+type$NN O O
+of$IN O O
+movie$NN O O
+be$VBZ O O
+gilda$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+how$WRB O O
+much$RB O O
+be$VBD O O
+generate$VVN O O
+from$IN O O
+the$DT O O
+movie$NN O O
+the$DT B-movie.name B-movie.name
+help$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+which$WDT O O
+movie$NN O O
+be$VBD O O
+produce$VVN O O
+by$IN O O
+albert$NN B-producer.name B-producer.name
+rudy$NN I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+cast$VVN O O
+of$IN O O
+dirty$JJ B-movie.name B-movie.name
+dancing$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+look$VV O O
+for$IN O O
+the$DT O O
+director$NN O O
+of$IN O O
+freedom$NN B-movie.name B-movie.name
+writer$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+give$VV O O
+me$PP O O
+name$NNS O O
+of$IN O O
+some$DT O O
+movie$NNS O O
+have$VHG O O
+pg$NN B-rating.name B-rating.name
+thirteen$CD I-rating.name I-rating.name
+rating$NN O O
+EOS O O
+
+BOS O O
+need$VVP O O
+to$TO O O
+provide$VV O O
+more$JJR O O
+info$NN O O
+about$IN O O
+the$DT O O
+movie$NN O O
+content$NN O O
+EOS O O
+
+BOS O O
+how$WRB O O
+much$RB O O
+be$VBD O O
+it$PP O O
+to$TO O O
+make$VV O O
+the$DT O O
+film$NN O O
+batman$NN B-movie.name B-movie.name
+begin$VVZ I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+locate$VV O O
+all$DT O O
+movie$NNS O O
+produce$VVN O O
+by$IN O O
+george$NN B-producer.name B-producer.name
+lucas$NNS I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+find$VV O O
+more$JJR O O
+movie$NNS O O
+like$IN O O
+life$NN B-movie.name B-movie.name
+be$VBZ I-movie.name I-movie.name
+beautiful$JJ I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+when$WRB O O
+be$VBD O O
+avatar$NN B-movie.name B-movie.name
+release$VVN O O
+EOS O O
+
+BOS O O
+find$VV O O
+cast$NN O O
+and$CC O O
+crew$NN O O
+for$IN O O
+dirty$JJ B-movie.name B-movie.name
+dancing$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how$WRB O O
+expensive$JJ O O
+be$VBD O O
+it$PP O O
+to$TO O O
+make$VV O O
+looper$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+do$VVZ O O
+the$DT O O
+flag$NN O O
+of$IN O O
+japan$JJ B-country.name B-country.name
+look$NN O O
+like$IN O O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBP O O
+the$DT O O
+logo$NNS O O
+for$IN O O
+popular$JJ O O
+production$NN O O
+company$NNS O O
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+high$RB O O
+gross$VVG O O
+movie$NNS O O
+EOS O O
+
+BOS O O
+what$WP O O
+audience$NN O O
+will$MD O O
+watch$VV O O
+black$JJ B-movie.name B-movie.name
+swan$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+produce$VVD O O
+avatar$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+the$DT O O
+film$NN O O
+rating$NN O O
+for$IN O O
+avenger$NNS I-movie.name B-movie.name
+EOS O O
+
+BOS O O
+when$WRB O O
+the$DT O O
+movie$NN O O
+top$JJ B-movie.name B-movie.name
+gun$NN I-movie.name I-movie.name
+be$VBD O O
+release$VVN O O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBP O O
+the$DT O O
+review$NNS O O
+for$IN O O
+find$VVG B-movie.name B-movie.name
+nemo$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can$MD O O
+i$NP O O
+have$VHP O O
+a$DT O O
+list$NN O O
+of$IN O O
+producer$NNS O O
+EOS O O
+
+BOS O O
+what$WP O O
+movie$NNS O O
+discuss$VVP O O
+time$NN B-movie.subject B-movie.subject
+travel$NN I-movie.subject I-movie.subject
+EOS O O
+
+BOS O O
+get$VV O O
+list$NN O O
+of$IN O O
+zombie$NN B-movie.subject B-movie.subject
+movie$NNS O O
+EOS O O
+
+BOS O O
+kareena$NP B-actor.name B-actor.name
+'s$POS O O
+movie$NNS O O
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBZ O O
+will$NN B-person.name B-person.name
+ferrell$NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+what$WP O O
+film$NNS O O
+have$VHZ O O
+robert$JJ B-director.name B-director.name
+redford$NNS I-director.name I-director.name
+direct$VVD O O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBD O O
+man$NNS B-movie.name B-movie.name
+in$IN I-movie.name I-movie.name
+black$JJ I-movie.name I-movie.name
+3$CD I-movie.name I-movie.name
+'s$POS O O
+revenue$NN O O
+EOS O O
+
+BOS O O
+i$NNS O O
+be$VBP O O
+look$VVG O O
+for$IN O O
+a$DT O O
+map$NN O O
+of$IN O O
+britain$NN B-country.name B-country.name
+EOS O O
+
+BOS O O
+search$NN O O
+by$IN O O
+producer$NN O O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBZ O O
+the$DT O O
+plot$NN O O
+of$IN O O
+vulgaria$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+make$VVD O O
+et$NP B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+how$WRB O O
+many$JJ O O
+movie$NNS O O
+have$VHZ O O
+woody$JJ B-director.name B-director.name
+allen$NN I-director.name I-director.name
+direct$VVD O O
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+get$VV O O
+me$PP O O
+a$DT O O
+pg$NN B-rating.name B-rating.name
+movie$NN O O
+list$NN O O
+EOS O O
+
+BOS O O
+what$WP O O
+new$JJ O O
+movie$NNS O O
+do$VVZ O O
+lionsgate$NNS B-producer.name B-producer.name
+have$VHP O I-producer.name
+out$RB O O
+EOS O O
+
+BOS O O
+albery$NN O O
+death$NN O B-movie.name
+Yr$NN O O
+EOS O O
+
+BOS O O
+movie$NNS O O
+come$VVG O O
+to$TO O O
+theatre$NNS O O
+soon$RB O O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBZ O O
+the$DT O O
+synopsis$NN O O
+of$IN O O
+life$NN B-movie.name B-movie.name
+be$VBZ I-movie.name I-movie.name
+beatiful$JJ O I-movie.name
+EOS O O
+
+BOS O O
+search$NN O O
+for$IN O O
+the$DT O O
+name$NN O O
+of$IN O O
+the$DT O O
+director$NN O O
+of$IN O O
+return$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+get$VV O O
+me$PP O O
+info$NN O O
+on$IN O O
+the$DT O O
+budget$NN O O
+for$IN O O
+avatar$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+some$DT O O
+war$NN B-movie.subject B-movie.subject
+them$VVN O O
+movie$NNS O O
+EOS O O
+
+BOS O O
+show$NN O O
+page$NN O O
+for$IN O O
+moview$NN O B-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+direct$VVD O O
+star$NN B-movie.name B-movie.name
+war$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+film$VVD O O
+the$DT B-movie.name B-movie.name
+dark$JJ I-movie.name I-movie.name
+knight$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+please$VV O O
+show$VV O O
+me$PP O O
+who$WP O O
+produce$VVZ O O
+madagascar$NN B-movie.name O
+EOS O O
+
+BOS O O
+exhibit$VV O O
+all$DT O O
+relevant$JJ O O
+information$NN O O
+about$IN O O
+the$DT O O
+director$NN O O
+steven$JJ B-person.name B-person.name
+spielberg$NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBD O O
+the$DT O O
+female$JJ O O
+lead$NN O O
+in$IN O O
+resident$JJ B-movie.name B-movie.name
+evil$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find$VV O O
+sandra$NN B-actor.name B-actor.name
+bullock$NN I-actor.name I-actor.name
+'s$POS O O
+late$JJS O O
+movie$NN O O
+EOS O O
+
+BOS O O
+brad$NN B-actor.name B-actor.name
+pitt$NN I-actor.name I-actor.name
+popular$JJ O O
+movie$NNS O O
+EOS O O
+
+BOS O O
+dark$JJ B-movie.name B-movie.name
+knight$NN I-movie.name I-movie.name
+revenue$NN O O
+EOS O O
+
+BOS O O
+get$VV O O
+Hungarian$JJ B-country.name B-country.name
+film$NNS O O
+EOS O O
+
+BOS O O
+movie$NNS O O
+with$IN O O
+pg$NN B-rating.name B-rating.name
+rating$NN O O
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+the$DT O O
+late$JJS O O
+movie$NNS O O
+in$IN O O
+malayalam$NN B-movie.language B-movie.release_region
+EOS O O
+
+BOS O O
+who$WP O O
+star$VVD O O
+in$IN O O
+three$CD B-movie.name B-movie.name
+'s$POS I-movie.name I-movie.name
+company$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+preview$NN O O
+paramount$JJ B-producer.name B-producer.name
+picture$NNS I-producer.name I-producer.name
+clip$NNS O O
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+tell$VV O O
+me$PP O O
+what$WDT O O
+genre$NN O O
+the$DT O O
+movie$NN O O
+avatar$NN B-movie.name B-movie.name
+fall$VVZ O I-movie.name
+in$IN O O
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+more$JJR O O
+detail$NNS O O
+for$IN O O
+the$DT O O
+movie$NN O O
+dirty$JJ B-movie.name B-movie.name
+dancing$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+date$NN O O
+do$VVZ O O
+omg$JJ B-movie.name B-movie.name
+oh$UH I-movie.name I-movie.name
+my$PP$ I-movie.name I-movie.name
+god$NN I-movie.name I-movie.name
+!$SENT I-movie.name I-movie.name
+come$VVN O O
+out$RP O O
+EOS O O
+
+BOS O O
+find$VV O O
+release$NN O O
+date$NN O O
+for$IN O O
+karate$NN B-movie.name B-movie.name
+kid$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+want$VV O O
+page$NN O O
+EOS O O
+
+BOS O O
+i$NP O O
+would$MD O O
+like$VV O O
+a$DT O O
+list$NN O O
+of$IN O O
+paramount$JJ B-producer.name B-producer.name
+movie$NNS O O
+EOS O O
+
+BOS O O
+where$WRB O O
+be$VBZ O O
+house$NN B-movie.name B-movie.name
+at$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+end$NN I-movie.name I-movie.name
+of$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+street$NN I-movie.name I-movie.name
+playing$NN O O
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+see$VV O O
+more$JJR O O
+movie$NNS O O
+with$IN O O
+Katie$NP B-actor.name B-actor.name
+Holmes$NP I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+what$WP O O
+have$VHZ O O
+will$NN B-actor.name B-actor.name
+ferrell$NN I-actor.name I-actor.name
+do$VVN O O
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+movie$NNS O O
+in$IN O O
+English$NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+director$NN O O
+of$IN O O
+the$DT O O
+movie$NN O O
+hum$NN B-movie.name B-movie.name
+tum$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+when$WRB O O
+do$VVD O O
+harry$VV B-movie.name B-movie.name
+potter$NN I-movie.name I-movie.name
+come$VV O O
+out$RP O O
+EOS O O
+
+BOS O O
+list$NN O O
+tom$NN B-actor.name B-actor.name
+hank$VVZ I-actor.name I-actor.name
+movie$NNS O O
+for$IN O O
+me$PP O O
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBZ O O
+in$IN O O
+the$DT O O
+movie$NN O O
+two$CD B-movie.name O
+can$MD I-movie.name O
+play$VV I-movie.name O
+that$DT I-movie.name O
+game$NN I-movie.name O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBZ O O
+the$DT O O
+genre$NN O O
+for$IN O O
+movie$NN O O
+EOS O O
+
+BOS O O
+who$WP O O
+produce$VVD O O
+the$DT O O
+movie$NN O O
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+who$WP O O
+direct$VVD O O
+cabin$NN B-movie.name B-movie.name
+in$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+wood$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+bald$JJ O O
+male$JJ O O
+actor$NNS O O
+EOS O O
+
+BOS O O
+find$VV O O
+the$DT O O
+director$NN O O
+of$IN O O
+step$NN B-movie.name B-movie.name
+up$RB I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+make$VVD O O
+the$DT O O
+movie$NN O O
+field$NN B-movie.name B-movie.name
+of$IN I-movie.name I-movie.name
+dream$NNS I-movie.name I-movie.name
+possible$JJ O O
+EOS O O
+
+BOS O O
+what$WP O O
+upcoming$JJ B-movie.release_date B-movie.release_date
+movie$NNS O O
+be$VBP O O
+they$PP O O
+produce$VVG O O
+EOS O O
+
+BOS O O
+funny$JJ O B-movie.genre
+scary$JJ B-movie.genre B-movie.genre
+movie$NNS O O
+EOS O O
+
+BOS O O
+how$WRB O O
+can$MD O O
+i$NNS O O
+view$VV O O
+dirty$JJ B-movie.name B-movie.name
+dancing$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+search$NN O O
+movie$NNS O O
+in$IN O O
+which$WDT O O
+halle$NN B-actor.name B-actor.name
+berry$NN I-actor.name I-actor.name
+act$VVD O O
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+movie$NNS O O
+with$IN O O
+a$DT O O
+four$CD B-movie.star_rating O
+star$NN O O
+rating$NN O O
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+hathaway$NN B-actor.name O
+'s$POS O O
+recent$JJ O O
+movie$NNS O O
+EOS O O
+
+BOS O O
+i$NNS O O
+need$VVP O O
+to$TO O O
+know$VV O O
+where$WRB O O
+trainspotting$NN B-movie.name O
+come$VVZ O O
+from$IN O O
+EOS O O
+
+BOS O O
+show$NN O O
+brad$NN B-actor.name B-actor.name
+pitt$NN I-actor.name I-actor.name
+movie$NNS O O
+with$IN O O
+angelina$NN B-actor.name B-actor.name
+jolie$NN I-actor.name I-actor.name
+as$IN O O
+actress$NN O O
+EOS O O
+
+BOS O O
+i$NP O O
+will$MD O O
+like$VV O O
+to$TO O O
+see$VV O O
+the$DT O O
+film$NN O O
+that$WDT O O
+make$VVD O O
+over$IN B-movie.gross_revenue B-movie.gross_revenue
+twenty$CD I-movie.gross_revenue I-movie.gross_revenue
+million$CD I-movie.gross_revenue I-movie.gross_revenue
+dollar$NNS I-movie.gross_revenue I-movie.gross_revenue
+EOS O O
+
+BOS O O
+movie$NN O O
+make$VVD O O
+EOS O O
+
+BOS O O
+how$WRB O O
+many$JJ O O
+movie$NNS O O
+do$VVD O O
+scorsese$NN B-director.name B-director.name
+direct$JJ O O
+EOS O O
+
+BOS O O
+the$DT O O
+movie$NN O O
+gilda$NN B-movie.name B-movie.name
+director$NN O O
+EOS O O
+
+BOS O O
+list$NN O O
+movie$NN O O
+rating$NNS O O
+for$IN O O
+us$PP B-country.name B-country.name
+movie$NN O O
+looper$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+please$UH O O
+tell$VV O O
+me$PP O O
+about$IN O O
+movie$NNS O O
+from$IN O O
+the$DT B-country.name B-movie.location
+usa$NN I-country.name I-movie.location
+EOS O O
+
+BOS O O
+what$WP O O
+movie$NNS O O
+be$VBP O O
+film$VVN O O
+about$IN O O
+Asia$NN B-movie.subject B-movie.location
+EOS O O
+
+BOS O O
+movie$NNS O O
+from$IN O O
+russia$NN B-country.name B-country.name
+EOS O O
+
+BOS O O
+if$IN O O
+you$PP O O
+werent$NN O O
+the$DT O O
+director$NN O O
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+watch$VV O O
+movie$NNS O O
+with$IN O O
+brad$NN B-actor.name B-actor.name
+pitt$NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+get$VV O O
+me$PP O O
+star$NN B-movie.name B-movie.name
+war$NNS I-movie.name I-movie.name
+director$NN O O
+EOS O O
+
+BOS O O
+how$WRB O O
+much$JJ O O
+money$NN O O
+do$VVD O O
+end$NN B-movie.name B-movie.name
+of$IN I-movie.name I-movie.name
+watch$NN I-movie.name I-movie.name
+make$VVP O O
+in$IN O O
+theater$NNS O O
+EOS O O
+
+BOS O O
+when$WRB O O
+be$VBD O O
+black$JJ B-movie.name B-movie.name
+swan$NN I-movie.name I-movie.name
+in$IN O O
+the$DT O O
+theatre$NN O O
+EOS O O
+
+BOS O O
+genre$NN O O
+for$IN O O
+while$IN B-movie.name B-movie.name
+you$PP I-movie.name I-movie.name
+be$VBD I-movie.name I-movie.name
+sleep$VVG I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBZ O O
+the$DT O O
+realase$NN O O
+date$NN O O
+for$IN O O
+harry$VV B-movie.name B-movie.name
+potter$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+movie$NNS O O
+be$VBD O O
+release$VVN O O
+on$IN O O
+nine$CD B-movie.release_date B-movie.release_date
+twenty$CD I-movie.release_date I-movie.release_date
+one$CD I-movie.release_date I-movie.release_date
+twelve$NN I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+locate$VV O O
+movie$NNS O O
+produce$VVN O O
+by$IN O O
+clint$NN B-producer.name B-producer.name
+eastwood$NN I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+i$NNS O O
+be$VBP O O
+look$VVG O O
+for$IN O O
+the$DT O O
+cost$NN O O
+of$IN O O
+some$DT O O
+movie$NNS O O
+EOS O O
+
+BOS O O
+find$VV O O
+me$PP O O
+movie$NNS O O
+by$IN O O
+jj$NN B-director.name B-producer.name
+abrams$NNS I-director.name I-producer.name
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+find$VV O O
+me$PP O O
+only$JJ O O
+movie$NNS O O
+that$WDT O O
+gross$VVD O O
+three$CD B-movie.gross_revenue B-movie.gross_revenue
+million$CD I-movie.gross_revenue I-movie.gross_revenue
+or$CC I-movie.gross_revenue O
+more$JJR I-movie.gross_revenue O
+EOS O O
+
+BOS O O
+be$VBP O O
+there$RB O O
+any$DT O O
+movie$NNS O O
+in$IN O O
+Greek$NN B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+zombie$NNS O B-movie.subject
+info$NN O O
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBD O O
+the$DT O O
+box$NN O O
+office$NN O O
+sale$NNS O O
+for$IN O O
+looper$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+i$NNS O O
+be$VBP O O
+look$VVG O O
+for$IN O O
+movie$NNS O O
+direct$VVN O O
+by$IN O O
+tom$NN B-director.name B-director.name
+hank$NNS I-director.name I-director.name
+EOS O O
+
+BOS O O
+list$NN O O
+release$NN O O
+date$NNS O O
+for$IN O O
+all$DT O O
+horror$NN B-movie.genre B-movie.genre
+movie$NNS O O
+between$IN B-movie.release_date O
+@card@$CD I-movie.release_date B-movie.release_date
+and$CC I-movie.release_date O
+@card@$CD I-movie.release_date I-movie.subject
+EOS O O
+
+BOS O O
+what$WP O O
+genre$NN O O
+be$VBZ O O
+the$DT O O
+movie$NN O O
+lawless$JJ B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+movie$NNS O O
+do$VVD O O
+disney$RB B-producer.name O
+produce$VV O O
+in$IN O O
+@card@$CD B-movie.release_date B-movie.release_date
+EOS O O
+
+BOS O O
+tom$NN B-actor.name B-actor.name
+hank$NNS I-actor.name I-actor.name
+movie$NNS O O
+EOS O O
+
+BOS O O
+synopsis$NN O O
+for$IN O O
+in$IN B-movie.name B-movie.name
+July$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+look$NN O O
+for$IN O O
+movie$NNS O O
+produce$VVN O O
+by$IN O O
+morgan$NN B-producer.name B-producer.name
+freeman$NN I-producer.name I-producer.name
+EOS O O
+
+BOS O O
+do$VVD O O
+alfred$NN B-director.name B-director.name
+hitchcock$NN I-director.name I-director.name
+direct$VV O O
+a$DT O O
+comedy$NN B-movie.genre B-movie.genre
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+know$VV O O
+who$WP O O
+be$VBD O O
+the$DT O O
+director$NN O O
+of$IN O O
+the$DT O O
+movie$NN O O
+star$NN B-movie.name B-movie.name
+war$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBZ O O
+the$DT O O
+origin$NN O O
+country$NN O O
+of$IN O O
+mirror$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+director$NN O O
+of$IN O O
+the$DT B-movie.name B-movie.name
+avenger$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+direct$VVD O O
+find$VVG B-movie.name B-movie.name
+nemo$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+do$VVZ O O
+a$DT O O
+r$NN B-rating.name B-rating.name
+rating$NN O O
+mean$NN O O
+EOS O O
+
+BOS O O
+which$WDT O O
+movie$NNS O O
+do$VVZ O O
+gabrielle$NN B-actor.name O
+union$NN I-actor.name O
+come$VVN O O
+out$RP O O
+in$IN O O
+EOS O O
+
+BOS O O
+i$NNS O O
+be$VBP O O
+look$VVG O O
+for$IN O O
+a$DT O O
+Jason$NP B-director.name O
+cortlund$NP I-director.name O
+movie$NN O O
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+see$VV O O
+g-rated$JJ O B-rating.name
+film$NNS O O
+now$RB O O
+EOS O O
+
+BOS O O
+find$VV O O
+movie$NNS O O
+from$IN O O
+canada$NN B-country.name B-country.name
+EOS O O
+
+BOS O O
+be$VBP O O
+there$RB O O
+any$DT O O
+French$JJ B-country.name B-movie.language
+film$NNS O O
+show$VVG O O
+EOS O O
+
+BOS O O
+who$WP O O
+direct$VVD O O
+star$NN B-movie.name B-movie.name
+war$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+know$VV O O
+the$DT O O
+avatar$NN B-movie.name B-movie.name
+'s$POS O O
+budget$NN O O
+EOS O O
+
+BOS O O
+what$WP O O
+age$NN O O
+be$VBZ O O
+marley$JJ B-movie.name B-movie.name
+and$CC I-movie.name I-movie.name
+me$PP I-movie.name O
+appropriate$VVP O O
+EOS O O
+
+BOS O O
+director$NN O O
+of$IN O O
+twilight$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBP O O
+these$DT O O
+director$NNS O O
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+find$VV O O
+the$DT O O
+movie$NNS O O
+with$IN O O
+Korean$JJ B-movie.language B-movie.language
+language$NN I-movie.language I-movie.language
+EOS O O
+
+BOS O O
+list$NN O O
+of$IN O O
+movie$NNS O O
+direct$VVN O O
+by$IN O O
+john$NN B-director.name B-director.name
+paul$NNS I-director.name I-director.name
+EOS O O
+
+BOS O O
+who$WP O O
+make$VVD O O
+the$DT O O
+movie$NN O O
+avatar$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+country$NN O O
+be$VBZ O O
+godzilla$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+find$VV O O
+some$DT O O
+suspenseful$JJ B-movie.genre O
+movie$NNS O O
+EOS O O
+
+BOS O O
+find$VV O O
+war$NN B-movie.subject B-movie.subject
+movie$NNS O O
+rate$VVN O O
+r$NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+how$WRB O O
+can$MD O O
+a$DT O O
+movie$NN O O
+be$VB O O
+nr$NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+what$WP O O
+be$VBP O O
+some$DT O O
+film$NNS O O
+will$MD B-actor.name B-actor.name
+ferrell$VV I-actor.name I-actor.name
+star$VVN O O
+in$IN O O
+EOS O O
+
+BOS O O
+movie$NN O O
+type$NN O O
+EOS O O
+
+BOS O O
+i$NNS O O
+want$VVP O O
+to$TO O O
+search$VV O O
+for$IN O O
+alfred$NN B-director.name B-director.name
+hitchcock$NN I-director.name I-director.name
+movie$NNS O O
+EOS O O
+
+BOS O O
+show$NN O O
+movie$NNS O O
+direct$VVN O O
+by$IN O O
+Greenberg$NP B-director.name O
+EOS O O
+
+BOS O O
+when$WRB O O
+be$VBD O O
+life$NN B-movie.name B-movie.name
+be$VBZ I-movie.name I-movie.name
+beautiful$JJ I-movie.name I-movie.name
+release$VVD O O
+EOS O O
+
+BOS O O
+movie$NNS O O
+rate$VVD O O
+pg$NN B-rating.name B-rating.name
+EOS O O
+
+BOS O O
+search$NN O O
+for$IN O O
+movie$NNS O O
+about$IN O O
+hair$NN B-movie.subject B-movie.subject
+EOS O O
+
+BOS O O
+what$WP O O
+do$VVZ O O
+stephen$NN B-person.name B-director.name
+spielberg$NNS I-person.name I-director.name
+look$VVP O O
+like$IN O O
+EOS O O
+
+BOS O O
+find$VVG B-movie.name B-movie.name
+nemo$NN I-movie.name I-movie.name
+detail$NNS O O
+please$VVP O O
+EOS O O
+
+BOS O O
+find$VV O O
+movie$NNS O O
+by$IN O O
+producer$NN O O
+EOS O O
+
+BOS O O
+how$WRB O O
+many$JJ O O
+movie$NNS O O
+be$VBD O O
+release$VVN O O
+on$IN O O
+nine$CD B-movie.release_date B-movie.release_date
+twenty$CD I-movie.release_date I-movie.release_date
+eight$CD I-movie.release_date I-movie.release_date
+twelve$NN I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+find$VV O O
+pirate$NNS B-movie.name O
+of$IN I-movie.name O
+the$DT I-movie.name B-movie.name
+caribean$NN I-movie.name I-movie.name
+in$IN O O
+French$NNS B-movie.language B-movie.language
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBZ O O
+list$VVN O O
+as$IN O O
+producer$NN O O
+of$IN O O
+grease$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+movie$NNS O O
+from$IN O O
+the$DT B-country.name B-country.name
+us$PP I-country.name I-country.name
+EOS O O
+
+BOS O O
+I$PP O O
+will$MD O O
+like$VV O O
+a$DT O O
+list$NN O O
+of$IN O O
+Spanish$JJ B-movie.language B-movie.language
+movie$NNS O O
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+please$VV O O
+list$NN O O
+all$DT O O
+movie$NNS O O
+with$IN O O
+brad$NN B-actor.name B-actor.name
+pitt$NN I-actor.name I-actor.name
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+tell$VV O O
+me$PP O O
+which$WDT O O
+country$NN O O
+the$DT O O
+movie$NN O O
+kati$NN B-movie.name B-movie.name
+patang$NN I-movie.name I-movie.name
+come$VVZ O O
+from$IN O O
+EOS O O
+
+BOS O O
+movie$NNS O O
+of$IN O O
+karan$NN B-director.name B-director.name
+johar$NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+the$DT O O
+rating$NN O O
+for$IN O O
+the$DT O O
+movie$NN O O
+the$DT B-movie.name B-movie.name
+lord$NN I-movie.name I-movie.name
+of$IN I-movie.name I-movie.name
+ring$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+do$VVZ O O
+nr$NN B-rating.name B-rating.name
+stand$VV O O
+for$IN O O
+EOS O O
+
+BOS O O
+will$NN B-actor.name B-actor.name
+ferrell$NN I-actor.name I-actor.name
+be$VBN O O
+in$IN O O
+EOS O O
+
+BOS O O
+who$WP O O
+be$VBD O O
+the$DT O O
+producer$NN O O
+for$IN O O
+the$DT O O
+movie$NN O O
+hitch$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+do$VV O O
+you$PP O O
+have$VHP O O
+anything$NN O O
+by$IN O O
+george$NN B-director.name B-director.name
+cukor$NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+who$WP O O
+play$VVD O O
+the$DT B-character.name O
+mother$NN I-character.name I-character.name
+in$IN O O
+steel$NN B-movie.name B-movie.name
+magnolia$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find$VV O O
+French$JJ B-movie.language B-movie.language
+language$NN I-movie.language I-movie.language
+movie$NNS O O
+EOS O O
+
+BOS O O
+i$NNS O O
+be$VBP O O
+interested$JJ O O
+in$IN O O
+find$VVG O O
+out$RP O O
+the$DT O O
+budget$NN O O
+for$IN O O
+cabin$NN I-movie.name I-movie.name
+in$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+wood$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+find$VV O O
+historical$JJ B-movie.genre B-movie.genre
+movie$NNS O O
+EOS O O
+
+BOS O O
+healing$NN O O
+plant$NNS O O
+EOS O O
+
+BOS O O
+who$WP O O
+play$VVD O O
+guido$NN B-character.name O
+in$IN O O
+life$NN B-movie.name B-movie.name
+be$VBZ I-movie.name I-movie.name
+beautiful$JJ I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+how$WRB O O
+much$RB O O
+do$VVD O O
+it$PP O O
+cost$VVD O O
+to$TO O O
+make$VV O O
+Jurassic$JJ B-movie.name B-movie.name
+park$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+rocky$JJ B-movie.name B-movie.name
+2$CD O I-movie.name
+actor$NN O O
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+flag$NNS O O
+of$IN O O
+the$DT O O
+world$NN O O
+EOS O O
+
+BOS O O
+what$WP O O
+country$NN O O
+produce$VVD O O
+the$DT O O
+movie$NN O O
+mirror$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+watch$VV O O
+tom$NN B-actor.name B-person.name
+hank$NNS I-actor.name I-person.name
+EOS O O
+
+BOS O O
+i$NNS O O
+be$VBP O O
+interested$JJ O O
+in$IN O O
+the$DT O O
+genre$NN O O
+for$IN O O
+@card@$CD B-movie.name B-movie.name
+word$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+please$VV O O
+search$NN O O
+for$IN O O
+movie$NNS O O
+by$IN O O
+steven$JJ B-director.name B-director.name
+spielberg$NN I-director.name I-director.name
+EOS O O
+
+BOS O O
+who$WP O O
+direct$VVD O O
+soul$NN B-movie.name O
+surfer$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+when$WRB O O
+will$MD O O
+paranormal$JJ B-movie.name B-movie.name
+activity$NN I-movie.name O
+be$VB O O
+release$VVN O O
+EOS O O
+
+BOS O O
+show$VV O O
+all$DT O O
+brad$NN B-actor.name B-actor.name
+pitt$NN I-actor.name I-actor.name
+movie$NNS O O
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+all$DT O O
+movie$NNS O O
+tom$NN B-actor.name B-actor.name
+cruise$NN I-actor.name I-actor.name
+have$VHZ O O
+be$VBN O O
+in$IN O O
+EOS O O
+
+BOS O O
+find$VV O O
+dreamworks$NN B-producer.name B-producer.name
+movie$NNS O O
+from$IN O O
+twenty$CD B-movie.release_date B-movie.release_date
+ten$CD I-movie.release_date O
+EOS O O
+
+BOS O O
+can$MD O O
+you$PP O O
+tell$VV O O
+me$PP O O
+which$WDT O O
+country$NN O O
+do$VVZ O O
+thoda$NN B-movie.name B-movie.name
+pyaar$NN I-movie.name I-movie.name
+thoda$NN I-movie.name I-movie.name
+magic$NN I-movie.name I-movie.name
+belong$VVZ O O
+to$TO O O
+EOS O O
+
+BOS O O
+lionsgate$NN B-producer.name B-producer.name
+film$NNS O O
+EOS O O
+
+BOS O O
+r$SYM B-rating.name B-rating.name
+info$NN O O
+EOS O O
+
+BOS O O
+find$VV O O
+me$PP O O
+Tamil$NN B-movie.language B-movie.language
+movie$NNS O O
+EOS O O
+
+BOS O O
+review$NNS O O
+of$IN O O
+star$NN B-movie.name B-movie.name
+war$NNS I-movie.name I-movie.name
+four$CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+get$VV O O
+movie$NN O O
+information$NN O O
+for$IN O O
+lionsgate$NNS B-producer.name B-producer.name
+EOS O O
+
+BOS O O
+show$VV O O
+me$PP O O
+the$DT O O
+name$NN O O
+of$IN O O
+the$DT O O
+producer$NN O O
+of$IN O O
+the$DT O O
+movie$NN O O
+avatar$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+search$NN O O
+for$IN O O
+the$DT O O
+budget$NN O O
+of$IN O O
+return$NN B-movie.name B-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+movie$NNS O O
+where$WRB O O
+release$VVN O O
+in$IN O O
+Aug$NN B-movie.release_date O
+of$IN I-movie.release_date O
+twenty$CD I-movie.release_date B-movie.release_date
+eleven$NN I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+what$WP O O
+character$NN O O
+do$VVD O O
+tom$NN B-actor.name B-actor.name
+hank$NNS I-actor.name I-actor.name
+play$VVP O O
+in$IN O O
+apollo$NN B-movie.name B-movie.name
+thirteen$CD I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+see$VV O O
+image$NNS O O
+of$IN O O
+steven$JJ B-person.name B-person.name
+spielberg$NN I-person.name I-person.name
+EOS O O
+
+BOS O O
+search$NN O O
+for$IN O O
+eighty$NNS B-movie.release_date O
+movie$NNS O O
+EOS O O
+
+BOS O O
+what$WP O O
+zombie$NN B-movie.subject B-movie.subject
+movie$NNS O O
+be$VBP O O
+schedule$VVN O O
+for$IN O I-movie.language
+release$NN O O
+in$IN O O
+twenty$CD B-movie.release_date B-movie.release_date
+thirteen$CD I-movie.release_date I-movie.release_date
+EOS O O
+
+BOS O O
+find$VV O O
+ron$VVG B-director.name O
+howard$JJ I-director.name B-producer.name
+new$JJ O O
+movie$NN O O
+EOS O O
+
+BOS O O
+cast$NN O O
+and$CC O O
+crew$NN O O
+for$IN O O
+house$NN B-movie.name B-movie.name
+at$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+end$NN I-movie.name I-movie.name
+of$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+street$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+what$WP O O
+other$JJ O O
+movie$NNS O O
+die$VVP O O
+charles$NNS B-director.name B-director.name
+vidor$VVP I-director.name I-director.name
+direct$JJ O O
+EOS O O
+
+BOS O O
+search$NN O O
+for$IN O O
+the$DT O O
+cast$NN O O
+and$CC O O
+crew$NN O O
+for$IN O O
+the$DT O O
+movie$NN O O
+dirty$JJ B-movie.name B-movie.name
+dancing$NN I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+who$WP O O
+direct$VVD O O
+the$DT O O
+movie$NN O O
+cabin$NN I-movie.name B-movie.name
+in$IN I-movie.name I-movie.name
+the$DT I-movie.name I-movie.name
+wood$NNS I-movie.name I-movie.name
+EOS O O
+
+BOS O O
+rate$NN O O
+r$SYM B-rating.name B-rating.name
+movie$NNS O O
+for$IN B-rating.name O
+adult$JJ I-rating.name O
+enterainment$NN I-rating.name O
+EOS O O
+
+BOS O O
+be$VBZ O O
+this$DT O O
+a$DT O O
+foreign$JJ O O
+film$NN O O
+EOS O O
+

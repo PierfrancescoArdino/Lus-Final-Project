@@ -1,0 +1,9 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Elkan(2008)}]{elkan2008log}
+Charles Elkan. 2008.
+\newblock Log-linear models and conditional random fields.
+\newblock {\em Tutorial notes at CIKM\/} 8:1--12.
+
+\end{thebibliography}
